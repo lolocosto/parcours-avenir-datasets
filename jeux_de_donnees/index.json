@@ -2,6 +2,28 @@
   "version": "1.0",
   "datasets": [
     {
+      "filename": "rennes_metropole_scolaire_2026-03-02.json",
+      "nom": "Rennes Métropole — scolaire",
+      "typeRecherche": "geo",
+      "dateExtraction": "2026-03-02T23:22:50.007Z",
+      "dateUpload": "2026-03-02T23:22:52.672Z",
+      "appVersion": "0.64",
+      "stats": {
+        "etablissements": 45,
+        "diplomes": 93,
+        "diplomes_par_etablissement": 204,
+        "dispositifs": 14,
+        "dispositifs_par_etablissement": 63,
+        "options_2nde_gt": 53,
+        "options_2nde_gt_par_etablissement": 161,
+        "specialites_1ereG": 21,
+        "specialites_1ereG_par_etablissement": 198,
+        "diplomes_apprentissage": 0,
+        "diplomes_apprentissage_par_etablissement": 0,
+        "langues": 0
+      }
+    },
+    {
       "filename": "7_diplomes_21_2026-03-02.json",
       "nom": "7 diplômes — 21",
       "typeRecherche": "diplomes",
@@ -68,5 +90,5 @@
       }
     }
   ],
-  "lastModified": "2026-03-02T23:07:04.178Z"
+  "lastModified": "2026-03-02T23:22:53.037Z"
 }
