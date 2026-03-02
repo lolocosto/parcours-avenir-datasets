@@ -66,29 +66,7 @@
         "diplomes_apprentissage_par_etablissement": 115,
         "langues": 0
       }
-    },
-    {
-      "filename": "redon_-_scolaire_-_2026_2026-03-02.json",
-      "nom": "Redon - scolaire - 2026",
-      "typeRecherche": "geo",
-      "dateExtraction": "2026-03-02T21:46:56.477Z",
-      "dateUpload": "2026-03-02T21:46:58.063Z",
-      "appVersion": "0.63",
-      "stats": {
-        "etablissements": 8,
-        "diplomes": 40,
-        "diplomes_par_etablissement": 47,
-        "dispositifs": 6,
-        "dispositifs_par_etablissement": 10,
-        "options_2nde_gt": 18,
-        "options_2nde_gt_par_etablissement": 24,
-        "specialites_1ereG": 12,
-        "specialites_1ereG_par_etablissement": 21,
-        "diplomes_apprentissage": 0,
-        "diplomes_apprentissage_par_etablissement": 0,
-        "langues": 0
-      }
     }
   ],
-  "lastModified": "2026-03-02T23:22:53.037Z"
+  "lastModified": "2026-03-02T23:26:58.095Z"
 }
