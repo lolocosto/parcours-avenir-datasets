@@ -2,6 +2,28 @@
   "version": "1.0",
   "datasets": [
     {
+      "filename": "acad_11_7_options_2026-03-03.json",
+      "nom": "acad : 11 — 7 options",
+      "typeRecherche": "options",
+      "dateExtraction": "2026-03-03T12:20:15.094Z",
+      "dateUpload": "2026-03-03T12:20:16.779Z",
+      "appVersion": "0.65",
+      "stats": {
+        "etablissements": 63,
+        "diplomes": 98,
+        "diplomes_par_etablissement": 474,
+        "dispositifs": 14,
+        "dispositifs_par_etablissement": 158,
+        "options_2nde_gt": 67,
+        "options_2nde_gt_par_etablissement": 466,
+        "specialites_1ereG": 21,
+        "specialites_1ereG_par_etablissement": 576,
+        "diplomes_apprentissage": 0,
+        "diplomes_apprentissage_par_etablissement": 0,
+        "langues": 0
+      }
+    },
+    {
       "filename": "dept_22_bac_general_2026-03-03.json",
       "nom": "dépt : 22 — bac général",
       "typeRecherche": "diplomes",
@@ -68,5 +90,5 @@
       }
     }
   ],
-  "lastModified": "2026-03-03T12:18:53.319Z"
+  "lastModified": "2026-03-03T12:20:16.782Z"
 }
