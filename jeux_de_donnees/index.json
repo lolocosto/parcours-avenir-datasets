@@ -44,28 +44,6 @@
         "diplomes_apprentissage_par_etablissement": 0,
         "langues": 0
       }
-    },
-    {
-      "filename": "4_diplomes_21_2026-03-02.json",
-      "nom": "4 diplômes — 21",
-      "typeRecherche": "diplomes",
-      "dateExtraction": "2026-03-02T23:04:29.570Z",
-      "dateUpload": "2026-03-02T23:04:32.368Z",
-      "appVersion": "0.64",
-      "stats": {
-        "etablissements": 27,
-        "diplomes": 67,
-        "diplomes_par_etablissement": 147,
-        "dispositifs": 11,
-        "dispositifs_par_etablissement": 62,
-        "options_2nde_gt": 43,
-        "options_2nde_gt_par_etablissement": 156,
-        "specialites_1ereG": 19,
-        "specialites_1ereG_par_etablissement": 163,
-        "diplomes_apprentissage": 76,
-        "diplomes_apprentissage_par_etablissement": 115,
-        "langues": 0
-      }
     }
   ],
   "lastModified": "2026-03-03T13:17:01.728Z"
