@@ -2,6 +2,28 @@
   "version": "1.0",
   "datasets": [
     {
+      "filename": "ca_fougeres_agglomeration_scolaire_apprentissage_2026-03-03.json",
+      "nom": "CA Fougères Agglomération — scolaire + apprentissage",
+      "typeRecherche": "geo",
+      "dateExtraction": "2026-03-03T12:34:21.426Z",
+      "dateUpload": "2026-03-03T12:34:22.864Z",
+      "appVersion": "0.65",
+      "stats": {
+        "etablissements": 14,
+        "diplomes": 33,
+        "diplomes_par_etablissement": 40,
+        "dispositifs": 4,
+        "dispositifs_par_etablissement": 7,
+        "options_2nde_gt": 17,
+        "options_2nde_gt_par_etablissement": 21,
+        "specialites_1ereG": 11,
+        "specialites_1ereG_par_etablissement": 19,
+        "diplomes_apprentissage": 67,
+        "diplomes_apprentissage_par_etablissement": 114,
+        "langues": 0
+      }
+    },
+    {
       "filename": "acad_11_7_options_2026-03-03.json",
       "nom": "acad : 11 — 7 options",
       "typeRecherche": "options",
@@ -90,5 +112,5 @@
       }
     }
   ],
-  "lastModified": "2026-03-03T12:20:16.782Z"
+  "lastModified": "2026-03-03T12:34:22.874Z"
 }
