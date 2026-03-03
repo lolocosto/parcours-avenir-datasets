@@ -1,0 +1,4271 @@
+{
+  "format": "parcours-avenir-dataset",
+  "version": "1.0",
+  "appVersion": "0.65",
+  "metadata": {
+    "nom": "acad : Nantes — bac techno STHR sciences et technologies de l'hôtellerie et de la restauration",
+    "dateExtraction": "2026-03-03T13:21:18.008Z",
+    "dateExport": "2026-03-03T13:21:18.018Z",
+    "typeRecherche": "diplomes",
+    "params": {
+      "geoType": "academie",
+      "geoValue": "17",
+      "geoDisplayName": "Nantes",
+      "items": [
+        "bac techno STHR sciences et technologies de l'hôtellerie et de la restauration"
+      ],
+      "itemType": "diplomes"
+    },
+    "stats": {
+      "etablissements": 7,
+      "diplomes": 43,
+      "diplomes_par_etablissement": 89,
+      "dispositifs": 6,
+      "dispositifs_par_etablissement": 19,
+      "options_2nde_gt": 20,
+      "options_2nde_gt_par_etablissement": 33,
+      "specialites_1ereG": 12,
+      "specialites_1ereG_par_etablissement": 25,
+      "diplomes_apprentissage": 0,
+      "diplomes_apprentissage_par_etablissement": 0,
+      "langues": 0
+    }
+  },
+  "data": {
+    "etablissements": {
+      "etab_1": {
+        "uai": "0442094M",
+        "nomOnisep": "Lycée polyvalent Nicolas Appert",
+        "voies": [
+          "scolaire"
+        ],
+        "nom": "Lycée polyvalent Nicolas Appert",
+        "_id": "etab_1",
+        "siret": "19442094900027",
+        "nomCarif": null,
+        "sigle": "LNA",
+        "type": "lycée général, technologique ou polyvalent",
+        "statut": "public",
+        "tutelle": "Ministère chargé de l'Éducation nationale",
+        "universiteRattachement": null,
+        "universiteRattachementUrl": null,
+        "etablissementsLies": null,
+        "etablissementsLiesUrls": null,
+        "adresse": "24 avenue de la Cholière",
+        "boitePostale": null,
+        "codePostal": "44700",
+        "commune": "Orvault",
+        "codeCommuneCOG": "44114",
+        "cedex": null,
+        "arrondissement": null,
+        "departement": "Loire-Atlantique",
+        "academie": "Nantes",
+        "region": "Pays de la Loire",
+        "regionCOG": "52",
+        "latitude": 47.2523,
+        "longitude": -1.60907,
+        "telephone": "02 51 78 22 00",
+        "languesEnseignees": "Allemand, Anglais, Espagnol, Langues et cultures de l'Antiquité : latin",
+        "journeesPortesOuvertes": null,
+        "urlOnisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.16416",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-11-18T00:00:00+01:00",
+        "hebergement": "internat (homme/femme)",
+        "siteWeb": "http://appert.e-lyco.fr/",
+        "accessibilite": "Locaux accessibles"
+      },
+      "etab_2": {
+        "uai": "0850028U",
+        "nomOnisep": "Lycée polyvalent Édouard Branly",
+        "voies": [
+          "scolaire"
+        ],
+        "nom": "Lycée polyvalent Édouard Branly",
+        "_id": "etab_2",
+        "siret": "19850028200019",
+        "nomCarif": null,
+        "sigle": null,
+        "type": "lycée professionnel",
+        "statut": "public",
+        "tutelle": "Ministère chargé de l'Éducation nationale",
+        "universiteRattachement": null,
+        "universiteRattachementUrl": null,
+        "etablissementsLies": null,
+        "etablissementsLiesUrls": null,
+        "adresse": "5 boulevard Édouard Branly",
+        "boitePostale": "BP 259",
+        "codePostal": "85006",
+        "commune": "La Roche-sur-Yon",
+        "codeCommuneCOG": "85191",
+        "cedex": "Cedex",
+        "arrondissement": null,
+        "departement": "Vendée",
+        "academie": "Nantes",
+        "region": "Pays de la Loire",
+        "regionCOG": "52",
+        "latitude": 46.6741,
+        "longitude": -1.44238,
+        "telephone": "02 51 24 06 06",
+        "languesEnseignees": "Allemand, Anglais, Espagnol",
+        "journeesPortesOuvertes": "le 14/03/2026 de 09h00 à 12h00",
+        "urlOnisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.3241",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-11-18T00:00:00+01:00",
+        "hebergement": "internat (homme/femme)",
+        "siteWeb": "http://branly.e-lyco.fr/",
+        "accessibilite": "Locaux accessibles"
+      },
+      "etab_3": {
+        "uai": "0440119R",
+        "nomOnisep": "Lycée des métiers Sainte-Anne",
+        "voies": [
+          "scolaire"
+        ],
+        "nom": "Lycée des métiers Sainte-Anne",
+        "_id": "etab_3",
+        "siret": "30285817000012",
+        "nomCarif": null,
+        "sigle": null,
+        "type": "lycée général, technologique ou polyvalent",
+        "statut": "privé sous contrat",
+        "tutelle": "Ministère chargé de l'Éducation nationale",
+        "universiteRattachement": null,
+        "universiteRattachementUrl": null,
+        "etablissementsLies": null,
+        "etablissementsLiesUrls": null,
+        "adresse": "250 boulevard Laennec",
+        "boitePostale": null,
+        "codePostal": "44600",
+        "commune": "Saint-Nazaire",
+        "codeCommuneCOG": "44184",
+        "cedex": null,
+        "arrondissement": null,
+        "departement": "Loire-Atlantique",
+        "academie": "Nantes",
+        "region": "Pays de la Loire",
+        "regionCOG": "52",
+        "latitude": 47.2756,
+        "longitude": -2.23445,
+        "telephone": "02 40 17 12 00",
+        "languesEnseignees": "Allemand, Anglais, Espagnol, Italien",
+        "journeesPortesOuvertes": null,
+        "urlOnisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.10971",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2026-02-06T00:00:00+01:00",
+        "hebergement": "internat (homme/femme - lycéen.nes uniquement)",
+        "siteWeb": "https://www.lyceesainteanne.fr/",
+        "accessibilite": "Locaux accessibles : rampe d'accès, ascenseur"
+      },
+      "etab_4": {
+        "uai": "0720822C",
+        "nomOnisep": "Lycée polyvalent Sainte-Catherine",
+        "voies": [
+          "scolaire"
+        ],
+        "nom": "Lycée polyvalent Sainte-Catherine",
+        "_id": "etab_4",
+        "siret": "78633676800027",
+        "nomCarif": null,
+        "sigle": null,
+        "type": "lycée général, technologique ou polyvalent",
+        "statut": "privé sous contrat",
+        "tutelle": "Ministère chargé de l'Éducation nationale",
+        "universiteRattachement": null,
+        "universiteRattachementUrl": null,
+        "etablissementsLies": null,
+        "etablissementsLiesUrls": null,
+        "adresse": "202 rue Saint-Aubin",
+        "boitePostale": null,
+        "codePostal": "72000",
+        "commune": "Le Mans",
+        "codeCommuneCOG": "72181",
+        "cedex": null,
+        "arrondissement": null,
+        "departement": "Sarthe",
+        "academie": "Nantes",
+        "region": "Pays de la Loire",
+        "regionCOG": "52",
+        "latitude": 48.0227,
+        "longitude": 0.179503,
+        "telephone": "02 43 39 14 72",
+        "languesEnseignees": "Allemand, Anglais, Espagnol, Italien",
+        "journeesPortesOuvertes": null,
+        "urlOnisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.1417",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2026-01-06T00:00:00+01:00",
+        "hebergement": "sans hébergement : demi-pension possible",
+        "siteWeb": "https://campus-stecatherine.fr/",
+        "accessibilite": "Locaux accessibles : ascenseur, accessibilité totale pour handicap moteur, rampe d'accès"
+      },
+      "etab_5": {
+        "uai": "0490904S",
+        "nomOnisep": "Lycée Jeanne Delanoue",
+        "voies": [
+          "scolaire"
+        ],
+        "nom": "Lycée Jeanne Delanoue",
+        "_id": "etab_5",
+        "siret": "78615112600012",
+        "nomCarif": null,
+        "sigle": null,
+        "type": "lycée général, technologique ou polyvalent",
+        "statut": "privé sous contrat",
+        "tutelle": "Ministère chargé de l'Éducation nationale",
+        "universiteRattachement": null,
+        "universiteRattachementUrl": null,
+        "etablissementsLies": null,
+        "etablissementsLiesUrls": null,
+        "adresse": "11 boulevard Jeanne d'Arc",
+        "boitePostale": "BP 60427",
+        "codePostal": "49304",
+        "commune": "Cholet",
+        "codeCommuneCOG": "49099",
+        "cedex": "Cedex",
+        "arrondissement": null,
+        "departement": "Maine-et-Loire",
+        "academie": "Nantes",
+        "region": "Pays de la Loire",
+        "regionCOG": "52",
+        "latitude": 47.0639,
+        "longitude": -0.868111,
+        "telephone": "02 41 63 74 74",
+        "languesEnseignees": "Allemand, Anglais, Espagnol",
+        "journeesPortesOuvertes": "le 08/04/2026 de 17h00 à 19h30",
+        "urlOnisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.3678",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-10-15T00:00:00+02:00",
+        "hebergement": "internat (homme/femme)",
+        "siteWeb": "http://www.jeannedelanoue.com",
+        "accessibilite": "Locaux accessibles"
+      },
+      "etab_6": {
+        "uai": "0850130E",
+        "nomOnisep": "Lycée polyvalent Notre-Dame du Roc",
+        "voies": [
+          "scolaire"
+        ],
+        "nom": "Lycée polyvalent Notre-Dame du Roc",
+        "_id": "etab_6",
+        "siret": "32548695900027",
+        "nomCarif": null,
+        "sigle": null,
+        "type": "lycée général, technologique ou polyvalent",
+        "statut": "privé sous contrat",
+        "tutelle": "Ministère chargé de l'Éducation nationale",
+        "universiteRattachement": null,
+        "universiteRattachementUrl": null,
+        "etablissementsLies": null,
+        "etablissementsLiesUrls": null,
+        "adresse": "Rue Charlemagne",
+        "boitePostale": "CS 80023",
+        "codePostal": "85035",
+        "commune": "La Roche-sur-Yon",
+        "codeCommuneCOG": "85191",
+        "cedex": "Cedex",
+        "arrondissement": null,
+        "departement": "Vendée",
+        "academie": "Nantes",
+        "region": "Pays de la Loire",
+        "regionCOG": "52",
+        "latitude": 46.6848,
+        "longitude": -1.42014,
+        "telephone": "02 51 47 74 74",
+        "languesEnseignees": "Allemand, Anglais, Espagnol, Italien",
+        "journeesPortesOuvertes": "le 20/03/2026 de 16h30 à 19h00 (pour le campus des formations supérieures)",
+        "urlOnisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.15406",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-11-24T00:00:00+01:00",
+        "hebergement": "internat (homme/femme)",
+        "siteWeb": "http://www.lycee-ndduroc.com",
+        "accessibilite": "Locaux accessibles : ascenseur"
+      },
+      "etab_7": {
+        "uai": "0490055U",
+        "nomOnisep": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "voies": [
+          "scolaire"
+        ],
+        "nom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "_id": "etab_7",
+        "siret": "19490055100012",
+        "nomCarif": null,
+        "sigle": null,
+        "type": "lycée général, technologique ou polyvalent",
+        "statut": "public",
+        "tutelle": "Ministère chargé de l'Éducation nationale",
+        "universiteRattachement": null,
+        "universiteRattachementUrl": null,
+        "etablissementsLies": null,
+        "etablissementsLiesUrls": null,
+        "adresse": "25 rue Marceau",
+        "boitePostale": "BP 10",
+        "codePostal": "49401",
+        "commune": "Saumur",
+        "codeCommuneCOG": "49328",
+        "cedex": "Cedex",
+        "arrondissement": null,
+        "departement": "Maine-et-Loire",
+        "academie": "Nantes",
+        "region": "Pays de la Loire",
+        "regionCOG": "52",
+        "latitude": 47.2492,
+        "longitude": -0.069814,
+        "telephone": "02 41 53 50 00",
+        "languesEnseignees": "Allemand, Anglais, Espagnol, Italien",
+        "journeesPortesOuvertes": null,
+        "urlOnisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.13883",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-10-15T00:00:00+02:00",
+        "hebergement": "internat (homme/femme)",
+        "siteWeb": "http://lyc-bertin-carnot.e-lyco.fr/",
+        "accessibilite": "Locaux accessibles"
+      }
+    },
+    "diplomes": {
+      "bac pro commercialisation et services en restauration": {
+        "libelle": "bac pro commercialisation et services en restauration",
+        "libelleOnisep": "bac pro commercialisation et services en restauration",
+        "libelleCarif": null,
+        "type": "baccalauréat professionnel",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "hôtellerie-restauration, tourisme",
+            "categorie": "restauration"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.427",
+        "urlReferentiel": "http://eduscol.education.fr/referentiels-professionnels/a129.html",
+        "rncpCode": null
+      },
+      "bac techno STI2D sciences et technologies de l'industrie et du développement durable enseignement spécifique innovation technologique et éco-conception": {
+        "libelle": "bac techno STI2D sciences et technologies de l'industrie et du développement durable enseignement spécifique innovation technologique et éco-conception",
+        "libelleOnisep": "bac techno STI2D sciences et technologies de l'industrie et du développement durable enseignement spécifique innovation technologique et éco-conception",
+        "libelleCarif": null,
+        "type": "baccalauréat technologique",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "matières premières, fabrication, industries",
+            "categorie": "fonction production (généralités)"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.3284",
+        "urlReferentiel": "https://eduscol.education.fr/645/horaires-de-la-serie-sciences-et-technologies-de-l-industrie-et-du-developpement-durable-sti2d",
+        "rncpCode": null
+      },
+      "bac techno STI2D sciences et technologies de l'industrie et du développement durable enseignement spécifique systèmes d'information et numérique": {
+        "libelle": "bac techno STI2D sciences et technologies de l'industrie et du développement durable enseignement spécifique systèmes d'information et numérique",
+        "libelleOnisep": "bac techno STI2D sciences et technologies de l'industrie et du développement durable enseignement spécifique systèmes d'information et numérique",
+        "libelleCarif": null,
+        "type": "baccalauréat technologique",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "informatique, Internet",
+            "categorie": "informatique (généralités)"
+          },
+          {
+            "domaine": "informatique, Internet",
+            "categorie": "systèmes et réseaux"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.3317",
+        "urlReferentiel": "https://eduscol.education.fr/645/horaires-de-la-serie-sciences-et-technologies-de-l-industrie-et-du-developpement-durable-sti2d",
+        "rncpCode": null
+      },
+      "bac pro cuisine": {
+        "libelle": "bac pro cuisine",
+        "libelleOnisep": "bac pro cuisine",
+        "libelleCarif": null,
+        "type": "baccalauréat professionnel",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "hôtellerie-restauration, tourisme",
+            "categorie": "restauration"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.423",
+        "urlReferentiel": "http://eduscol.education.fr/referentiels-professionnels/a128.html",
+        "rncpCode": null
+      },
+      "bac général": {
+        "libelle": "bac général",
+        "libelleOnisep": "bac général",
+        "libelleCarif": null,
+        "type": "baccalauréat général",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "lettres, langues, enseignement",
+            "categorie": "formations généralistes"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.3354",
+        "urlReferentiel": "https://eduscol.education.fr/634/cycle-terminal-de-la-voie-generale",
+        "rncpCode": null
+      },
+      "bac pro accompagnement, soins et services à la personne": {
+        "libelle": "bac pro accompagnement, soins et services à la personne",
+        "libelleOnisep": "bac pro accompagnement, soins et services à la personne",
+        "libelleCarif": null,
+        "type": "baccalauréat professionnel",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "santé, social, sport",
+            "categorie": "travail social"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.7562",
+        "urlReferentiel": "https://eduscol.education.fr/referentiels-professionnels/bac_pro_ASSP.html",
+        "rncpCode": null
+      },
+      "CAP agent accompagnant au grand âge": {
+        "libelle": "CAP agent accompagnant au grand âge",
+        "libelleOnisep": "CAP agent accompagnant au grand âge",
+        "libelleCarif": null,
+        "type": "CAP",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "CAP ou équivalent",
+        "domaines": [
+          {
+            "domaine": "santé, social, sport",
+            "categorie": "paramédical"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.8720",
+        "urlReferentiel": "https://eduscol.education.fr/referentiels-professionnels/CAP_AAGA.html",
+        "rncpCode": null
+      },
+      "bac pro boulanger-pâtissier": {
+        "libelle": "bac pro boulanger-pâtissier",
+        "libelleOnisep": "bac pro boulanger-pâtissier",
+        "libelleCarif": null,
+        "type": "baccalauréat professionnel",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "matières premières, fabrication, industries",
+            "categorie": "agroalimentaire"
+          },
+          {
+            "domaine": "commerce, marketing, vente",
+            "categorie": "grande distribution et petits commerces"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.3531",
+        "urlReferentiel": "http://eduscol.education.fr/referentiels-professionnels/a096.html",
+        "rncpCode": null
+      },
+      "CAP pâtissier": {
+        "libelle": "CAP pâtissier",
+        "libelleOnisep": "CAP pâtissier",
+        "libelleCarif": null,
+        "type": "CAP",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "CAP ou équivalent",
+        "domaines": [
+          {
+            "domaine": "matières premières, fabrication, industries",
+            "categorie": "agroalimentaire"
+          },
+          {
+            "domaine": "commerce, marketing, vente",
+            "categorie": "grande distribution et petits commerces"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.670",
+        "urlReferentiel": "http://eduscol.education.fr/referentiels-professionnels/cap_patis.html",
+        "rncpCode": null
+      },
+      "bac techno ST2S sciences et technologies de la santé et du social": {
+        "libelle": "bac techno ST2S sciences et technologies de la santé et du social",
+        "libelleOnisep": "bac techno ST2S sciences et technologies de la santé et du social",
+        "libelleCarif": null,
+        "type": "baccalauréat technologique",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "santé, social, sport",
+            "categorie": "paramédical"
+          },
+          {
+            "domaine": "santé, social, sport",
+            "categorie": "travail social"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.2418",
+        "urlReferentiel": "https://eduscol.education.fr/641/horaires-de-la-serie-sciences-et-technologies-de-la-sante-et-du-social-st2s",
+        "rncpCode": null
+      },
+      "CAP chocolaterie-confiserie": {
+        "libelle": "CAP chocolaterie-confiserie",
+        "libelleOnisep": "CAP chocolaterie-confiserie",
+        "libelleCarif": null,
+        "type": "CAP",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "CAP ou équivalent",
+        "domaines": [
+          {
+            "domaine": "matières premières, fabrication, industries",
+            "categorie": "agroalimentaire"
+          },
+          {
+            "domaine": "commerce, marketing, vente",
+            "categorie": "grande distribution et petits commerces"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.9687",
+        "urlReferentiel": "https://eduscol.education.fr/referentiels-professionnels/CAP_CC.html",
+        "rncpCode": null
+      },
+      "bac techno STHR sciences et technologies de l'hôtellerie et de la restauration": {
+        "libelle": "bac techno STHR sciences et technologies de l'hôtellerie et de la restauration",
+        "libelleOnisep": "bac techno STHR sciences et technologies de l'hôtellerie et de la restauration",
+        "libelleCarif": null,
+        "type": "baccalauréat technologique",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "hôtellerie-restauration, tourisme",
+            "categorie": "hôtellerie"
+          },
+          {
+            "domaine": "hôtellerie-restauration, tourisme",
+            "categorie": "restauration"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.494",
+        "urlReferentiel": "https://eduscol.education.fr/651/horaires-de-la-serie-sciences-et-technologies-de-l-hotellerie-et-de-la-restauration-sthr",
+        "rncpCode": null
+      },
+      "bac pro métiers de la couture et de la confection": {
+        "libelle": "bac pro métiers de la couture et de la confection",
+        "libelleOnisep": "bac pro métiers de la couture et de la confection",
+        "libelleCarif": null,
+        "type": "baccalauréat professionnel",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "matières premières, fabrication, industries",
+            "categorie": "matériaux souples"
+          },
+          {
+            "domaine": "matières premières, fabrication, industries",
+            "categorie": "textile, habillement"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.9357",
+        "urlReferentiel": "https://eduscol.education.fr/referentiels-professionnels/Bac_Pro_MCC.html",
+        "rncpCode": null
+      },
+      "bac pro métiers de la sécurité": {
+        "libelle": "bac pro métiers de la sécurité",
+        "libelleOnisep": "bac pro métiers de la sécurité",
+        "libelleCarif": null,
+        "type": "baccalauréat professionnel",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "armée, sécurité",
+            "categorie": "sécurité, prévention"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.3651",
+        "urlReferentiel": "https://www.francecompetences.fr/recherche/rncp/39133/",
+        "rncpCode": "RNCP39133"
+      },
+      "bac pro métiers du commerce et de la vente option B prospection clientèle et valorisation de l'offre commerciale": {
+        "libelle": "bac pro métiers du commerce et de la vente option B prospection clientèle et valorisation de l'offre commerciale",
+        "libelleOnisep": "bac pro métiers du commerce et de la vente option B prospection clientèle et valorisation de l'offre commerciale",
+        "libelleCarif": null,
+        "type": "baccalauréat professionnel",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "commerce, marketing, vente",
+            "categorie": "marketing, vente"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.5762",
+        "urlReferentiel": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000037953057&dateTexte",
+        "rncpCode": null
+      },
+      "CAP équipier polyvalent du commerce": {
+        "libelle": "CAP équipier polyvalent du commerce",
+        "libelleOnisep": "CAP équipier polyvalent du commerce",
+        "libelleCarif": null,
+        "type": "CAP",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "CAP ou équivalent",
+        "domaines": [
+          {
+            "domaine": "commerce, marketing, vente",
+            "categorie": "marketing, vente"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.3165",
+        "urlReferentiel": "https://eduscol.education.fr/referentiels-professionnels/cap_EPC.html",
+        "rncpCode": null
+      },
+      "CAP métiers de la mode - vêtement flou": {
+        "libelle": "CAP métiers de la mode - vêtement flou",
+        "libelleOnisep": "CAP métiers de la mode - vêtement flou",
+        "libelleCarif": null,
+        "type": "CAP",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "CAP ou équivalent",
+        "domaines": [
+          {
+            "domaine": "arts, culture, artisanat",
+            "categorie": "arts graphiques"
+          },
+          {
+            "domaine": "matières premières, fabrication, industries",
+            "categorie": "matériaux souples"
+          },
+          {
+            "domaine": "matières premières, fabrication, industries",
+            "categorie": "textile, habillement"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.1720",
+        "urlReferentiel": "https://eduscol.education.fr/referentiels-professionnels/b268.html",
+        "rncpCode": null
+      },
+      "CAP cuisine": {
+        "libelle": "CAP cuisine",
+        "libelleOnisep": "CAP cuisine",
+        "libelleCarif": null,
+        "type": "CAP",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "CAP ou équivalent",
+        "domaines": [
+          {
+            "domaine": "hôtellerie-restauration, tourisme",
+            "categorie": "restauration"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.9664",
+        "urlReferentiel": "https://eduscol.education.fr/referentiels-professionnels/CAP_CUISINE.html",
+        "rncpCode": null
+      },
+      "CAP production et service en restaurations (rapide, collective, cafétéria)": {
+        "libelle": "CAP production et service en restaurations (rapide, collective, cafétéria)",
+        "libelleOnisep": "CAP production et service en restaurations (rapide, collective, cafétéria)",
+        "libelleCarif": null,
+        "type": "CAP",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "CAP ou équivalent",
+        "domaines": [
+          {
+            "domaine": "hôtellerie-restauration, tourisme",
+            "categorie": "restauration"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.1132",
+        "urlReferentiel": "https://eduscol.education.fr/referentiels-professionnels/cap_PSR.html",
+        "rncpCode": null
+      },
+      "bac pro métiers du commerce et de la vente option A animation et gestion de l'espace commercial": {
+        "libelle": "bac pro métiers du commerce et de la vente option A animation et gestion de l'espace commercial",
+        "libelleOnisep": "bac pro métiers du commerce et de la vente option A animation et gestion de l'espace commercial",
+        "libelleCarif": null,
+        "type": "baccalauréat professionnel",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "commerce, marketing, vente",
+            "categorie": "grande distribution et petits commerces"
+          },
+          {
+            "domaine": "commerce, marketing, vente",
+            "categorie": "marketing, vente"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.5839",
+        "urlReferentiel": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000037953057",
+        "rncpCode": null
+      },
+      "diplôme d'État d'aide-soignant": {
+        "libelle": "diplôme d'État d'aide-soignant",
+        "libelleOnisep": "diplôme d'État d'aide-soignant",
+        "libelleCarif": null,
+        "type": "diplôme d'État du paramédical",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "santé, social, sport",
+            "categorie": "paramédical"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.7120",
+        "urlReferentiel": "https://www.francecompetences.fr/recherche/rncp/40692/",
+        "rncpCode": "RNCP40692"
+      },
+      "bac pro esthétique cosmétique parfumerie": {
+        "libelle": "bac pro esthétique cosmétique parfumerie",
+        "libelleOnisep": "bac pro esthétique cosmétique parfumerie",
+        "libelleCarif": null,
+        "type": "baccalauréat professionnel",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "santé, social, sport",
+            "categorie": "esthétique"
+          },
+          {
+            "domaine": "commerce, marketing, vente",
+            "categorie": "grande distribution et petits commerces"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.7608",
+        "urlReferentiel": "https://eduscol.education.fr/referentiels-professionnels/bac_pro_ECP.html",
+        "rncpCode": null
+      },
+      "CAP boulanger": {
+        "libelle": "CAP boulanger",
+        "libelleOnisep": "CAP boulanger",
+        "libelleCarif": null,
+        "type": "CAP",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "CAP ou équivalent",
+        "domaines": [
+          {
+            "domaine": "matières premières, fabrication, industries",
+            "categorie": "agroalimentaire"
+          },
+          {
+            "domaine": "commerce, marketing, vente",
+            "categorie": "grande distribution et petits commerces"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.2246",
+        "urlReferentiel": "http://eduscol.education.fr/referentiels-professionnels/indexa9a8.html",
+        "rncpCode": null
+      },
+      "bac pro métiers de l'accueil": {
+        "libelle": "bac pro métiers de l'accueil",
+        "libelleOnisep": "bac pro métiers de l'accueil",
+        "libelleCarif": null,
+        "type": "baccalauréat professionnel",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "gestion des entreprises, comptabilité",
+            "categorie": "administration de l'entreprise"
+          },
+          {
+            "domaine": "commerce, marketing, vente",
+            "categorie": "marketing, vente"
+          },
+          {
+            "domaine": "gestion des entreprises, comptabilité",
+            "categorie": "secrétariat"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.1354",
+        "urlReferentiel": "https://referentiels-professionnels.eduscol.education.fr/BacPro_MetAc/Annexes_BacPro_MetAc.pdf",
+        "rncpCode": null
+      },
+      "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique gestion et finance": {
+        "libelle": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique gestion et finance",
+        "libelleOnisep": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique gestion et finance",
+        "libelleCarif": null,
+        "type": "baccalauréat technologique",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "gestion des entreprises, comptabilité",
+            "categorie": "administration de l'entreprise"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.1639",
+        "urlReferentiel": "https://eduscol.education.fr/646/horaires-de-la-serie-sciences-et-technologies-du-management-et-de-la-gestion-stmg",
+        "rncpCode": null
+      },
+      "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique ressources humaines et communication": {
+        "libelle": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique ressources humaines et communication",
+        "libelleOnisep": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique ressources humaines et communication",
+        "libelleCarif": null,
+        "type": "baccalauréat technologique",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "gestion des entreprises, comptabilité",
+            "categorie": "ressources humaines"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.3147",
+        "urlReferentiel": "https://eduscol.education.fr/646/horaires-de-la-serie-sciences-et-technologies-du-management-et-de-la-gestion-stmg",
+        "rncpCode": null
+      },
+      "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique systèmes d'information de gestion": {
+        "libelle": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique systèmes d'information de gestion",
+        "libelleOnisep": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique systèmes d'information de gestion",
+        "libelleCarif": null,
+        "type": "baccalauréat technologique",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "gestion des entreprises, comptabilité",
+            "categorie": "administration de l'entreprise"
+          },
+          {
+            "domaine": "informatique, Internet",
+            "categorie": "informatique de gestion"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.3137",
+        "urlReferentiel": "https://eduscol.education.fr/646/horaires-de-la-serie-sciences-et-technologies-du-management-et-de-la-gestion-stmg",
+        "rncpCode": null
+      },
+      "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique mercatique (marketing)": {
+        "libelle": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique mercatique (marketing)",
+        "libelleOnisep": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique mercatique (marketing)",
+        "libelleCarif": null,
+        "type": "baccalauréat technologique",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "commerce, marketing, vente",
+            "categorie": "marketing, vente"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.3136",
+        "urlReferentiel": "https://eduscol.education.fr/646/horaires-de-la-serie-sciences-et-technologies-du-management-et-de-la-gestion-stmg",
+        "rncpCode": null
+      },
+      "bac techno STI2D sciences et technologies de l'industrie et du développement durable enseignement spécifique énergie et environnement": {
+        "libelle": "bac techno STI2D sciences et technologies de l'industrie et du développement durable enseignement spécifique énergie et environnement",
+        "libelleOnisep": "bac techno STI2D sciences et technologies de l'industrie et du développement durable enseignement spécifique énergie et environnement",
+        "libelleCarif": null,
+        "type": "baccalauréat technologique",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "environnement, énergies, propreté",
+            "categorie": "énergies"
+          },
+          {
+            "domaine": "environnement, énergies, propreté",
+            "categorie": "environnement (généralités)"
+          },
+          {
+            "domaine": "matières premières, fabrication, industries",
+            "categorie": "fonction production (généralités)"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.3139",
+        "urlReferentiel": "https://eduscol.education.fr/645/horaires-de-la-serie-sciences-et-technologies-de-l-industrie-et-du-developpement-durable-sti2d",
+        "rncpCode": null
+      },
+      "bac pro assistance à la gestion des organisations et de leurs activités": {
+        "libelle": "bac pro assistance à la gestion des organisations et de leurs activités",
+        "libelleOnisep": "bac pro assistance à la gestion des organisations et de leurs activités",
+        "libelleCarif": null,
+        "type": "baccalauréat professionnel",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "gestion des entreprises, comptabilité",
+            "categorie": "administration de l'entreprise"
+          },
+          {
+            "domaine": "gestion des entreprises, comptabilité",
+            "categorie": "comptabilité"
+          },
+          {
+            "domaine": "gestion des entreprises, comptabilité",
+            "categorie": "ressources humaines"
+          },
+          {
+            "domaine": "économie, droit, politique",
+            "categorie": "sciences économiques"
+          },
+          {
+            "domaine": "gestion des entreprises, comptabilité",
+            "categorie": "secrétariat"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.4284",
+        "urlReferentiel": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000041673101&dateTexte=&categorieLien=id",
+        "rncpCode": null
+      },
+      "bac pro maintenance des systèmes de production connectés": {
+        "libelle": "bac pro maintenance des systèmes de production connectés",
+        "libelleOnisep": "bac pro maintenance des systèmes de production connectés",
+        "libelleCarif": null,
+        "type": "baccalauréat professionnel",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "mécanique",
+            "categorie": "automatismes"
+          },
+          {
+            "domaine": "matières premières, fabrication, industries",
+            "categorie": "fonction production (généralités)"
+          },
+          {
+            "domaine": "matières premières, fabrication, industries",
+            "categorie": "maintenance, qualité"
+          },
+          {
+            "domaine": "mécanique",
+            "categorie": "mécanique (généralités)"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.6822",
+        "urlReferentiel": "https://referentiels-professionnels.eduscol.education.fr/bac_pro_MSPC.html",
+        "rncpCode": null
+      },
+      "CAP réalisations industrielles en chaudronnerie ou soudage option A chaudronnerie": {
+        "libelle": "CAP réalisations industrielles en chaudronnerie ou soudage option A chaudronnerie",
+        "libelleOnisep": "CAP réalisations industrielles en chaudronnerie ou soudage option A chaudronnerie",
+        "libelleCarif": null,
+        "type": "CAP",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "CAP ou équivalent",
+        "domaines": [
+          {
+            "domaine": "mécanique",
+            "categorie": "travail des métaux"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.5310",
+        "urlReferentiel": "http://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000033888504",
+        "rncpCode": null
+      },
+      "CAP interventions en maintenance technique des bâtiments": {
+        "libelle": "CAP interventions en maintenance technique des bâtiments",
+        "libelleOnisep": "CAP interventions en maintenance technique des bâtiments",
+        "libelleCarif": null,
+        "type": "CAP",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "CAP ou équivalent",
+        "domaines": [
+          {
+            "domaine": "construction, architecture, travaux publics",
+            "categorie": "génie civil, construction (généralités)"
+          },
+          {
+            "domaine": "matières premières, fabrication, industries",
+            "categorie": "maintenance, qualité"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.7013",
+        "urlReferentiel": "https://referentiels-professionnels.eduscol.education.fr/CAP_IMTB.html",
+        "rncpCode": null
+      },
+      "CAP commercialisation et services en hôtel-café-restaurant": {
+        "libelle": "CAP commercialisation et services en hôtel-café-restaurant",
+        "libelleOnisep": "CAP commercialisation et services en hôtel-café-restaurant",
+        "libelleCarif": null,
+        "type": "CAP",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "CAP ou équivalent",
+        "domaines": [
+          {
+            "domaine": "hôtellerie-restauration, tourisme",
+            "categorie": "hôtellerie"
+          },
+          {
+            "domaine": "hôtellerie-restauration, tourisme",
+            "categorie": "restauration"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.9673",
+        "urlReferentiel": "https://eduscol.education.fr/referentiels-professionnels/CAP_CSHCR.html",
+        "rncpCode": null
+      },
+      "bac techno STD2A sciences et technologies du design et des arts appliqués": {
+        "libelle": "bac techno STD2A sciences et technologies du design et des arts appliqués",
+        "libelleOnisep": "bac techno STD2A sciences et technologies du design et des arts appliqués",
+        "libelleCarif": null,
+        "type": "baccalauréat technologique",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "arts, culture, artisanat",
+            "categorie": "arts appliqués"
+          },
+          {
+            "domaine": "arts, culture, artisanat",
+            "categorie": "arts du spectacle"
+          },
+          {
+            "domaine": "arts, culture, artisanat",
+            "categorie": "arts graphiques"
+          },
+          {
+            "domaine": "arts, culture, artisanat",
+            "categorie": "arts plastiques"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.2572",
+        "urlReferentiel": "https://eduscol.education.fr/648/horaires-de-la-serie-sciences-et-technologies-du-design-et-des-arts-appliques-std2a",
+        "rncpCode": null
+      },
+      "bac pro étude et réalisation d'agencement": {
+        "libelle": "bac pro étude et réalisation d'agencement",
+        "libelleOnisep": "bac pro étude et réalisation d'agencement",
+        "libelleCarif": null,
+        "type": "baccalauréat professionnel",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "construction, architecture, travaux publics",
+            "categorie": "agencement"
+          },
+          {
+            "domaine": "arts, culture, artisanat",
+            "categorie": "arts appliqués"
+          },
+          {
+            "domaine": "matières premières, fabrication, industries",
+            "categorie": "études et développement"
+          },
+          {
+            "domaine": "construction, architecture, travaux publics",
+            "categorie": "génie civil, construction (généralités)"
+          },
+          {
+            "domaine": "matières premières, fabrication, industries",
+            "categorie": "matériaux"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.2883",
+        "urlReferentiel": "http://eduscol.education.fr/sti/formations/bac-pro/bac-pro-etude-et-realisation-dagencement-anciennement-agencement-de-lespace",
+        "rncpCode": null
+      },
+      "bac pro métiers de l'électricité et de ses environnements connectés": {
+        "libelle": "bac pro métiers de l'électricité et de ses environnements connectés",
+        "libelleOnisep": "bac pro métiers de l'électricité et de ses environnements connectés",
+        "libelleCarif": null,
+        "type": "baccalauréat professionnel",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "mécanique",
+            "categorie": "automatismes"
+          },
+          {
+            "domaine": "électricité, électronique, robotique",
+            "categorie": "électrotechnique"
+          },
+          {
+            "domaine": "construction, architecture, travaux publics",
+            "categorie": "équipement technique"
+          },
+          {
+            "domaine": "matières premières, fabrication, industries",
+            "categorie": "maintenance, qualité"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.9919",
+        "urlReferentiel": "https://referentiels-professionnels.eduscol.education.fr/indexdbe3.html",
+        "rncpCode": null
+      },
+      "CAP réalisations industrielles en chaudronnerie ou soudage option B soudage": {
+        "libelle": "CAP réalisations industrielles en chaudronnerie ou soudage option B soudage",
+        "libelleOnisep": "CAP réalisations industrielles en chaudronnerie ou soudage option B soudage",
+        "libelleCarif": null,
+        "type": "CAP",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "CAP ou équivalent",
+        "domaines": [
+          {
+            "domaine": "mécanique",
+            "categorie": "travail des métaux"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.5740",
+        "urlReferentiel": "http://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000033888504",
+        "rncpCode": null
+      },
+      "bac pro aménagement et finition du bâtiment": {
+        "libelle": "bac pro aménagement et finition du bâtiment",
+        "libelleOnisep": "bac pro aménagement et finition du bâtiment",
+        "libelleCarif": null,
+        "type": "baccalauréat professionnel",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "construction, architecture, travaux publics",
+            "categorie": "finition"
+          },
+          {
+            "domaine": "construction, architecture, travaux publics",
+            "categorie": "génie civil, construction (généralités)"
+          },
+          {
+            "domaine": "construction, architecture, travaux publics",
+            "categorie": "plâtrerie"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.1314",
+        "urlReferentiel": "http://eduscol.education.fr/sti/textes/baccalaureat-professionnel-amenagement-et-finition-du-batiment-sur-eduscol",
+        "rncpCode": null
+      },
+      "bac pro technicien d'études du bâtiment option A études et économie": {
+        "libelle": "bac pro technicien d'études du bâtiment option A études et économie",
+        "libelleOnisep": "bac pro technicien d'études du bâtiment option A études et économie",
+        "libelleCarif": null,
+        "type": "baccalauréat professionnel",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "construction, architecture, travaux publics",
+            "categorie": "bureau d'études BTP"
+          },
+          {
+            "domaine": "construction, architecture, travaux publics",
+            "categorie": "génie civil, construction (généralités)"
+          },
+          {
+            "domaine": "informatique, Internet",
+            "categorie": "informatique industrielle et technologique"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.5601",
+        "urlReferentiel": "http://eduscol.education.fr/referentiels-professionnels/a078.html",
+        "rncpCode": null
+      },
+      "bac pro installateur en chauffage, climatisation et énergies renouvelables": {
+        "libelle": "bac pro installateur en chauffage, climatisation et énergies renouvelables",
+        "libelleOnisep": "bac pro installateur en chauffage, climatisation et énergies renouvelables",
+        "libelleCarif": null,
+        "type": "baccalauréat professionnel",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "électricité, électronique, robotique",
+            "categorie": "électrotechnique"
+          },
+          {
+            "domaine": "environnement, énergies, propreté",
+            "categorie": "énergies"
+          },
+          {
+            "domaine": "construction, architecture, travaux publics",
+            "categorie": "équipement technique"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.7017",
+        "urlReferentiel": "https://sti.eduscol.education.fr/sites/eduscol.education.fr.sti/files/textes//13436-referentiel-bcp-iccer.pdf",
+        "rncpCode": null
+      },
+      "bac pro technicien d'études du bâtiment option B assistant en architecture": {
+        "libelle": "bac pro technicien d'études du bâtiment option B assistant en architecture",
+        "libelleOnisep": "bac pro technicien d'études du bâtiment option B assistant en architecture",
+        "libelleCarif": null,
+        "type": "baccalauréat professionnel",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "construction, architecture, travaux publics",
+            "categorie": "architecture"
+          },
+          {
+            "domaine": "construction, architecture, travaux publics",
+            "categorie": "bureau d'études BTP"
+          },
+          {
+            "domaine": "informatique, Internet",
+            "categorie": "informatique industrielle et technologique"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.6014",
+        "urlReferentiel": "http://eduscol.education.fr/referentiels-professionnels/a078.html",
+        "rncpCode": null
+      },
+      "bac pro technicien menuisier agenceur": {
+        "libelle": "bac pro technicien menuisier agenceur",
+        "libelleOnisep": "bac pro technicien menuisier agenceur",
+        "libelleCarif": null,
+        "type": "baccalauréat professionnel",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "construction, architecture, travaux publics",
+            "categorie": "agencement"
+          },
+          {
+            "domaine": "matières premières, fabrication, industries",
+            "categorie": "bois"
+          },
+          {
+            "domaine": "construction, architecture, travaux publics",
+            "categorie": "génie civil, construction (généralités)"
+          },
+          {
+            "domaine": "construction, architecture, travaux publics",
+            "categorie": "menuiserie"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.3119",
+        "urlReferentiel": "http://eduscol.education.fr/referentiels-professionnels/indexbaeb.html",
+        "rncpCode": null
+      }
+    },
+    "diplomes_par_etablissement": {
+      "AF.44878": {
+        "id": "AF.44878",
+        "uai": "0442094M",
+        "etabNom": "Lycée polyvalent Nicolas Appert",
+        "libelle": "bac pro commercialisation et services en restauration",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_1"
+      },
+      "AF.88865": {
+        "id": "AF.88865",
+        "uai": "0442094M",
+        "etabNom": "Lycée polyvalent Nicolas Appert",
+        "libelle": "bac techno STI2D sciences et technologies de l'industrie et du développement durable enseignement spécifique innovation technologique et éco-conception",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_1"
+      },
+      "AF.71613": {
+        "id": "AF.71613",
+        "uai": "0442094M",
+        "etabNom": "Lycée polyvalent Nicolas Appert",
+        "libelle": "bac techno STI2D sciences et technologies de l'industrie et du développement durable enseignement spécifique systèmes d'information et numérique",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_1"
+      },
+      "AF.18236": {
+        "id": "AF.18236",
+        "uai": "0442094M",
+        "etabNom": "Lycée polyvalent Nicolas Appert",
+        "libelle": "bac pro cuisine",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_1"
+      },
+      "AF.40977": {
+        "id": "AF.40977",
+        "uai": "0442094M",
+        "etabNom": "Lycée polyvalent Nicolas Appert",
+        "libelle": "bac général",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_1"
+      },
+      "AF.27121": {
+        "id": "AF.27121",
+        "uai": "0850028U",
+        "etabNom": "Lycée polyvalent Édouard Branly",
+        "libelle": "bac pro accompagnement, soins et services à la personne",
+        "dureeCycleStandard": "3 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-11-03T00:00:00+01:00",
+        "etabId": "etab_2"
+      },
+      "AF.79305": {
+        "id": "AF.79305",
+        "uai": "0850028U",
+        "etabNom": "Lycée polyvalent Édouard Branly",
+        "libelle": "bac pro commercialisation et services en restauration",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-04-08T00:00:00+02:00",
+        "etabId": "etab_2"
+      },
+      "AF.65608": {
+        "id": "AF.65608",
+        "uai": "0850028U",
+        "etabNom": "Lycée polyvalent Édouard Branly",
+        "libelle": "CAP agent accompagnant au grand âge",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_2"
+      },
+      "AF.102467": {
+        "id": "AF.102467",
+        "uai": "0440119R",
+        "etabNom": "Lycée des métiers Sainte-Anne",
+        "libelle": "bac pro boulanger-pâtissier",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel (classe de terminale uniquement en apprentissage)",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2022-01-13T00:00:00+01:00",
+        "dateModification": "2025-04-08T00:00:00+02:00",
+        "etabId": "etab_3"
+      },
+      "AF.30571": {
+        "id": "AF.30571",
+        "uai": "0440119R",
+        "etabNom": "Lycée des métiers Sainte-Anne",
+        "libelle": "CAP pâtissier",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-07-07T00:00:00+02:00",
+        "etabId": "etab_3"
+      },
+      "AF.36367": {
+        "id": "AF.36367",
+        "uai": "0440119R",
+        "etabNom": "Lycée des métiers Sainte-Anne",
+        "libelle": "bac techno ST2S sciences et technologies de la santé et du social",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-07-07T00:00:00+02:00",
+        "etabId": "etab_3"
+      },
+      "AF.82074": {
+        "id": "AF.82074",
+        "uai": "0440119R",
+        "etabNom": "Lycée des métiers Sainte-Anne",
+        "libelle": "CAP chocolaterie-confiserie",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-11-03T00:00:00+01:00",
+        "etabId": "etab_3"
+      },
+      "AF.30555": {
+        "id": "AF.30555",
+        "uai": "0442094M",
+        "etabNom": "Lycée polyvalent Nicolas Appert",
+        "libelle": "bac techno STHR sciences et technologies de l'hôtellerie et de la restauration",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_1"
+      },
+      "AF.78524": {
+        "id": "AF.78524",
+        "uai": "0850028U",
+        "etabNom": "Lycée polyvalent Édouard Branly",
+        "libelle": "bac pro métiers de la couture et de la confection",
+        "dureeCycleStandard": "3 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_2"
+      },
+      "AF.41089": {
+        "id": "AF.41089",
+        "uai": "0850028U",
+        "etabNom": "Lycée polyvalent Édouard Branly",
+        "libelle": "bac pro métiers de la sécurité",
+        "dureeCycleStandard": "3 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel (formation à recrutement sur dossier)",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-04-20T00:00:00+02:00",
+        "etabId": "etab_2"
+      },
+      "AF.60799": {
+        "id": "AF.60799",
+        "uai": "0720822C",
+        "etabNom": "Lycée polyvalent Sainte-Catherine",
+        "libelle": "bac pro métiers du commerce et de la vente option B prospection clientèle et valorisation de l'offre commerciale",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_4"
+      },
+      "AF.39482": {
+        "id": "AF.39482",
+        "uai": "0720822C",
+        "etabNom": "Lycée polyvalent Sainte-Catherine",
+        "libelle": "CAP équipier polyvalent du commerce",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_4"
+      },
+      "AF.90156": {
+        "id": "AF.90156",
+        "uai": "0720822C",
+        "etabNom": "Lycée polyvalent Sainte-Catherine",
+        "libelle": "bac pro cuisine",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-04-07T00:00:00+02:00",
+        "etabId": "etab_4"
+      },
+      "AF.15695": {
+        "id": "AF.15695",
+        "uai": "0490904S",
+        "etabNom": "Lycée Jeanne Delanoue",
+        "libelle": "CAP métiers de la mode - vêtement flou",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_5"
+      },
+      "AF.78536": {
+        "id": "AF.78536",
+        "uai": "0490904S",
+        "etabNom": "Lycée Jeanne Delanoue",
+        "libelle": "bac pro accompagnement, soins et services à la personne",
+        "dureeCycleStandard": "3 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2022-03-24T00:00:00+01:00",
+        "etabId": "etab_5"
+      },
+      "AF.73053": {
+        "id": "AF.73053",
+        "uai": "0490904S",
+        "etabNom": "Lycée Jeanne Delanoue",
+        "libelle": "bac pro cuisine",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-04-07T00:00:00+02:00",
+        "etabId": "etab_5"
+      },
+      "AF.44837": {
+        "id": "AF.44837",
+        "uai": "0490904S",
+        "etabNom": "Lycée Jeanne Delanoue",
+        "libelle": "CAP cuisine",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_5"
+      },
+      "AF.70635": {
+        "id": "AF.70635",
+        "uai": "0490904S",
+        "etabNom": "Lycée Jeanne Delanoue",
+        "libelle": "bac techno STHR sciences et technologies de l'hôtellerie et de la restauration",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_5"
+      },
+      "AF.28952": {
+        "id": "AF.28952",
+        "uai": "0850028U",
+        "etabNom": "Lycée polyvalent Édouard Branly",
+        "libelle": "CAP production et service en restaurations (rapide, collective, cafétéria)",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_2"
+      },
+      "AF.1764": {
+        "id": "AF.1764",
+        "uai": "0850028U",
+        "etabNom": "Lycée polyvalent Édouard Branly",
+        "libelle": "bac techno STHR sciences et technologies de l'hôtellerie et de la restauration",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_2"
+      },
+      "AF.34222": {
+        "id": "AF.34222",
+        "uai": "0850028U",
+        "etabNom": "Lycée polyvalent Édouard Branly",
+        "libelle": "bac pro métiers du commerce et de la vente option A animation et gestion de l'espace commercial",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-03-03T00:00:00+01:00",
+        "etabId": "etab_2"
+      },
+      "AF.74583": {
+        "id": "AF.74583",
+        "uai": "0850028U",
+        "etabNom": "Lycée polyvalent Édouard Branly",
+        "libelle": "CAP équipier polyvalent du commerce",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_2"
+      },
+      "AF.7457": {
+        "id": "AF.7457",
+        "uai": "0850028U",
+        "etabNom": "Lycée polyvalent Édouard Branly",
+        "libelle": "bac pro cuisine",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-04-08T00:00:00+02:00",
+        "etabId": "etab_2"
+      },
+      "AF.53409": {
+        "id": "AF.53409",
+        "uai": "0440119R",
+        "etabNom": "Lycée des métiers Sainte-Anne",
+        "libelle": "CAP cuisine",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-07-07T00:00:00+02:00",
+        "etabId": "etab_3"
+      },
+      "AF.21890": {
+        "id": "AF.21890",
+        "uai": "0440119R",
+        "etabNom": "Lycée des métiers Sainte-Anne",
+        "libelle": "bac pro commercialisation et services en restauration",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-07-07T00:00:00+02:00",
+        "etabId": "etab_3"
+      },
+      "AF.79313": {
+        "id": "AF.79313",
+        "uai": "0440119R",
+        "etabNom": "Lycée des métiers Sainte-Anne",
+        "libelle": "bac pro accompagnement, soins et services à la personne",
+        "dureeCycleStandard": "3 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-07-07T00:00:00+02:00",
+        "etabId": "etab_3"
+      },
+      "AF.30570": {
+        "id": "AF.30570",
+        "uai": "0440119R",
+        "etabNom": "Lycée des métiers Sainte-Anne",
+        "libelle": "bac pro cuisine",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-07-07T00:00:00+02:00",
+        "etabId": "etab_3"
+      },
+      "AF.87973": {
+        "id": "AF.87973",
+        "uai": "0440119R",
+        "etabNom": "Lycée des métiers Sainte-Anne",
+        "libelle": "bac techno STHR sciences et technologies de l'hôtellerie et de la restauration",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-07-07T00:00:00+02:00",
+        "etabId": "etab_3"
+      },
+      "AF.124360": {
+        "id": "AF.124360",
+        "uai": "0490904S",
+        "etabNom": "Lycée Jeanne Delanoue",
+        "libelle": "diplôme d'État d'aide-soignant",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": "0 euros en 2025",
+        "modalitesAccueil": null,
+        "pageWeb": "https://www.jeannedelanoue.com/diplome-detat-daide-soignant/",
+        "dateCreation": "2023-10-26T00:00:00+02:00",
+        "dateModification": "2025-09-30T00:00:00+02:00",
+        "etabId": "etab_5"
+      },
+      "AF.1822": {
+        "id": "AF.1822",
+        "uai": "0490904S",
+        "etabNom": "Lycée Jeanne Delanoue",
+        "libelle": "bac techno ST2S sciences et technologies de la santé et du social",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_5"
+      },
+      "AF.90979": {
+        "id": "AF.90979",
+        "uai": "0490904S",
+        "etabNom": "Lycée Jeanne Delanoue",
+        "libelle": "bac pro commercialisation et services en restauration",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-04-07T00:00:00+02:00",
+        "etabId": "etab_5"
+      },
+      "AF.29104": {
+        "id": "AF.29104",
+        "uai": "0720822C",
+        "etabNom": "Lycée polyvalent Sainte-Catherine",
+        "libelle": "CAP pâtissier",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2021-11-25T00:00:00+01:00",
+        "etabId": "etab_4"
+      },
+      "AF.59147": {
+        "id": "AF.59147",
+        "uai": "0720822C",
+        "etabNom": "Lycée polyvalent Sainte-Catherine",
+        "libelle": "bac techno STHR sciences et technologies de l'hôtellerie et de la restauration",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-05-15T00:00:00+02:00",
+        "etabId": "etab_4"
+      },
+      "AF.22579": {
+        "id": "AF.22579",
+        "uai": "0720822C",
+        "etabNom": "Lycée polyvalent Sainte-Catherine",
+        "libelle": "bac pro esthétique cosmétique parfumerie",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2021-11-25T00:00:00+01:00",
+        "etabId": "etab_4"
+      },
+      "AF.56250": {
+        "id": "AF.56250",
+        "uai": "0720822C",
+        "etabNom": "Lycée polyvalent Sainte-Catherine",
+        "libelle": "CAP boulanger",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2021-11-25T00:00:00+01:00",
+        "etabId": "etab_4"
+      },
+      "AF.3964": {
+        "id": "AF.3964",
+        "uai": "0720822C",
+        "etabNom": "Lycée polyvalent Sainte-Catherine",
+        "libelle": "bac pro commercialisation et services en restauration",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-04-07T00:00:00+02:00",
+        "etabId": "etab_4"
+      },
+      "AF.55514": {
+        "id": "AF.55514",
+        "uai": "0720822C",
+        "etabNom": "Lycée polyvalent Sainte-Catherine",
+        "libelle": "bac pro boulanger-pâtissier",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_4"
+      },
+      "AF.27674": {
+        "id": "AF.27674",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "bac pro métiers de la couture et de la confection",
+        "dureeCycleStandard": "3 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-04-07T00:00:00+02:00",
+        "etabId": "etab_6"
+      },
+      "AF.10801": {
+        "id": "AF.10801",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "CAP pâtissier",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": "https://lycee-ndduroc.com/le-lycee/professionnel/cap-patissier/",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-10-17T00:00:00+02:00",
+        "etabId": "etab_6"
+      },
+      "AF.26953": {
+        "id": "AF.26953",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "bac techno STHR sciences et technologies de l'hôtellerie et de la restauration",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-07T00:00:00+01:00",
+        "etabId": "etab_6"
+      },
+      "AF.6662": {
+        "id": "AF.6662",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "bac pro commercialisation et services en restauration",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-04-07T00:00:00+02:00",
+        "etabId": "etab_6"
+      },
+      "AF.90945": {
+        "id": "AF.90945",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "bac pro métiers du commerce et de la vente option A animation et gestion de l'espace commercial",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-04-07T00:00:00+02:00",
+        "etabId": "etab_6"
+      },
+      "AF.50610": {
+        "id": "AF.50610",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "bac pro cuisine",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-04-07T00:00:00+02:00",
+        "etabId": "etab_6"
+      },
+      "AF.27673": {
+        "id": "AF.27673",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "bac pro métiers de l'accueil",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-04-07T00:00:00+02:00",
+        "etabId": "etab_6"
+      },
+      "AF.14376": {
+        "id": "AF.14376",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique gestion et finance",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-07T00:00:00+01:00",
+        "etabId": "etab_6"
+      },
+      "AF.89249": {
+        "id": "AF.89249",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique ressources humaines et communication",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-07T00:00:00+01:00",
+        "etabId": "etab_6"
+      },
+      "AF.60270": {
+        "id": "AF.60270",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique systèmes d'information de gestion",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-07T00:00:00+01:00",
+        "etabId": "etab_6"
+      },
+      "AF.16140": {
+        "id": "AF.16140",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "bac pro boulanger-pâtissier",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": "https://lycee-ndduroc.com/le-lycee/professionnel/bac-pro-boulangerie-patisserie/",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-10-03T00:00:00+02:00",
+        "etabId": "etab_6"
+      },
+      "AF.73853": {
+        "id": "AF.73853",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "CAP équipier polyvalent du commerce",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": "https://lycee-ndduroc.com/le-lycee/professionnel/cap-equipier-polyvalent-du-commerce/",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-10-17T00:00:00+02:00",
+        "etabId": "etab_6"
+      },
+      "AF.65810": {
+        "id": "AF.65810",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique mercatique (marketing)",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-07T00:00:00+01:00",
+        "etabId": "etab_6"
+      },
+      "AF.86896": {
+        "id": "AF.86896",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "bac général",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-07T00:00:00+01:00",
+        "etabId": "etab_6"
+      },
+      "AF.11795": {
+        "id": "AF.11795",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "CAP cuisine",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": "https://lycee-ndduroc.com/le-lycee/professionnel/cap-cuisine/",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-10-17T00:00:00+02:00",
+        "etabId": "etab_6"
+      },
+      "AF.2617": {
+        "id": "AF.2617",
+        "uai": "0442094M",
+        "etabNom": "Lycée polyvalent Nicolas Appert",
+        "libelle": "bac techno STI2D sciences et technologies de l'industrie et du développement durable enseignement spécifique énergie et environnement",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_1"
+      },
+      "AF.16895": {
+        "id": "AF.16895",
+        "uai": "0850028U",
+        "etabNom": "Lycée polyvalent Édouard Branly",
+        "libelle": "bac pro assistance à la gestion des organisations et de leurs activités",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-04-08T00:00:00+02:00",
+        "etabId": "etab_2"
+      },
+      "AF.24476": {
+        "id": "AF.24476",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "bac pro métiers du commerce et de la vente option A animation et gestion de l'espace commercial",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AF.35306": {
+        "id": "AF.35306",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "bac général",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AF.64621": {
+        "id": "AF.64621",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "bac pro maintenance des systèmes de production connectés",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AF.36112": {
+        "id": "AF.36112",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "bac pro cuisine",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AF.36150": {
+        "id": "AF.36150",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "CAP réalisations industrielles en chaudronnerie ou soudage option A chaudronnerie",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AF.56300": {
+        "id": "AF.56300",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "bac pro commercialisation et services en restauration",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AF.77769": {
+        "id": "AF.77769",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique gestion et finance",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AF.18768": {
+        "id": "AF.18768",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "CAP interventions en maintenance technique des bâtiments",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AF.38408": {
+        "id": "AF.38408",
+        "uai": "0720822C",
+        "etabNom": "Lycée polyvalent Sainte-Catherine",
+        "libelle": "bac pro métiers du commerce et de la vente option A animation et gestion de l'espace commercial",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_4"
+      },
+      "AF.82057": {
+        "id": "AF.82057",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "bac techno STHR sciences et technologies de l'hôtellerie et de la restauration",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AF.18767": {
+        "id": "AF.18767",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "CAP cuisine",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AF.28395": {
+        "id": "AF.28395",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "CAP commercialisation et services en hôtel-café-restaurant",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AF.10957": {
+        "id": "AF.10957",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "CAP pâtissier",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AF.13072": {
+        "id": "AF.13072",
+        "uai": "0490904S",
+        "etabNom": "Lycée Jeanne Delanoue",
+        "libelle": "bac techno STD2A sciences et technologies du design et des arts appliqués",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_5"
+      },
+      "AF.47868": {
+        "id": "AF.47868",
+        "uai": "0490904S",
+        "etabNom": "Lycée Jeanne Delanoue",
+        "libelle": "bac pro étude et réalisation d'agencement",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-06-23T00:00:00+02:00",
+        "etabId": "etab_5"
+      },
+      "AF.36111": {
+        "id": "AF.36111",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "bac pro métiers de l'électricité et de ses environnements connectés",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AF.49218": {
+        "id": "AF.49218",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique mercatique (marketing)",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AF.20757": {
+        "id": "AF.20757",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique ressources humaines et communication",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AF.102424": {
+        "id": "AF.102424",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "CAP réalisations industrielles en chaudronnerie ou soudage option B soudage",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2022-01-11T00:00:00+01:00",
+        "dateModification": "2022-01-13T00:00:00+01:00",
+        "etabId": "etab_7"
+      },
+      "AF.33847": {
+        "id": "AF.33847",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "bac techno ST2S sciences et technologies de la santé et du social",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AF.90946": {
+        "id": "AF.90946",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "bac pro assistance à la gestion des organisations et de leurs activités",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-04-07T00:00:00+02:00",
+        "etabId": "etab_6"
+      },
+      "AF.77174": {
+        "id": "AF.77174",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "bac techno STI2D sciences et technologies de l'industrie et du développement durable enseignement spécifique innovation technologique et éco-conception",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AF.66844": {
+        "id": "AF.66844",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "bac techno STI2D sciences et technologies de l'industrie et du développement durable enseignement spécifique énergie et environnement",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AF.53227": {
+        "id": "AF.53227",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "bac pro aménagement et finition du bâtiment",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AF.64622": {
+        "id": "AF.64622",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "bac pro technicien d'études du bâtiment option A études et économie",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AF.17158": {
+        "id": "AF.17158",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "bac pro installateur en chauffage, climatisation et énergies renouvelables",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-04-22T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AF.2609": {
+        "id": "AF.2609",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "bac pro technicien d'études du bâtiment option B assistant en architecture",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AF.76081": {
+        "id": "AF.76081",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "bac pro technicien menuisier agenceur",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AF.77439": {
+        "id": "AF.77439",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "bac techno STI2D sciences et technologies de l'industrie et du développement durable enseignement spécifique systèmes d'information et numérique",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AF.13043": {
+        "id": "AF.13043",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "bac pro assistance à la gestion des organisations et de leurs activités",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_7"
+      }
+    },
+    "dispositifs": {
+      "section européenne de lycée général et technologique": {
+        "libelle": "section européenne de lycée général et technologique",
+        "domaines": [
+          {
+            "domaine": "lettres, langues, enseignement",
+            "categorie": "formations généralistes"
+          },
+          {
+            "domaine": "lettres, langues, enseignement",
+            "categorie": "langues"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/TYPDISP.17"
+      },
+      "section européenne de lycée professionnel": {
+        "libelle": "section européenne de lycée professionnel",
+        "domaines": [
+          {
+            "domaine": "lettres, langues, enseignement",
+            "categorie": "formations généralistes"
+          },
+          {
+            "domaine": "lettres, langues, enseignement",
+            "categorie": "langues"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/TYPDISP.31"
+      },
+      "classe de 3e prépa-métiers": {
+        "libelle": "classe de 3e prépa-métiers",
+        "domaines": [
+          {
+            "domaine": "lettres, langues, enseignement",
+            "categorie": "formations généralistes"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/TYPDISP.32"
+      },
+      "unité localisée pour l'inclusion scolaire en lycée": {
+        "libelle": "unité localisée pour l'inclusion scolaire en lycée",
+        "domaines": [
+          {
+            "domaine": "lettres, langues, enseignement",
+            "categorie": "formations généralistes"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/TYPDISP.24"
+      },
+      "classe sport-études en lycée": {
+        "libelle": "classe sport-études en lycée",
+        "domaines": [
+          {
+            "domaine": "santé, social, sport",
+            "categorie": "sport"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/TYPDISP.45"
+      },
+      "brevet d'initiation aéronautique": {
+        "libelle": "brevet d'initiation aéronautique",
+        "domaines": [
+          {
+            "domaine": "mécanique",
+            "categorie": "aéronautique"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/TYPDISP.15"
+      }
+    },
+    "dispositifs_par_etablissement": {
+      "AD.16844": {
+        "id": "AD.16844",
+        "uai": "0442094M",
+        "etabNom": "Lycée polyvalent Nicolas Appert",
+        "libelle": "section européenne de lycée général et technologique",
+        "duree": "3 ans",
+        "elementsDenseignement": "anglais, espagnol",
+        "modalitesAccueil": "pour les élèves de la filière STHR",
+        "sports": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-07-15T00:00:00+02:00",
+        "etabId": "etab_1"
+      },
+      "AD.23761": {
+        "id": "AD.23761",
+        "uai": "0440119R",
+        "etabNom": "Lycée des métiers Sainte-Anne",
+        "libelle": "section européenne de lycée professionnel",
+        "duree": "3 ans",
+        "elementsDenseignement": "anglais",
+        "modalitesAccueil": "pour les élèves des bacs pro commercialisation et services en restauration et cuisine",
+        "sports": null,
+        "dateCreation": "2021-02-25T00:00:00+01:00",
+        "dateModification": "2025-07-21T00:00:00+02:00",
+        "etabId": "etab_3"
+      },
+      "AD.6546": {
+        "id": "AD.6546",
+        "uai": "0850028U",
+        "etabNom": "Lycée polyvalent Édouard Branly",
+        "libelle": "classe de 3e prépa-métiers",
+        "duree": "1 an",
+        "elementsDenseignement": null,
+        "modalitesAccueil": null,
+        "sports": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-09-02T00:00:00+02:00",
+        "etabId": "etab_2"
+      },
+      "AD.6548": {
+        "id": "AD.6548",
+        "uai": "0850028U",
+        "etabNom": "Lycée polyvalent Édouard Branly",
+        "libelle": "unité localisée pour l'inclusion scolaire en lycée",
+        "duree": "3 ans",
+        "elementsDenseignement": null,
+        "modalitesAccueil": null,
+        "sports": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-09-02T00:00:00+02:00",
+        "etabId": "etab_2"
+      },
+      "AD.3749": {
+        "id": "AD.3749",
+        "uai": "0490904S",
+        "etabNom": "Lycée Jeanne Delanoue",
+        "libelle": "section européenne de lycée professionnel",
+        "duree": "3 ans",
+        "elementsDenseignement": "anglais",
+        "modalitesAccueil": "pour les élèves des bacs pro cuisine et commercialisation des services en restauration",
+        "sports": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-07-21T00:00:00+02:00",
+        "etabId": "etab_5"
+      },
+      "AD.24979": {
+        "id": "AD.24979",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "classe sport-études en lycée",
+        "duree": "3 ans",
+        "elementsDenseignement": "cyclisme",
+        "modalitesAccueil": null,
+        "sports": null,
+        "dateCreation": "2022-02-27T00:00:00+01:00",
+        "dateModification": "2022-03-07T00:00:00+01:00",
+        "etabId": "etab_6"
+      },
+      "AD.16634": {
+        "id": "AD.16634",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "classe de 3e prépa-métiers",
+        "duree": "1 an",
+        "elementsDenseignement": null,
+        "modalitesAccueil": null,
+        "sports": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-09-02T00:00:00+02:00",
+        "etabId": "etab_6"
+      },
+      "AD.18504": {
+        "id": "AD.18504",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "brevet d'initiation aéronautique",
+        "duree": "1 an",
+        "elementsDenseignement": null,
+        "modalitesAccueil": null,
+        "sports": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AD.6547": {
+        "id": "AD.6547",
+        "uai": "0850028U",
+        "etabNom": "Lycée polyvalent Édouard Branly",
+        "libelle": "section européenne de lycée professionnel",
+        "duree": "3 ans",
+        "elementsDenseignement": "anglais, espagnol",
+        "modalitesAccueil": "pour les élèves des bacs pro commercialisation et services en restauration et cuisine",
+        "sports": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-07-21T00:00:00+02:00",
+        "etabId": "etab_2"
+      },
+      "AD.24981": {
+        "id": "AD.24981",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "unité localisée pour l'inclusion scolaire en lycée",
+        "duree": "3 ans",
+        "elementsDenseignement": null,
+        "modalitesAccueil": null,
+        "sports": null,
+        "dateCreation": "2022-02-28T00:00:00+01:00",
+        "dateModification": "2022-03-10T00:00:00+01:00",
+        "etabId": "etab_6"
+      },
+      "AD.18502": {
+        "id": "AD.18502",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "classe de 3e prépa-métiers",
+        "duree": "1 an",
+        "elementsDenseignement": null,
+        "modalitesAccueil": null,
+        "sports": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-09-02T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AD.18503": {
+        "id": "AD.18503",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "section européenne de lycée professionnel",
+        "duree": "3 ans",
+        "elementsDenseignement": "allemand",
+        "modalitesAccueil": "pour les élèves des bacs pro commercialisation et services en restauration et Cuisine",
+        "sports": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-07-21T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AD.25007": {
+        "id": "AD.25007",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "unité localisée pour l'inclusion scolaire en lycée",
+        "duree": "3 ans",
+        "elementsDenseignement": null,
+        "modalitesAccueil": null,
+        "sports": null,
+        "dateCreation": "2022-02-28T00:00:00+01:00",
+        "dateModification": "2022-02-28T00:00:00+01:00",
+        "etabId": "etab_7"
+      },
+      "AD.22405": {
+        "id": "AD.22405",
+        "uai": "0720822C",
+        "etabNom": "Lycée polyvalent Sainte-Catherine",
+        "libelle": "unité localisée pour l'inclusion scolaire en lycée",
+        "duree": "3 ans",
+        "elementsDenseignement": null,
+        "modalitesAccueil": null,
+        "sports": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-09-02T00:00:00+02:00",
+        "etabId": "etab_4"
+      },
+      "AD.16636": {
+        "id": "AD.16636",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "section européenne de lycée général et technologique",
+        "duree": "3 ans",
+        "elementsDenseignement": "anglais, espagnol",
+        "modalitesAccueil": null,
+        "sports": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-09-25T00:00:00+02:00",
+        "etabId": "etab_6"
+      },
+      "AD.22404": {
+        "id": "AD.22404",
+        "uai": "0720822C",
+        "etabNom": "Lycée polyvalent Sainte-Catherine",
+        "libelle": "section européenne de lycée professionnel",
+        "duree": "3 ans",
+        "elementsDenseignement": "anglais",
+        "modalitesAccueil": "pour les élèves du bac pro commercialisation et services en restauration",
+        "sports": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-07-21T00:00:00+02:00",
+        "etabId": "etab_4"
+      },
+      "AD.22403": {
+        "id": "AD.22403",
+        "uai": "0720822C",
+        "etabNom": "Lycée polyvalent Sainte-Catherine",
+        "libelle": "classe de 3e prépa-métiers",
+        "duree": "1 an",
+        "elementsDenseignement": null,
+        "modalitesAccueil": null,
+        "sports": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-09-02T00:00:00+02:00",
+        "etabId": "etab_4"
+      },
+      "AD.22406": {
+        "id": "AD.22406",
+        "uai": "0720822C",
+        "etabNom": "Lycée polyvalent Sainte-Catherine",
+        "libelle": "section européenne de lycée général et technologique",
+        "duree": "3 ans",
+        "elementsDenseignement": "anglais",
+        "modalitesAccueil": "pour les élèves de la filière STHR",
+        "sports": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-07-15T00:00:00+02:00",
+        "etabId": "etab_4"
+      },
+      "AD.16635": {
+        "id": "AD.16635",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "section européenne de lycée professionnel",
+        "duree": "3 ans",
+        "elementsDenseignement": "anglais",
+        "modalitesAccueil": "pour les élèves des bacs pro métiers de l'accueil, assistance à la gestion des organisations et de leurs activités, métiers du commerce et de la vente",
+        "sports": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-07-21T00:00:00+02:00",
+        "etabId": "etab_6"
+      }
+    },
+    "options_2nde_gt": {
+      "Italien": {
+        "libelle": "Italien"
+      },
+      "Santé et social": {
+        "libelle": "Santé et social"
+      },
+      "LV1 : anglais": {
+        "libelle": "LV1 : anglais"
+      },
+      "LV2 : espagnol, allemand": {
+        "libelle": "LV2 : espagnol, allemand"
+      },
+      "Arts : cinéma-audiovisuel": {
+        "libelle": "Arts : cinéma-audiovisuel"
+      },
+      "Biotechnologies": {
+        "libelle": "Biotechnologies"
+      },
+      "Création et innovation technologiques": {
+        "libelle": "Création et innovation technologiques"
+      },
+      "Management et gestion": {
+        "libelle": "Management et gestion"
+      },
+      "Sciences de l'ingénieur": {
+        "libelle": "Sciences de l'ingénieur"
+      },
+      "LV1 : anglais, allemand": {
+        "libelle": "LV1 : anglais, allemand"
+      },
+      "LV2 : espagnol, anglais, allemand, italien": {
+        "libelle": "LV2 : espagnol, anglais, allemand, italien"
+      },
+      "Langues et cultures de l'Antiquité : latin": {
+        "libelle": "Langues et cultures de l'Antiquité : latin"
+      },
+      "LV2 : espagnol, anglais, allemand": {
+        "libelle": "LV2 : espagnol, anglais, allemand"
+      },
+      "Arts : arts plastiques": {
+        "libelle": "Arts : arts plastiques"
+      },
+      "Arts : théâtre": {
+        "libelle": "Arts : théâtre"
+      },
+      "Éducation physique et sportive": {
+        "libelle": "Éducation physique et sportive"
+      },
+      "Sciences et laboratoire": {
+        "libelle": "Sciences et laboratoire"
+      },
+      "Allemand": {
+        "libelle": "Allemand"
+      },
+      "Espagnol": {
+        "libelle": "Espagnol"
+      },
+      "Création et culture-design": {
+        "libelle": "Création et culture-design"
+      }
+    },
+    "options_2nde_gt_par_etablissement": {
+      "Italien_etab_3": {
+        "id": "Italien_etab_3",
+        "uai": "0440119R",
+        "etabNom": "Lycée des métiers Sainte-Anne",
+        "libelle": "Italien",
+        "idActionFormation": "AF.76594",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-07-07T00:00:00+02:00",
+        "etabId": "etab_3"
+      },
+      "Santé et social_etab_3": {
+        "id": "Santé et social_etab_3",
+        "uai": "0440119R",
+        "etabNom": "Lycée des métiers Sainte-Anne",
+        "libelle": "Santé et social",
+        "idActionFormation": "AF.76594",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-07-07T00:00:00+02:00",
+        "etabId": "etab_3"
+      },
+      "LV1 : anglais_etab_3": {
+        "id": "LV1 : anglais_etab_3",
+        "uai": "0440119R",
+        "etabNom": "Lycée des métiers Sainte-Anne",
+        "libelle": "LV1 : anglais",
+        "idActionFormation": "AF.76594",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-07-07T00:00:00+02:00",
+        "etabId": "etab_3"
+      },
+      "LV2 : espagnol, allemand_etab_3": {
+        "id": "LV2 : espagnol, allemand_etab_3",
+        "uai": "0440119R",
+        "etabNom": "Lycée des métiers Sainte-Anne",
+        "libelle": "LV2 : espagnol, allemand",
+        "idActionFormation": "AF.76594",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-07-07T00:00:00+02:00",
+        "etabId": "etab_3"
+      },
+      "Arts : cinéma-audiovisuel_etab_7": {
+        "id": "Arts : cinéma-audiovisuel_etab_7",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "Arts : cinéma-audiovisuel",
+        "idActionFormation": "AF.9685",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2021-01-26T00:00:00+01:00",
+        "etabId": "etab_7"
+      },
+      "Biotechnologies_etab_7": {
+        "id": "Biotechnologies_etab_7",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "Biotechnologies",
+        "idActionFormation": "AF.9685",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2021-01-26T00:00:00+01:00",
+        "etabId": "etab_7"
+      },
+      "Création et innovation technologiques_etab_7": {
+        "id": "Création et innovation technologiques_etab_7",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "Création et innovation technologiques",
+        "idActionFormation": "AF.9685",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2021-01-26T00:00:00+01:00",
+        "etabId": "etab_7"
+      },
+      "Management et gestion_etab_7": {
+        "id": "Management et gestion_etab_7",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "Management et gestion",
+        "idActionFormation": "AF.9685",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2021-01-26T00:00:00+01:00",
+        "etabId": "etab_7"
+      },
+      "Santé et social_etab_7": {
+        "id": "Santé et social_etab_7",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "Santé et social",
+        "idActionFormation": "AF.9685",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2021-01-26T00:00:00+01:00",
+        "etabId": "etab_7"
+      },
+      "Sciences de l'ingénieur_etab_7": {
+        "id": "Sciences de l'ingénieur_etab_7",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "Sciences de l'ingénieur",
+        "idActionFormation": "AF.9685",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2021-01-26T00:00:00+01:00",
+        "etabId": "etab_7"
+      },
+      "LV1 : anglais, allemand_etab_7": {
+        "id": "LV1 : anglais, allemand_etab_7",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "LV1 : anglais, allemand",
+        "idActionFormation": "AF.9685",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2021-01-26T00:00:00+01:00",
+        "etabId": "etab_7"
+      },
+      "LV2 : espagnol, anglais, allemand, italien_etab_7": {
+        "id": "LV2 : espagnol, anglais, allemand, italien_etab_7",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "LV2 : espagnol, anglais, allemand, italien",
+        "idActionFormation": "AF.9685",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2021-01-26T00:00:00+01:00",
+        "etabId": "etab_7"
+      },
+      "Création et innovation technologiques_etab_1": {
+        "id": "Création et innovation technologiques_etab_1",
+        "uai": "0442094M",
+        "etabNom": "Lycée polyvalent Nicolas Appert",
+        "libelle": "Création et innovation technologiques",
+        "idActionFormation": "AF.42244",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2024-02-05T00:00:00+01:00",
+        "etabId": "etab_1"
+      },
+      "Langues et cultures de l'Antiquité : latin_etab_1": {
+        "id": "Langues et cultures de l'Antiquité : latin_etab_1",
+        "uai": "0442094M",
+        "etabNom": "Lycée polyvalent Nicolas Appert",
+        "libelle": "Langues et cultures de l'Antiquité : latin",
+        "idActionFormation": "AF.42244",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2024-02-05T00:00:00+01:00",
+        "etabId": "etab_1"
+      },
+      "Sciences de l'ingénieur_etab_1": {
+        "id": "Sciences de l'ingénieur_etab_1",
+        "uai": "0442094M",
+        "etabNom": "Lycée polyvalent Nicolas Appert",
+        "libelle": "Sciences de l'ingénieur",
+        "idActionFormation": "AF.42244",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2024-02-05T00:00:00+01:00",
+        "etabId": "etab_1"
+      },
+      "LV1 : anglais_etab_1": {
+        "id": "LV1 : anglais_etab_1",
+        "uai": "0442094M",
+        "etabNom": "Lycée polyvalent Nicolas Appert",
+        "libelle": "LV1 : anglais",
+        "idActionFormation": "AF.42244",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2024-02-05T00:00:00+01:00",
+        "etabId": "etab_1"
+      },
+      "LV2 : espagnol, anglais, allemand_etab_1": {
+        "id": "LV2 : espagnol, anglais, allemand_etab_1",
+        "uai": "0442094M",
+        "etabNom": "Lycée polyvalent Nicolas Appert",
+        "libelle": "LV2 : espagnol, anglais, allemand",
+        "idActionFormation": "AF.42244",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2024-02-05T00:00:00+01:00",
+        "etabId": "etab_1"
+      },
+      "Arts : arts plastiques_etab_6": {
+        "id": "Arts : arts plastiques_etab_6",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "Arts : arts plastiques",
+        "idActionFormation": "AF.90177",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-07T00:00:00+01:00",
+        "etabId": "etab_6"
+      },
+      "Arts : théâtre_etab_6": {
+        "id": "Arts : théâtre_etab_6",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "Arts : théâtre",
+        "idActionFormation": "AF.90177",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-07T00:00:00+01:00",
+        "etabId": "etab_6"
+      },
+      "Éducation physique et sportive_etab_6": {
+        "id": "Éducation physique et sportive_etab_6",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "Éducation physique et sportive",
+        "idActionFormation": "AF.90177",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-07T00:00:00+01:00",
+        "etabId": "etab_6"
+      },
+      "Italien_etab_6": {
+        "id": "Italien_etab_6",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "Italien",
+        "idActionFormation": "AF.90177",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-07T00:00:00+01:00",
+        "etabId": "etab_6"
+      },
+      "Management et gestion_etab_6": {
+        "id": "Management et gestion_etab_6",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "Management et gestion",
+        "idActionFormation": "AF.90177",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-07T00:00:00+01:00",
+        "etabId": "etab_6"
+      },
+      "Sciences et laboratoire_etab_6": {
+        "id": "Sciences et laboratoire_etab_6",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "Sciences et laboratoire",
+        "idActionFormation": "AF.90177",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-07T00:00:00+01:00",
+        "etabId": "etab_6"
+      },
+      "LV1 : anglais_etab_6": {
+        "id": "LV1 : anglais_etab_6",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "LV1 : anglais",
+        "idActionFormation": "AF.90177",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-07T00:00:00+01:00",
+        "etabId": "etab_6"
+      },
+      "LV2 : espagnol, allemand_etab_6": {
+        "id": "LV2 : espagnol, allemand_etab_6",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "LV2 : espagnol, allemand",
+        "idActionFormation": "AF.90177",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-07T00:00:00+01:00",
+        "etabId": "etab_6"
+      },
+      "Allemand_etab_5": {
+        "id": "Allemand_etab_5",
+        "uai": "0490904S",
+        "etabNom": "Lycée Jeanne Delanoue",
+        "libelle": "Allemand",
+        "idActionFormation": "AF.84319",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_5"
+      },
+      "Espagnol_etab_5": {
+        "id": "Espagnol_etab_5",
+        "uai": "0490904S",
+        "etabNom": "Lycée Jeanne Delanoue",
+        "libelle": "Espagnol",
+        "idActionFormation": "AF.84319",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_5"
+      },
+      "Arts : arts plastiques_etab_5": {
+        "id": "Arts : arts plastiques_etab_5",
+        "uai": "0490904S",
+        "etabNom": "Lycée Jeanne Delanoue",
+        "libelle": "Arts : arts plastiques",
+        "idActionFormation": "AF.84319",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_5"
+      },
+      "Biotechnologies_etab_5": {
+        "id": "Biotechnologies_etab_5",
+        "uai": "0490904S",
+        "etabNom": "Lycée Jeanne Delanoue",
+        "libelle": "Biotechnologies",
+        "idActionFormation": "AF.84319",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_5"
+      },
+      "Création et culture-design_etab_5": {
+        "id": "Création et culture-design_etab_5",
+        "uai": "0490904S",
+        "etabNom": "Lycée Jeanne Delanoue",
+        "libelle": "Création et culture-design",
+        "idActionFormation": "AF.84319",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_5"
+      },
+      "Santé et social_etab_5": {
+        "id": "Santé et social_etab_5",
+        "uai": "0490904S",
+        "etabNom": "Lycée Jeanne Delanoue",
+        "libelle": "Santé et social",
+        "idActionFormation": "AF.84319",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_5"
+      },
+      "LV1 : anglais_etab_5": {
+        "id": "LV1 : anglais_etab_5",
+        "uai": "0490904S",
+        "etabNom": "Lycée Jeanne Delanoue",
+        "libelle": "LV1 : anglais",
+        "idActionFormation": "AF.84319",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_5"
+      },
+      "LV2 : espagnol, allemand_etab_5": {
+        "id": "LV2 : espagnol, allemand_etab_5",
+        "uai": "0490904S",
+        "etabNom": "Lycée Jeanne Delanoue",
+        "libelle": "LV2 : espagnol, allemand",
+        "idActionFormation": "AF.84319",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_5"
+      }
+    },
+    "specialites_1ereG": {
+      "sciences de l'ingénieur": {
+        "libelle": "sciences de l'ingénieur"
+      },
+      "mathématiques": {
+        "libelle": "mathématiques"
+      },
+      "numérique et sciences informatiques": {
+        "libelle": "numérique et sciences informatiques"
+      },
+      "physique-chimie": {
+        "libelle": "physique-chimie"
+      },
+      "sciences économiques et sociales": {
+        "libelle": "sciences économiques et sociales"
+      },
+      "LLCER espagnol": {
+        "libelle": "LLCER espagnol"
+      },
+      "humanités, littérature et philosophie": {
+        "libelle": "humanités, littérature et philosophie"
+      },
+      "histoire-géographie, géopolitique et sciences politiques": {
+        "libelle": "histoire-géographie, géopolitique et sciences politiques"
+      },
+      "LLCER anglais": {
+        "libelle": "LLCER anglais"
+      },
+      "sciences de la vie et de la Terre": {
+        "libelle": "sciences de la vie et de la Terre"
+      },
+      "éducation physique, pratiques et culture sportives": {
+        "libelle": "éducation physique, pratiques et culture sportives"
+      },
+      "arts : arts plastiques": {
+        "libelle": "arts : arts plastiques"
+      }
+    },
+    "specialites_1ereG_par_etablissement": {
+      "sciences de l'ingénieur_etab_7": {
+        "id": "sciences de l'ingénieur_etab_7",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "sciences de l'ingénieur",
+        "idActionFormation": "AF.6575",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2021-02-05T00:00:00+01:00",
+        "etabId": "etab_7"
+      },
+      "mathématiques_etab_7": {
+        "id": "mathématiques_etab_7",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "mathématiques",
+        "idActionFormation": "AF.6575",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2021-02-05T00:00:00+01:00",
+        "etabId": "etab_7"
+      },
+      "numérique et sciences informatiques_etab_7": {
+        "id": "numérique et sciences informatiques_etab_7",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "numérique et sciences informatiques",
+        "idActionFormation": "AF.6575",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2021-02-05T00:00:00+01:00",
+        "etabId": "etab_7"
+      },
+      "physique-chimie_etab_7": {
+        "id": "physique-chimie_etab_7",
+        "uai": "0490055U",
+        "etabNom": "Lycée polyvalent Sadi Carnot - Jean Bertin",
+        "libelle": "physique-chimie",
+        "idActionFormation": "AF.6575",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2021-02-05T00:00:00+01:00",
+        "etabId": "etab_7"
+      },
+      "sciences économiques et sociales_etab_6": {
+        "id": "sciences économiques et sociales_etab_6",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "sciences économiques et sociales",
+        "idActionFormation": "AF.6474",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-07T00:00:00+01:00",
+        "etabId": "etab_6"
+      },
+      "LLCER espagnol_etab_6": {
+        "id": "LLCER espagnol_etab_6",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "LLCER espagnol",
+        "idActionFormation": "AF.6474",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-07T00:00:00+01:00",
+        "etabId": "etab_6"
+      },
+      "humanités, littérature et philosophie_etab_6": {
+        "id": "humanités, littérature et philosophie_etab_6",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "humanités, littérature et philosophie",
+        "idActionFormation": "AF.6474",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-07T00:00:00+01:00",
+        "etabId": "etab_6"
+      },
+      "histoire-géographie, géopolitique et sciences politiques_etab_6": {
+        "id": "histoire-géographie, géopolitique et sciences politiques_etab_6",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "histoire-géographie, géopolitique et sciences politiques",
+        "idActionFormation": "AF.6474",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-07T00:00:00+01:00",
+        "etabId": "etab_6"
+      },
+      "LLCER anglais_etab_6": {
+        "id": "LLCER anglais_etab_6",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "LLCER anglais",
+        "idActionFormation": "AF.6474",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-07T00:00:00+01:00",
+        "etabId": "etab_6"
+      },
+      "mathématiques_etab_6": {
+        "id": "mathématiques_etab_6",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "mathématiques",
+        "idActionFormation": "AF.6474",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-07T00:00:00+01:00",
+        "etabId": "etab_6"
+      },
+      "numérique et sciences informatiques_etab_6": {
+        "id": "numérique et sciences informatiques_etab_6",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "numérique et sciences informatiques",
+        "idActionFormation": "AF.6474",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-07T00:00:00+01:00",
+        "etabId": "etab_6"
+      },
+      "physique-chimie_etab_6": {
+        "id": "physique-chimie_etab_6",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "physique-chimie",
+        "idActionFormation": "AF.6474",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-07T00:00:00+01:00",
+        "etabId": "etab_6"
+      },
+      "sciences de la vie et de la Terre_etab_6": {
+        "id": "sciences de la vie et de la Terre_etab_6",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "sciences de la vie et de la Terre",
+        "idActionFormation": "AF.6474",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-07T00:00:00+01:00",
+        "etabId": "etab_6"
+      },
+      "éducation physique, pratiques et culture sportives_etab_6": {
+        "id": "éducation physique, pratiques et culture sportives_etab_6",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "éducation physique, pratiques et culture sportives",
+        "idActionFormation": "AF.6474",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-07T00:00:00+01:00",
+        "etabId": "etab_6"
+      },
+      "arts : arts plastiques_etab_6": {
+        "id": "arts : arts plastiques_etab_6",
+        "uai": "0850130E",
+        "etabNom": "Lycée polyvalent Notre-Dame du Roc",
+        "libelle": "arts : arts plastiques",
+        "idActionFormation": "AF.6474",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-07T00:00:00+01:00",
+        "etabId": "etab_6"
+      },
+      "sciences économiques et sociales_etab_1": {
+        "id": "sciences économiques et sociales_etab_1",
+        "uai": "0442094M",
+        "etabNom": "Lycée polyvalent Nicolas Appert",
+        "libelle": "sciences économiques et sociales",
+        "idActionFormation": "AF.40976",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2021-02-05T00:00:00+01:00",
+        "etabId": "etab_1"
+      },
+      "LLCER espagnol_etab_1": {
+        "id": "LLCER espagnol_etab_1",
+        "uai": "0442094M",
+        "etabNom": "Lycée polyvalent Nicolas Appert",
+        "libelle": "LLCER espagnol",
+        "idActionFormation": "AF.40976",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2021-02-05T00:00:00+01:00",
+        "etabId": "etab_1"
+      },
+      "humanités, littérature et philosophie_etab_1": {
+        "id": "humanités, littérature et philosophie_etab_1",
+        "uai": "0442094M",
+        "etabNom": "Lycée polyvalent Nicolas Appert",
+        "libelle": "humanités, littérature et philosophie",
+        "idActionFormation": "AF.40976",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2021-02-05T00:00:00+01:00",
+        "etabId": "etab_1"
+      },
+      "sciences de l'ingénieur_etab_1": {
+        "id": "sciences de l'ingénieur_etab_1",
+        "uai": "0442094M",
+        "etabNom": "Lycée polyvalent Nicolas Appert",
+        "libelle": "sciences de l'ingénieur",
+        "idActionFormation": "AF.40976",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2021-02-05T00:00:00+01:00",
+        "etabId": "etab_1"
+      },
+      "histoire-géographie, géopolitique et sciences politiques_etab_1": {
+        "id": "histoire-géographie, géopolitique et sciences politiques_etab_1",
+        "uai": "0442094M",
+        "etabNom": "Lycée polyvalent Nicolas Appert",
+        "libelle": "histoire-géographie, géopolitique et sciences politiques",
+        "idActionFormation": "AF.40976",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2021-02-05T00:00:00+01:00",
+        "etabId": "etab_1"
+      },
+      "LLCER anglais_etab_1": {
+        "id": "LLCER anglais_etab_1",
+        "uai": "0442094M",
+        "etabNom": "Lycée polyvalent Nicolas Appert",
+        "libelle": "LLCER anglais",
+        "idActionFormation": "AF.40976",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2021-02-05T00:00:00+01:00",
+        "etabId": "etab_1"
+      },
+      "mathématiques_etab_1": {
+        "id": "mathématiques_etab_1",
+        "uai": "0442094M",
+        "etabNom": "Lycée polyvalent Nicolas Appert",
+        "libelle": "mathématiques",
+        "idActionFormation": "AF.40976",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2021-02-05T00:00:00+01:00",
+        "etabId": "etab_1"
+      },
+      "numérique et sciences informatiques_etab_1": {
+        "id": "numérique et sciences informatiques_etab_1",
+        "uai": "0442094M",
+        "etabNom": "Lycée polyvalent Nicolas Appert",
+        "libelle": "numérique et sciences informatiques",
+        "idActionFormation": "AF.40976",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2021-02-05T00:00:00+01:00",
+        "etabId": "etab_1"
+      },
+      "physique-chimie_etab_1": {
+        "id": "physique-chimie_etab_1",
+        "uai": "0442094M",
+        "etabNom": "Lycée polyvalent Nicolas Appert",
+        "libelle": "physique-chimie",
+        "idActionFormation": "AF.40976",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2021-02-05T00:00:00+01:00",
+        "etabId": "etab_1"
+      },
+      "sciences de la vie et de la Terre_etab_1": {
+        "id": "sciences de la vie et de la Terre_etab_1",
+        "uai": "0442094M",
+        "etabNom": "Lycée polyvalent Nicolas Appert",
+        "libelle": "sciences de la vie et de la Terre",
+        "idActionFormation": "AF.40976",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2021-02-05T00:00:00+01:00",
+        "etabId": "etab_1"
+      }
+    },
+    "diplomes_apprentissage": {},
+    "diplomes_apprentissage_par_etablissement": {},
+    "autres_formations_par_etablissement": {
+      "etab_1": [
+        {
+          "libelle": "classe de 2de spécifique conduisant au bac STHR Sciences et technologies de l'hôtellerie et de la restauration",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de spécifique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re générale",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re générale",
+          "source": "onisep"
+        },
+        {
+          "libelle": "CS desserts de restaurant",
+          "niveau": "CAP ou équivalent + 1 an",
+          "typeDiplome": "certificat de spécialisation",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re STI2D sciences et technologies de l'industrie et du développement durable",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de professionnelle métiers de l'hôtellerie-restauration",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re STHR sciences et technologies de l'hôtellerie et de la restauration",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de générale et technologique",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de générale et technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "CS sommellerie",
+          "niveau": "bac + 1",
+          "typeDiplome": "certificat de spécialisation",
+          "source": "onisep"
+        },
+        {
+          "libelle": "FCIL gastronomie : cuisine allégée et végétarienne",
+          "niveau": "bac + 1",
+          "typeDiplome": "formation complémentaire d'initiative locale",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS management en hôtellerie restauration option B management d'unité de production culinaire",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS management en hôtellerie restauration option C management d'unité d'hébergement",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS conception et réalisation de systèmes automatiques",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS électrotechnique",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de mise à niveau pour entrer en BTS management hôtellerie restauration",
+          "niveau": "bac + 1",
+          "typeDiplome": "classe de mise à niveau (accès en STS)",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS management en hôtellerie restauration option A management d'unité de restauration",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "CS cybersécurité",
+          "niveau": "bac + 1",
+          "typeDiplome": "certificat de spécialisation",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS cybersécurité, informatique et réseaux, électronique option A informatique et réseaux",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        }
+      ],
+      "etab_3": [
+        {
+          "libelle": "classe de 1re ST2S sciences et technologies de la santé et du social",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re STHR sciences et technologies de l'hôtellerie et de la restauration",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de spécifique conduisant au bac STHR Sciences et technologies de l'hôtellerie et de la restauration",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de spécifique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de générale et technologique",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de générale et technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "CS desserts de restaurant",
+          "niveau": "CAP ou équivalent + 1 an",
+          "typeDiplome": "certificat de spécialisation",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de professionnelle métiers de l'alimentation",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de professionnelle métiers de l'hôtellerie-restauration",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de mise à niveau pour entrer en BTS management hôtellerie restauration",
+          "niveau": "bac + 1",
+          "typeDiplome": "classe de mise à niveau (accès en STS)",
+          "source": "onisep"
+        },
+        {
+          "libelle": "CS métiers du bar",
+          "niveau": "bac + 1",
+          "typeDiplome": "certificat de spécialisation",
+          "source": "onisep"
+        },
+        {
+          "libelle": "CS accueil réception",
+          "niveau": "bac + 1",
+          "typeDiplome": "certificat de spécialisation",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS management en hôtellerie restauration option B management d'unité de production culinaire",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS management en hôtellerie restauration option A management d'unité de restauration",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS management en hôtellerie restauration option C management d'unité d'hébergement",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        }
+      ],
+      "etab_2": [
+        {
+          "libelle": "classe de 2de spécifique conduisant au bac STHR Sciences et technologies de l'hôtellerie et de la restauration",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de spécifique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de professionnelle métiers de l'hôtellerie-restauration",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de professionnelle métiers de la relation client",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de professionnelle métiers de la gestion administrative, du transport et de la logistique",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re STHR sciences et technologies de l'hôtellerie et de la restauration",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS management en hôtellerie restauration option B management d'unité de production culinaire",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "FCIL restauration européenne",
+          "niveau": "bac + 1",
+          "typeDiplome": "formation complémentaire d'initiative locale",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS management opérationnel de la sécurité",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "FCIL préparation aux concours de la sécurité civile et publique",
+          "niveau": "bac + 1",
+          "typeDiplome": "formation complémentaire d'initiative locale",
+          "source": "onisep"
+        },
+        {
+          "libelle": "CS encadrement secteur sportif option multi-activités physiques ou sportives pour tous",
+          "niveau": "bac + 1",
+          "typeDiplome": "certificat de spécialisation",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS management en hôtellerie restauration option A management d'unité de restauration",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "CS métiers du bar",
+          "niveau": "bac + 1",
+          "typeDiplome": "certificat de spécialisation",
+          "source": "onisep"
+        }
+      ],
+      "etab_4": [
+        {
+          "libelle": "classe de 2de professionnelle métiers de l'hôtellerie-restauration",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re STHR sciences et technologies de l'hôtellerie et de la restauration",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de professionnelle métiers de l'alimentation",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de professionnelle métiers de la beauté et du bien-être",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de professionnelle métiers de la relation client",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de spécifique conduisant au bac STHR Sciences et technologies de l'hôtellerie et de la restauration",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de spécifique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "CS pâtisserie de boutique",
+          "niveau": "CAP ou équivalent + 1 an",
+          "typeDiplome": "certificat de spécialisation",
+          "source": "onisep"
+        },
+        {
+          "libelle": "CS vendeur conseil en alimentation",
+          "niveau": "CAP ou équivalent + 1 an",
+          "typeDiplome": "certificat de spécialisation",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS management en hôtellerie restauration option A management d'unité de restauration",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS management en hôtellerie restauration option B management d'unité de production culinaire",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS management en hôtellerie restauration option C management d'unité d'hébergement",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de mise à niveau pour entrer en BTS management hôtellerie restauration",
+          "niveau": "bac + 1",
+          "typeDiplome": "classe de mise à niveau (accès en STS)",
+          "source": "onisep"
+        }
+      ],
+      "etab_5": [
+        {
+          "libelle": "classe de 2de spécifique conduisant au bac STHR Sciences et technologies de l'hôtellerie et de la restauration",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de spécifique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re ST2S sciences et technologies de la santé et du social",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re STHR sciences et technologies de l'hôtellerie et de la restauration",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de générale et technologique",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de générale et technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de professionnelle métiers de l'hôtellerie-restauration",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de professionnelle métiers de l'agencement, de la menuiserie et de l'ameublement",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re STD2A sciences et technologies du design et des arts appliqués",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS diététique et nutrition",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS services et prestations des secteurs sanitaire et social",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        }
+      ],
+      "etab_6": [
+        {
+          "libelle": "classe de 2de professionnelle métiers de l'alimentation",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re STHR sciences et technologies de l'hôtellerie et de la restauration",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de professionnelle métiers de la relation client",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de professionnelle métiers de la gestion administrative, du transport et de la logistique",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de générale et technologique",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de générale et technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re générale",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re générale",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re STMG sciences et technologies du management et de la gestion",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de professionnelle métiers de l'hôtellerie-restauration",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de spécifique conduisant au bac STHR Sciences et technologies de l'hôtellerie et de la restauration",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de spécifique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "CS pâtisserie de boutique",
+          "niveau": "CAP ou équivalent + 1 an",
+          "typeDiplome": "certificat de spécialisation",
+          "source": "onisep"
+        },
+        {
+          "libelle": "FCIL costumes du spectacle",
+          "niveau": "bac + 1",
+          "typeDiplome": "formation complémentaire d'initiative locale",
+          "source": "onisep"
+        },
+        {
+          "libelle": "responsable d'affaires en immobilier",
+          "niveau": "bac + 3",
+          "typeDiplome": "formation d'école spécialisée",
+          "source": "onisep"
+        },
+        {
+          "libelle": "responsable en développement commercial et marketing",
+          "niveau": "bac + 3",
+          "typeDiplome": "formation d'école spécialisée",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS collaborateur juriste notarial",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS conseil et commercialisation de solutions techniques",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS services informatiques aux organisations option B solutions logicielles et applications métiers",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS management en hôtellerie restauration option B management d'unité de production culinaire",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS management en hôtellerie restauration option A management d'unité de restauration",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS services informatiques aux organisations option A solutions d'infrastructure, systèmes et réseaux",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS négociation et digitalisation de la relation client",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "responsable en gestion des ressources humaines",
+          "niveau": "bac + 3",
+          "typeDiplome": "formation d'école spécialisée",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS management en hôtellerie restauration option C management d'unité d'hébergement",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "conseiller financier",
+          "niveau": "bac + 3",
+          "typeDiplome": "formation d'école spécialisée",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS comptabilité et gestion",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS support à l'action managériale",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        }
+      ],
+      "etab_7": [
+        {
+          "libelle": "classe de 2de spécifique conduisant au bac STHR Sciences et technologies de l'hôtellerie et de la restauration",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de spécifique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de générale et technologique",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de générale et technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re STI2D sciences et technologies de l'industrie et du développement durable",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de professionnelle métiers de la construction durable, du bâtiment et des travaux publics",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re générale",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re générale",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de professionnelle métiers de l'hôtellerie-restauration",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re STHR sciences et technologies de l'hôtellerie et de la restauration",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de professionnelle métiers de la relation client",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re ST2S sciences et technologies de la santé et du social",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de professionnelle métiers des études et de la modélisation numérique du bâtiment",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re STMG sciences et technologies du management et de la gestion",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de professionnelle métiers de l'agencement, de la menuiserie et de l'ameublement",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de professionnelle métiers de la gestion administrative, du transport et de la logistique",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de professionnelle métiers des transitions numérique et énergétique",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de professionnelle métiers du pilotage et de la maintenance d'installations automatisées",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS management commercial opérationnel",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de mise à niveau pour entrer en BTS management hôtellerie restauration",
+          "niveau": "bac + 1",
+          "typeDiplome": "classe de mise à niveau (accès en STS)",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS motorisations toutes énergies",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS gestion de la PME",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS conception et réalisation de systèmes automatiques",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS management en hôtellerie restauration option B management d'unité de production culinaire",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS management en hôtellerie restauration option C management d'unité d'hébergement",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS management en hôtellerie restauration option A management d'unité de restauration",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        }
+      ]
+    },
+    "langues": {}
+  }
+}
