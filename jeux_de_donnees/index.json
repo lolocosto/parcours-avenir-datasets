@@ -2,6 +2,28 @@
   "version": "1.0",
   "datasets": [
     {
+      "filename": "dept_meurthe-et-moselle_sciences_et_laboratoire_2026-03-03.json",
+      "nom": "dépt : Meurthe-et-Moselle — Sciences et laboratoire",
+      "typeRecherche": "options",
+      "dateExtraction": "2026-03-03T18:32:24.247Z",
+      "dateUpload": "2026-03-03T18:32:25.697Z",
+      "appVersion": "0.65",
+      "stats": {
+        "etablissements": 11,
+        "diplomes": 23,
+        "diplomes_par_etablissement": 51,
+        "dispositifs": 6,
+        "dispositifs_par_etablissement": 22,
+        "options_2nde_gt": 23,
+        "options_2nde_gt_par_etablissement": 81,
+        "specialites_1ereG": 14,
+        "specialites_1ereG_par_etablissement": 82,
+        "diplomes_apprentissage": 0,
+        "diplomes_apprentissage_par_etablissement": 0,
+        "langues": 0
+      }
+    },
+    {
       "filename": "dept_lot-et-garonne_italien_2026-03-03.json",
       "nom": "dépt : Lot-et-Garonne — Italien",
       "typeRecherche": "options",
@@ -90,5 +112,5 @@
       }
     }
   ],
-  "lastModified": "2026-03-03T13:23:34.942Z"
+  "lastModified": "2026-03-03T18:32:25.939Z"
 }
