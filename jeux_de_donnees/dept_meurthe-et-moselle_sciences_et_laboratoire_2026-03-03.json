@@ -1,0 +1,4305 @@
+{
+  "format": "parcours-avenir-dataset",
+  "version": "1.0",
+  "appVersion": "0.65",
+  "metadata": {
+    "nom": "dépt : Meurthe-et-Moselle — Sciences et laboratoire",
+    "dateExtraction": "2026-03-03T18:32:24.247Z",
+    "dateExport": "2026-03-03T18:32:24.262Z",
+    "typeRecherche": "options",
+    "params": {
+      "geoType": "departement",
+      "geoValue": "54",
+      "geoDisplayName": "Meurthe-et-Moselle",
+      "items": [
+        "Sciences et laboratoire"
+      ],
+      "itemType": "options"
+    },
+    "stats": {
+      "etablissements": 11,
+      "diplomes": 23,
+      "diplomes_par_etablissement": 51,
+      "dispositifs": 6,
+      "dispositifs_par_etablissement": 22,
+      "options_2nde_gt": 23,
+      "options_2nde_gt_par_etablissement": 81,
+      "specialites_1ereG": 14,
+      "specialites_1ereG_par_etablissement": 82,
+      "diplomes_apprentissage": 0,
+      "diplomes_apprentissage_par_etablissement": 0,
+      "langues": 0
+    }
+  },
+  "data": {
+    "etablissements": {
+      "etab_1": {
+        "uai": "0541319R",
+        "nomOnisep": "Lycée Saint-Dominique",
+        "voies": [
+          "scolaire"
+        ],
+        "nom": "Lycée Saint-Dominique",
+        "_id": "etab_1",
+        "siret": "78334240500017",
+        "nomCarif": null,
+        "sigle": null,
+        "type": "lycée général, technologique ou polyvalent",
+        "statut": "privé sous contrat",
+        "tutelle": "Ministère chargé de l'Éducation nationale",
+        "universiteRattachement": null,
+        "universiteRattachementUrl": null,
+        "etablissementsLies": "Collège Saint-Dominique à Nancy (54)",
+        "etablissementsLiesUrls": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.1735",
+        "adresse": "11 rue du Manège",
+        "boitePostale": "BP 20223",
+        "codePostal": "54004",
+        "commune": "Nancy",
+        "codeCommuneCOG": "54395",
+        "cedex": "Cedex",
+        "arrondissement": null,
+        "departement": "Meurthe-et-Moselle",
+        "academie": "Nancy-Metz",
+        "region": "Grand Est",
+        "regionCOG": "44",
+        "latitude": 48.6909,
+        "longitude": 6.18829,
+        "telephone": "03 83 36 47 57",
+        "languesEnseignees": "Allemand, Anglais, Chinois, Espagnol",
+        "journeesPortesOuvertes": null,
+        "urlOnisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.5190",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-05-06T00:00:00+02:00",
+        "hebergement": "sans hébergement",
+        "siteWeb": "http://www.saintdominique-nancy.fr/",
+        "accessibilite": "Locaux accessibles : accessibilité totale pour handicap moteur, ascenseur"
+      },
+      "etab_2": {
+        "uai": "0541305A",
+        "nomOnisep": "Lycée de l'Assomption",
+        "voies": [
+          "scolaire"
+        ],
+        "nom": "Lycée de l'Assomption",
+        "_id": "etab_2",
+        "siret": "78327197600012",
+        "nomCarif": null,
+        "sigle": null,
+        "type": "lycée général, technologique ou polyvalent",
+        "statut": "privé sous contrat",
+        "tutelle": "Ministère chargé de l'Éducation nationale",
+        "universiteRattachement": null,
+        "universiteRattachementUrl": null,
+        "etablissementsLies": "Collège l'Assomption à Val de Briey (54)",
+        "etablissementsLiesUrls": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.11074",
+        "adresse": "1 rue du Maréchal Foch",
+        "boitePostale": null,
+        "codePostal": "54150",
+        "commune": "Val de Briey",
+        "codeCommuneCOG": "54099",
+        "cedex": null,
+        "arrondissement": null,
+        "departement": "Meurthe-et-Moselle",
+        "academie": "Nancy-Metz",
+        "region": "Grand Est",
+        "regionCOG": "44",
+        "latitude": 49.2499,
+        "longitude": 5.93868,
+        "telephone": "03 82 46 11 04",
+        "languesEnseignees": "Allemand, Anglais, Espagnol, Italien",
+        "journeesPortesOuvertes": null,
+        "urlOnisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.5036",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-05-06T00:00:00+02:00",
+        "hebergement": "sans hébergement",
+        "siteWeb": "https://www.assomp-bj.fr"
+      },
+      "etab_3": {
+        "uai": "0541986R",
+        "nomOnisep": "Lycée La Malgrange",
+        "voies": [
+          "scolaire"
+        ],
+        "nom": "Lycée La Malgrange",
+        "_id": "etab_3",
+        "siret": "78329265900019",
+        "nomCarif": null,
+        "sigle": null,
+        "type": "lycée général, technologique ou polyvalent",
+        "statut": "privé sous contrat",
+        "tutelle": "Ministère chargé de l'Éducation nationale",
+        "universiteRattachement": null,
+        "universiteRattachementUrl": null,
+        "etablissementsLies": "Collège La Malgrange à Jarville-la-Malgrange (54)",
+        "etablissementsLiesUrls": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.8982",
+        "adresse": "76 avenue de La Malgrange",
+        "boitePostale": null,
+        "codePostal": "54140",
+        "commune": "Jarville-la-Malgrange",
+        "codeCommuneCOG": "54274",
+        "cedex": null,
+        "arrondissement": null,
+        "departement": "Meurthe-et-Moselle",
+        "academie": "Nancy-Metz",
+        "region": "Grand Est",
+        "regionCOG": "44",
+        "latitude": 48.6649,
+        "longitude": 6.19597,
+        "telephone": "03 83 51 47 54",
+        "languesEnseignees": "Allemand, Anglais, Espagnol, Langues et cultures de l'Antiquité : grec, Langues et cultures de l'Antiquité : latin",
+        "journeesPortesOuvertes": null,
+        "urlOnisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.5242",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-05-06T00:00:00+02:00",
+        "hebergement": "internat (homme)",
+        "siteWeb": "https://www.lamalgrange.net"
+      },
+      "etab_4": {
+        "uai": "0541320S",
+        "nomOnisep": "Lycée Jean-Baptiste Vatelot",
+        "voies": [
+          "scolaire"
+        ],
+        "nom": "Lycée Jean-Baptiste Vatelot",
+        "_id": "etab_4",
+        "siret": "33932231500054",
+        "nomCarif": null,
+        "sigle": null,
+        "type": "lycée général, technologique ou polyvalent",
+        "statut": "privé sous contrat",
+        "tutelle": "Ministère chargé de l'Éducation nationale",
+        "universiteRattachement": null,
+        "universiteRattachementUrl": null,
+        "etablissementsLies": "Lycée professionnel Jean-Baptiste Vatelot à Toul (54)",
+        "etablissementsLiesUrls": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.11014",
+        "adresse": "6 rue de la République",
+        "boitePostale": "BP 30061",
+        "codePostal": "54203",
+        "commune": "Toul",
+        "codeCommuneCOG": "54528",
+        "cedex": "Cedex",
+        "arrondissement": null,
+        "departement": "Meurthe-et-Moselle",
+        "academie": "Nancy-Metz",
+        "region": "Grand Est",
+        "regionCOG": "44",
+        "latitude": 48.6731,
+        "longitude": 5.89201,
+        "telephone": "03 83 65 20 40",
+        "languesEnseignees": "Allemand, Anglais, Espagnol",
+        "journeesPortesOuvertes": null,
+        "urlOnisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.13432",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2026-01-29T00:00:00+01:00",
+        "hebergement": "sans hébergement",
+        "siteWeb": "https://www.jbvatelot.org",
+        "accessibilite": "Locaux accessibles : accessibilité totale pour handicap moteur, ascenseur"
+      },
+      "etab_5": {
+        "uai": "0540041B",
+        "nomOnisep": "Lycée Georges de la Tour",
+        "voies": [
+          "scolaire"
+        ],
+        "nom": "Lycée Georges de la Tour",
+        "_id": "etab_5",
+        "siret": "19540041100011",
+        "nomCarif": null,
+        "sigle": null,
+        "type": "lycée général, technologique ou polyvalent",
+        "statut": "public",
+        "tutelle": "Ministère chargé de l'Éducation nationale",
+        "universiteRattachement": null,
+        "universiteRattachementUrl": null,
+        "etablissementsLies": "Collège Georges de la Tour à Nancy (54)",
+        "etablissementsLiesUrls": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.4840",
+        "adresse": "5 rue de la Croix Saint-Claude",
+        "boitePostale": null,
+        "codePostal": "54000",
+        "commune": "Nancy",
+        "codeCommuneCOG": "54395",
+        "cedex": null,
+        "arrondissement": null,
+        "departement": "Meurthe-et-Moselle",
+        "academie": "Nancy-Metz",
+        "region": "Grand Est",
+        "regionCOG": "44",
+        "latitude": 48.6911,
+        "longitude": 6.13732,
+        "telephone": "03 83 96 48 98",
+        "languesEnseignees": "Allemand, Anglais, Espagnol, Italien",
+        "journeesPortesOuvertes": "le 07/03/2026 de 08h30 à 12h30 (formations du secondaire et formations post-bac scolaires et en apprentissage)",
+        "urlOnisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.18221",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-05-06T00:00:00+02:00",
+        "hebergement": "internat (homme/femme)",
+        "siteWeb": "http://www.georges-delatour-nancy.fr/",
+        "accessibilite": "Locaux accessibles"
+      },
+      "etab_6": {
+        "uai": "0542208G",
+        "nomOnisep": "Lycée des métiers de l'hôtellerie-restauration et de l'alimentation Stanislas",
+        "voies": [
+          "scolaire"
+        ],
+        "nom": "Lycée des métiers de l'hôtellerie-restauration et de l'alimentation Stanislas",
+        "_id": "etab_6",
+        "siret": "19540203700012",
+        "nomCarif": null,
+        "sigle": null,
+        "type": "lycée général, technologique ou polyvalent",
+        "statut": "public",
+        "tutelle": "Ministère chargé de l'Éducation nationale",
+        "universiteRattachement": null,
+        "universiteRattachementUrl": null,
+        "etablissementsLies": null,
+        "etablissementsLiesUrls": null,
+        "adresse": "468 rue de Vandoeuvre",
+        "boitePostale": null,
+        "codePostal": "54600",
+        "commune": "Villers-lès-Nancy",
+        "codeCommuneCOG": "54578",
+        "cedex": null,
+        "arrondissement": null,
+        "departement": "Meurthe-et-Moselle",
+        "academie": "Nancy-Metz",
+        "region": "Grand Est",
+        "regionCOG": "44",
+        "latitude": 48.6629,
+        "longitude": 6.15191,
+        "telephone": "03 83 91 35 35",
+        "languesEnseignees": "Allemand, Anglais, Espagnol, Italien",
+        "journeesPortesOuvertes": "le 07/03/2026 de 09h00 à 15h00",
+        "urlOnisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.1477",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-05-06T00:00:00+02:00",
+        "hebergement": "internat (homme/femme)",
+        "siteWeb": "http://lyceestanvillers.fr",
+        "accessibilite": "Locaux accessibles"
+      },
+      "etab_7": {
+        "uai": "0541270M",
+        "nomOnisep": "Lycée des métiers des sciences et techniques de l'électricité et de la maintenance Jean Hanzelet",
+        "voies": [
+          "scolaire"
+        ],
+        "nom": "Lycée des métiers des sciences et techniques de l'électricité et de la maintenance Jean Hanzelet",
+        "_id": "etab_7",
+        "siret": "19541270500012",
+        "nomCarif": null,
+        "sigle": null,
+        "type": "lycée général, technologique ou polyvalent",
+        "statut": "public",
+        "tutelle": "Ministère chargé de l'Éducation nationale",
+        "universiteRattachement": null,
+        "universiteRattachementUrl": null,
+        "etablissementsLies": null,
+        "etablissementsLiesUrls": null,
+        "adresse": "79 place de Trey",
+        "boitePostale": "BP 289",
+        "codePostal": "54701",
+        "commune": "Pont-À-Mousson",
+        "codeCommuneCOG": "54431",
+        "cedex": "Cedex",
+        "arrondissement": null,
+        "departement": "Meurthe-et-Moselle",
+        "academie": "Nancy-Metz",
+        "region": "Grand Est",
+        "regionCOG": "44",
+        "latitude": 48.9093,
+        "longitude": 6.05657,
+        "telephone": "03 83 80 60 00",
+        "languesEnseignees": "Allemand, Anglais, Espagnol",
+        "journeesPortesOuvertes": "le 07/03/2026 de 09h00 à 13h00",
+        "urlOnisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.5037",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-05-06T00:00:00+02:00",
+        "hebergement": "internat (homme) ou hébergement organisé hors établissement (femme - internat au lycée Marquette de Pont-à-Mousson)",
+        "siteWeb": "https://lyc-hanzelet.monbureaunumerique.fr"
+      },
+      "etab_8": {
+        "uai": "0541286E",
+        "nomOnisep": "Lycée général et technologique Louis Bertrand",
+        "voies": [
+          "scolaire"
+        ],
+        "nom": "Lycée général et technologique Louis Bertrand",
+        "_id": "etab_8",
+        "siret": "19541286100013",
+        "nomCarif": null,
+        "sigle": null,
+        "type": "lycée général, technologique ou polyvalent",
+        "statut": "public",
+        "tutelle": "Ministère chargé de l'Éducation nationale",
+        "universiteRattachement": null,
+        "universiteRattachementUrl": null,
+        "etablissementsLies": "Collège Jean Maumus à Val de Briey (54)",
+        "etablissementsLiesUrls": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.4853",
+        "adresse": "27 rue Albert de Briey",
+        "boitePostale": null,
+        "codePostal": "54150",
+        "commune": "Val de Briey",
+        "codeCommuneCOG": "54099",
+        "cedex": null,
+        "arrondissement": null,
+        "departement": "Meurthe-et-Moselle",
+        "academie": "Nancy-Metz",
+        "region": "Grand Est",
+        "regionCOG": "44",
+        "latitude": 49.2583938,
+        "longitude": 5.9660793387594,
+        "telephone": "03 82 46 21 04",
+        "languesEnseignees": "Allemand, Anglais, Espagnol, Italien",
+        "journeesPortesOuvertes": "le 21/03/2026 de 09h00 à 12h00",
+        "urlOnisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.21649",
+        "dateCreation": "2020-10-12T00:00:00+02:00",
+        "dateModification": "2025-05-06T00:00:00+02:00",
+        "hebergement": "internat (homme/femme)",
+        "siteWeb": "https://cite-val-de-briey.monbureaunumerique.fr/"
+      },
+      "etab_9": {
+        "uai": "0540044E",
+        "nomOnisep": "Lycée Arthur Varoquaux",
+        "voies": [
+          "scolaire"
+        ],
+        "nom": "Lycée Arthur Varoquaux",
+        "_id": "etab_9",
+        "siret": "19540044500019",
+        "nomCarif": null,
+        "sigle": null,
+        "type": "lycée général, technologique ou polyvalent",
+        "statut": "public",
+        "tutelle": "Ministère chargé de l'Éducation nationale",
+        "universiteRattachement": null,
+        "universiteRattachementUrl": null,
+        "etablissementsLies": null,
+        "etablissementsLiesUrls": null,
+        "adresse": "10 rue Jean Moulin",
+        "boitePostale": "BP 10049",
+        "codePostal": "54510",
+        "commune": "Tomblaine",
+        "codeCommuneCOG": "54526",
+        "cedex": null,
+        "arrondissement": null,
+        "departement": "Meurthe-et-Moselle",
+        "academie": "Nancy-Metz",
+        "region": "Grand Est",
+        "regionCOG": "44",
+        "latitude": 48.6975,
+        "longitude": 6.21842,
+        "telephone": "03 83 29 28 35",
+        "languesEnseignees": "Allemand, Anglais, Espagnol, Italien, Langue des signes française, Langues et cultures de l'Antiquité : latin",
+        "journeesPortesOuvertes": "le 07/03/2026 de 09h00 à 12h00",
+        "urlOnisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.18731",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-05-06T00:00:00+02:00",
+        "hebergement": "internat (homme/femme)",
+        "siteWeb": "https://sites.ac-nancy-metz.fr/lyc-arthur-varoquaux/",
+        "accessibilite": "Locaux accessibles"
+      },
+      "etab_10": {
+        "uai": "0540076P",
+        "nomOnisep": "Lycée polyvalent Jean Zay",
+        "voies": [
+          "scolaire"
+        ],
+        "nom": "Lycée polyvalent Jean Zay",
+        "_id": "etab_10",
+        "siret": "19540076700016",
+        "nomCarif": null,
+        "sigle": null,
+        "type": "lycée général, technologique ou polyvalent",
+        "statut": "public",
+        "tutelle": "Ministère chargé de l'Éducation nationale",
+        "universiteRattachement": null,
+        "universiteRattachementUrl": null,
+        "etablissementsLies": null,
+        "etablissementsLiesUrls": null,
+        "adresse": "2 rue de la Tuilerie",
+        "boitePostale": "BP 39",
+        "codePostal": "54800",
+        "commune": "Jarny",
+        "codeCommuneCOG": "54273",
+        "cedex": null,
+        "arrondissement": null,
+        "departement": "Meurthe-et-Moselle",
+        "academie": "Nancy-Metz",
+        "region": "Grand Est",
+        "regionCOG": "44",
+        "latitude": 49.1577,
+        "longitude": 5.87558,
+        "telephone": "03 82 46 53 53",
+        "languesEnseignees": "Allemand, Anglais, Espagnol, Italien, Langues et cultures de l'Antiquité : latin",
+        "journeesPortesOuvertes": "le 07/03/2026 de 09h00 à 12h30",
+        "urlOnisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.14561",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-05-06T00:00:00+02:00",
+        "hebergement": "internat (homme/femme - chambre pour personne à mobilité réduite)",
+        "siteWeb": "https://lyc-zay.monbureaunumerique.fr/",
+        "accessibilite": "Locaux accessibles : ascenseur"
+      },
+      "etab_11": {
+        "uai": "0540034U",
+        "nomOnisep": "Lycée Ernest Bichat",
+        "voies": [
+          "scolaire"
+        ],
+        "nom": "Lycée Ernest Bichat",
+        "_id": "etab_11",
+        "siret": "19540034600019",
+        "nomCarif": null,
+        "sigle": null,
+        "type": "lycée général, technologique ou polyvalent",
+        "statut": "public",
+        "tutelle": "Ministère chargé de l'Éducation nationale",
+        "universiteRattachement": null,
+        "universiteRattachementUrl": null,
+        "etablissementsLies": "Collège Ernest Bichat à Lunéville (54)",
+        "etablissementsLiesUrls": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.5241",
+        "adresse": "4 avenue du Docteur Paul Kahn",
+        "boitePostale": null,
+        "codePostal": "54300",
+        "commune": "Lunéville",
+        "codeCommuneCOG": "54329",
+        "cedex": null,
+        "arrondissement": null,
+        "departement": "Meurthe-et-Moselle",
+        "academie": "Nancy-Metz",
+        "region": "Grand Est",
+        "regionCOG": "44",
+        "latitude": 48.597,
+        "longitude": 6.50752,
+        "telephone": "03 83 76 04 04",
+        "languesEnseignees": "Allemand, Anglais, Espagnol, Italien, Langues et cultures de l'Antiquité : grec, Langues et cultures de l'Antiquité : latin",
+        "journeesPortesOuvertes": null,
+        "urlOnisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.14877",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-05-06T00:00:00+02:00",
+        "hebergement": "internat (homme/femme)",
+        "siteWeb": "https://lyc-bichat.monbureaunumerique.fr/",
+        "accessibilite": "Locaux accessibles : ascenseur"
+      }
+    },
+    "diplomes": {
+      "bac général": {
+        "libelle": "bac général",
+        "libelleOnisep": "bac général",
+        "libelleCarif": null,
+        "type": "baccalauréat général",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "lettres, langues, enseignement",
+            "categorie": "formations généralistes"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.3354",
+        "urlReferentiel": "https://eduscol.education.fr/634/cycle-terminal-de-la-voie-generale",
+        "rncpCode": null
+      },
+      "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique ressources humaines et communication": {
+        "libelle": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique ressources humaines et communication",
+        "libelleOnisep": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique ressources humaines et communication",
+        "libelleCarif": null,
+        "type": "baccalauréat technologique",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "gestion des entreprises, comptabilité",
+            "categorie": "ressources humaines"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.3147",
+        "urlReferentiel": "https://eduscol.education.fr/646/horaires-de-la-serie-sciences-et-technologies-du-management-et-de-la-gestion-stmg",
+        "rncpCode": null
+      },
+      "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique mercatique (marketing)": {
+        "libelle": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique mercatique (marketing)",
+        "libelleOnisep": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique mercatique (marketing)",
+        "libelleCarif": null,
+        "type": "baccalauréat technologique",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "commerce, marketing, vente",
+            "categorie": "marketing, vente"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.3136",
+        "urlReferentiel": "https://eduscol.education.fr/646/horaires-de-la-serie-sciences-et-technologies-du-management-et-de-la-gestion-stmg",
+        "rncpCode": null
+      },
+      "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique gestion et finance": {
+        "libelle": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique gestion et finance",
+        "libelleOnisep": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique gestion et finance",
+        "libelleCarif": null,
+        "type": "baccalauréat technologique",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "gestion des entreprises, comptabilité",
+            "categorie": "administration de l'entreprise"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.1639",
+        "urlReferentiel": "https://eduscol.education.fr/646/horaires-de-la-serie-sciences-et-technologies-du-management-et-de-la-gestion-stmg",
+        "rncpCode": null
+      },
+      "bac pro cuisine": {
+        "libelle": "bac pro cuisine",
+        "libelleOnisep": "bac pro cuisine",
+        "libelleCarif": null,
+        "type": "baccalauréat professionnel",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "hôtellerie-restauration, tourisme",
+            "categorie": "restauration"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.423",
+        "urlReferentiel": "http://eduscol.education.fr/referentiels-professionnels/a128.html",
+        "rncpCode": null
+      },
+      "CAP équipier polyvalent du commerce": {
+        "libelle": "CAP équipier polyvalent du commerce",
+        "libelleOnisep": "CAP équipier polyvalent du commerce",
+        "libelleCarif": null,
+        "type": "CAP",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "CAP ou équivalent",
+        "domaines": [
+          {
+            "domaine": "commerce, marketing, vente",
+            "categorie": "marketing, vente"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.3165",
+        "urlReferentiel": "https://eduscol.education.fr/referentiels-professionnels/cap_EPC.html",
+        "rncpCode": null
+      },
+      "bac pro commercialisation et services en restauration": {
+        "libelle": "bac pro commercialisation et services en restauration",
+        "libelleOnisep": "bac pro commercialisation et services en restauration",
+        "libelleCarif": null,
+        "type": "baccalauréat professionnel",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "hôtellerie-restauration, tourisme",
+            "categorie": "restauration"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.427",
+        "urlReferentiel": "http://eduscol.education.fr/referentiels-professionnels/a129.html",
+        "rncpCode": null
+      },
+      "bac techno STHR sciences et technologies de l'hôtellerie et de la restauration": {
+        "libelle": "bac techno STHR sciences et technologies de l'hôtellerie et de la restauration",
+        "libelleOnisep": "bac techno STHR sciences et technologies de l'hôtellerie et de la restauration",
+        "libelleCarif": null,
+        "type": "baccalauréat technologique",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "hôtellerie-restauration, tourisme",
+            "categorie": "hôtellerie"
+          },
+          {
+            "domaine": "hôtellerie-restauration, tourisme",
+            "categorie": "restauration"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.494",
+        "urlReferentiel": "https://eduscol.education.fr/651/horaires-de-la-serie-sciences-et-technologies-de-l-hotellerie-et-de-la-restauration-sthr",
+        "rncpCode": null
+      },
+      "bac pro boulanger-pâtissier": {
+        "libelle": "bac pro boulanger-pâtissier",
+        "libelleOnisep": "bac pro boulanger-pâtissier",
+        "libelleCarif": null,
+        "type": "baccalauréat professionnel",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "matières premières, fabrication, industries",
+            "categorie": "agroalimentaire"
+          },
+          {
+            "domaine": "commerce, marketing, vente",
+            "categorie": "grande distribution et petits commerces"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.3531",
+        "urlReferentiel": "http://eduscol.education.fr/referentiels-professionnels/a096.html",
+        "rncpCode": null
+      },
+      "bac techno ST2S sciences et technologies de la santé et du social": {
+        "libelle": "bac techno ST2S sciences et technologies de la santé et du social",
+        "libelleOnisep": "bac techno ST2S sciences et technologies de la santé et du social",
+        "libelleCarif": null,
+        "type": "baccalauréat technologique",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "santé, social, sport",
+            "categorie": "paramédical"
+          },
+          {
+            "domaine": "santé, social, sport",
+            "categorie": "travail social"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.2418",
+        "urlReferentiel": "https://eduscol.education.fr/641/horaires-de-la-serie-sciences-et-technologies-de-la-sante-et-du-social-st2s",
+        "rncpCode": null
+      },
+      "bac pro métiers du commerce et de la vente option A animation et gestion de l'espace commercial": {
+        "libelle": "bac pro métiers du commerce et de la vente option A animation et gestion de l'espace commercial",
+        "libelleOnisep": "bac pro métiers du commerce et de la vente option A animation et gestion de l'espace commercial",
+        "libelleCarif": null,
+        "type": "baccalauréat professionnel",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "commerce, marketing, vente",
+            "categorie": "grande distribution et petits commerces"
+          },
+          {
+            "domaine": "commerce, marketing, vente",
+            "categorie": "marketing, vente"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.5839",
+        "urlReferentiel": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000037953057",
+        "rncpCode": null
+      },
+      "bac techno STL sciences et technologies de laboratoire enseignement spécifique biochimie, biologie, biotechnologie": {
+        "libelle": "bac techno STL sciences et technologies de laboratoire enseignement spécifique biochimie, biologie, biotechnologie",
+        "libelleOnisep": "bac techno STL sciences et technologies de laboratoire enseignement spécifique biochimie, biologie, biotechnologie",
+        "libelleCarif": null,
+        "type": "baccalauréat technologique",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "sciences",
+            "categorie": "biologie"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.3318",
+        "urlReferentiel": "https://eduscol.education.fr/643/horaires-de-la-sciences-et-technologies-de-laboratoire-stl",
+        "rncpCode": null
+      },
+      "bac techno STL sciences et technologies de laboratoire enseignement spécifique sciences physiques et chimiques en laboratoire": {
+        "libelle": "bac techno STL sciences et technologies de laboratoire enseignement spécifique sciences physiques et chimiques en laboratoire",
+        "libelleOnisep": "bac techno STL sciences et technologies de laboratoire enseignement spécifique sciences physiques et chimiques en laboratoire",
+        "libelleCarif": null,
+        "type": "baccalauréat technologique",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "sciences",
+            "categorie": "chimie"
+          },
+          {
+            "domaine": "sciences",
+            "categorie": "physique"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.3285",
+        "urlReferentiel": "https://eduscol.education.fr/643/horaires-de-la-sciences-et-technologies-de-laboratoire-stl",
+        "rncpCode": null
+      },
+      "bac pro métiers de l'accueil": {
+        "libelle": "bac pro métiers de l'accueil",
+        "libelleOnisep": "bac pro métiers de l'accueil",
+        "libelleCarif": null,
+        "type": "baccalauréat professionnel",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "gestion des entreprises, comptabilité",
+            "categorie": "administration de l'entreprise"
+          },
+          {
+            "domaine": "commerce, marketing, vente",
+            "categorie": "marketing, vente"
+          },
+          {
+            "domaine": "gestion des entreprises, comptabilité",
+            "categorie": "secrétariat"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.1354",
+        "urlReferentiel": "https://referentiels-professionnels.eduscol.education.fr/BacPro_MetAc/Annexes_BacPro_MetAc.pdf",
+        "rncpCode": null
+      },
+      "bac pro métiers de l'électricité et de ses environnements connectés": {
+        "libelle": "bac pro métiers de l'électricité et de ses environnements connectés",
+        "libelleOnisep": "bac pro métiers de l'électricité et de ses environnements connectés",
+        "libelleCarif": null,
+        "type": "baccalauréat professionnel",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "mécanique",
+            "categorie": "automatismes"
+          },
+          {
+            "domaine": "électricité, électronique, robotique",
+            "categorie": "électrotechnique"
+          },
+          {
+            "domaine": "construction, architecture, travaux publics",
+            "categorie": "équipement technique"
+          },
+          {
+            "domaine": "matières premières, fabrication, industries",
+            "categorie": "maintenance, qualité"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.9919",
+        "urlReferentiel": "https://referentiels-professionnels.eduscol.education.fr/indexdbe3.html",
+        "rncpCode": null
+      },
+      "bac pro accompagnement, soins et services à la personne": {
+        "libelle": "bac pro accompagnement, soins et services à la personne",
+        "libelleOnisep": "bac pro accompagnement, soins et services à la personne",
+        "libelleCarif": null,
+        "type": "baccalauréat professionnel",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "santé, social, sport",
+            "categorie": "travail social"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.7562",
+        "urlReferentiel": "https://eduscol.education.fr/referentiels-professionnels/bac_pro_ASSP.html",
+        "rncpCode": null
+      },
+      "bac pro aéronautique option systèmes": {
+        "libelle": "bac pro aéronautique option systèmes",
+        "libelleOnisep": "bac pro aéronautique option systèmes",
+        "libelleCarif": null,
+        "type": "baccalauréat professionnel",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "mécanique",
+            "categorie": "aéronautique"
+          },
+          {
+            "domaine": "électricité, électronique, robotique",
+            "categorie": "électronique"
+          },
+          {
+            "domaine": "matières premières, fabrication, industries",
+            "categorie": "maintenance, qualité"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.6048",
+        "urlReferentiel": "http://eduscol.education.fr/sti/textes/referentiel-du-diplome-bac-pro-aeronautique",
+        "rncpCode": null
+      },
+      "bac pro métiers du commerce et de la vente option B prospection clientèle et valorisation de l'offre commerciale": {
+        "libelle": "bac pro métiers du commerce et de la vente option B prospection clientèle et valorisation de l'offre commerciale",
+        "libelleOnisep": "bac pro métiers du commerce et de la vente option B prospection clientèle et valorisation de l'offre commerciale",
+        "libelleCarif": null,
+        "type": "baccalauréat professionnel",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "commerce, marketing, vente",
+            "categorie": "marketing, vente"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.5762",
+        "urlReferentiel": "http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000037953057&dateTexte",
+        "rncpCode": null
+      },
+      "bac pro maintenance des systèmes de production connectés": {
+        "libelle": "bac pro maintenance des systèmes de production connectés",
+        "libelleOnisep": "bac pro maintenance des systèmes de production connectés",
+        "libelleCarif": null,
+        "type": "baccalauréat professionnel",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "mécanique",
+            "categorie": "automatismes"
+          },
+          {
+            "domaine": "matières premières, fabrication, industries",
+            "categorie": "fonction production (généralités)"
+          },
+          {
+            "domaine": "matières premières, fabrication, industries",
+            "categorie": "maintenance, qualité"
+          },
+          {
+            "domaine": "mécanique",
+            "categorie": "mécanique (généralités)"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.6822",
+        "urlReferentiel": "https://referentiels-professionnels.eduscol.education.fr/bac_pro_MSPC.html",
+        "rncpCode": null
+      },
+      "bac techno STI2D sciences et technologies de l'industrie et du développement durable enseignement spécifique énergie et environnement": {
+        "libelle": "bac techno STI2D sciences et technologies de l'industrie et du développement durable enseignement spécifique énergie et environnement",
+        "libelleOnisep": "bac techno STI2D sciences et technologies de l'industrie et du développement durable enseignement spécifique énergie et environnement",
+        "libelleCarif": null,
+        "type": "baccalauréat technologique",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "environnement, énergies, propreté",
+            "categorie": "énergies"
+          },
+          {
+            "domaine": "environnement, énergies, propreté",
+            "categorie": "environnement (généralités)"
+          },
+          {
+            "domaine": "matières premières, fabrication, industries",
+            "categorie": "fonction production (généralités)"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.3139",
+        "urlReferentiel": "https://eduscol.education.fr/645/horaires-de-la-serie-sciences-et-technologies-de-l-industrie-et-du-developpement-durable-sti2d",
+        "rncpCode": null
+      },
+      "bac techno STI2D sciences et technologies de l'industrie et du développement durable enseignement spécifique innovation technologique et éco-conception": {
+        "libelle": "bac techno STI2D sciences et technologies de l'industrie et du développement durable enseignement spécifique innovation technologique et éco-conception",
+        "libelleOnisep": "bac techno STI2D sciences et technologies de l'industrie et du développement durable enseignement spécifique innovation technologique et éco-conception",
+        "libelleCarif": null,
+        "type": "baccalauréat technologique",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "matières premières, fabrication, industries",
+            "categorie": "fonction production (généralités)"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.3284",
+        "urlReferentiel": "https://eduscol.education.fr/645/horaires-de-la-serie-sciences-et-technologies-de-l-industrie-et-du-developpement-durable-sti2d",
+        "rncpCode": null
+      },
+      "bac techno STI2D sciences et technologies de l'industrie et du développement durable enseignement spécifique systèmes d'information et numérique": {
+        "libelle": "bac techno STI2D sciences et technologies de l'industrie et du développement durable enseignement spécifique systèmes d'information et numérique",
+        "libelleOnisep": "bac techno STI2D sciences et technologies de l'industrie et du développement durable enseignement spécifique systèmes d'information et numérique",
+        "libelleCarif": null,
+        "type": "baccalauréat technologique",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "informatique, Internet",
+            "categorie": "informatique (généralités)"
+          },
+          {
+            "domaine": "informatique, Internet",
+            "categorie": "systèmes et réseaux"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.3317",
+        "urlReferentiel": "https://eduscol.education.fr/645/horaires-de-la-serie-sciences-et-technologies-de-l-industrie-et-du-developpement-durable-sti2d",
+        "rncpCode": null
+      },
+      "bac pro cybersécurité, informatique et réseaux, électronique": {
+        "libelle": "bac pro cybersécurité, informatique et réseaux, électronique",
+        "libelleOnisep": "bac pro cybersécurité, informatique et réseaux, électronique",
+        "libelleCarif": null,
+        "type": "baccalauréat professionnel",
+        "natureCertificat": "Diplôme national ou diplôme d'État",
+        "niveauSortie": "bac ou équivalent",
+        "domaines": [
+          {
+            "domaine": "informatique, Internet",
+            "categorie": "développement, programmation, logiciel"
+          },
+          {
+            "domaine": "électricité, électronique, robotique",
+            "categorie": "électronique"
+          },
+          {
+            "domaine": "électricité, électronique, robotique",
+            "categorie": "électrotechnique"
+          },
+          {
+            "domaine": "informatique, Internet",
+            "categorie": "informatique (généralités)"
+          },
+          {
+            "domaine": "informatique, Internet",
+            "categorie": "informatique industrielle et technologique"
+          },
+          {
+            "domaine": "matières premières, fabrication, industries",
+            "categorie": "maintenance, qualité"
+          },
+          {
+            "domaine": "informatique, Internet",
+            "categorie": "systèmes et réseaux"
+          },
+          {
+            "domaine": "électricité, électronique, robotique",
+            "categorie": "télécommunications"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/FOR.8727",
+        "urlReferentiel": "https://eduscol.education.fr/referentiels-professionnels/bac_pro_CIEL.html",
+        "rncpCode": null
+      }
+    },
+    "diplomes_par_etablissement": {
+      "AF.6589": {
+        "id": "AF.6589",
+        "uai": "0541319R",
+        "etabNom": "Lycée Saint-Dominique",
+        "libelle": "bac général",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_1"
+      },
+      "AF.29585": {
+        "id": "AF.29585",
+        "uai": "0541305A",
+        "etabNom": "Lycée de l'Assomption",
+        "libelle": "bac général",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_2"
+      },
+      "AF.29391": {
+        "id": "AF.29391",
+        "uai": "0541986R",
+        "etabNom": "Lycée La Malgrange",
+        "libelle": "bac général",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_3"
+      },
+      "AF.75266": {
+        "id": "AF.75266",
+        "uai": "0541320S",
+        "etabNom": "Lycée Jean-Baptiste Vatelot",
+        "libelle": "bac général",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_4"
+      },
+      "AF.55173": {
+        "id": "AF.55173",
+        "uai": "0540041B",
+        "etabNom": "Lycée Georges de la Tour",
+        "libelle": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique ressources humaines et communication",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_5"
+      },
+      "AF.26382": {
+        "id": "AF.26382",
+        "uai": "0540041B",
+        "etabNom": "Lycée Georges de la Tour",
+        "libelle": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique mercatique (marketing)",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_5"
+      },
+      "AF.92760": {
+        "id": "AF.92760",
+        "uai": "0540041B",
+        "etabNom": "Lycée Georges de la Tour",
+        "libelle": "bac général",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_5"
+      },
+      "AF.9164": {
+        "id": "AF.9164",
+        "uai": "0540041B",
+        "etabNom": "Lycée Georges de la Tour",
+        "libelle": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique gestion et finance",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_5"
+      },
+      "AF.60147": {
+        "id": "AF.60147",
+        "uai": "0542208G",
+        "etabNom": "Lycée des métiers de l'hôtellerie-restauration et de l'alimentation Stanislas",
+        "libelle": "bac pro cuisine",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_6"
+      },
+      "AF.35157": {
+        "id": "AF.35157",
+        "uai": "0542208G",
+        "etabNom": "Lycée des métiers de l'hôtellerie-restauration et de l'alimentation Stanislas",
+        "libelle": "bac général",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_6"
+      },
+      "AF.45031": {
+        "id": "AF.45031",
+        "uai": "0541270M",
+        "etabNom": "Lycée des métiers des sciences et techniques de l'électricité et de la maintenance Jean Hanzelet",
+        "libelle": "CAP équipier polyvalent du commerce",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AF.60901": {
+        "id": "AF.60901",
+        "uai": "0542208G",
+        "etabNom": "Lycée des métiers de l'hôtellerie-restauration et de l'alimentation Stanislas",
+        "libelle": "bac pro commercialisation et services en restauration",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_6"
+      },
+      "AF.41927": {
+        "id": "AF.41927",
+        "uai": "0542208G",
+        "etabNom": "Lycée des métiers de l'hôtellerie-restauration et de l'alimentation Stanislas",
+        "libelle": "bac techno STHR sciences et technologies de l'hôtellerie et de la restauration",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_6"
+      },
+      "AF.86978": {
+        "id": "AF.86978",
+        "uai": "0541270M",
+        "etabNom": "Lycée des métiers des sciences et techniques de l'électricité et de la maintenance Jean Hanzelet",
+        "libelle": "bac général",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AF.76329": {
+        "id": "AF.76329",
+        "uai": "0542208G",
+        "etabNom": "Lycée des métiers de l'hôtellerie-restauration et de l'alimentation Stanislas",
+        "libelle": "bac pro boulanger-pâtissier",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_6"
+      },
+      "AF.7592": {
+        "id": "AF.7592",
+        "uai": "0541286E",
+        "etabNom": "Lycée général et technologique Louis Bertrand",
+        "libelle": "bac techno ST2S sciences et technologies de la santé et du social",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-10-15T00:00:00+02:00",
+        "etabId": "etab_8"
+      },
+      "AF.20942": {
+        "id": "AF.20942",
+        "uai": "0541286E",
+        "etabNom": "Lycée général et technologique Louis Bertrand",
+        "libelle": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique ressources humaines et communication",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-10-15T00:00:00+02:00",
+        "etabId": "etab_8"
+      },
+      "AF.40160": {
+        "id": "AF.40160",
+        "uai": "0541286E",
+        "etabNom": "Lycée général et technologique Louis Bertrand",
+        "libelle": "bac pro métiers du commerce et de la vente option A animation et gestion de l'espace commercial",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-06T00:00:00+01:00",
+        "etabId": "etab_8"
+      },
+      "AF.72023": {
+        "id": "AF.72023",
+        "uai": "0540044E",
+        "etabNom": "Lycée Arthur Varoquaux",
+        "libelle": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique gestion et finance",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_9"
+      },
+      "AF.81163": {
+        "id": "AF.81163",
+        "uai": "0540044E",
+        "etabNom": "Lycée Arthur Varoquaux",
+        "libelle": "bac général",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_9"
+      },
+      "AF.123971": {
+        "id": "AF.123971",
+        "uai": "0541286E",
+        "etabNom": "Lycée général et technologique Louis Bertrand",
+        "libelle": "bac général",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2023-10-05T00:00:00+02:00",
+        "dateModification": "2024-11-28T00:00:00+01:00",
+        "etabId": "etab_8"
+      },
+      "AF.2573": {
+        "id": "AF.2573",
+        "uai": "0541286E",
+        "etabNom": "Lycée général et technologique Louis Bertrand",
+        "libelle": "bac techno STL sciences et technologies de laboratoire enseignement spécifique biochimie, biologie, biotechnologie",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-10-15T00:00:00+02:00",
+        "etabId": "etab_8"
+      },
+      "AF.60748": {
+        "id": "AF.60748",
+        "uai": "0541286E",
+        "etabNom": "Lycée général et technologique Louis Bertrand",
+        "libelle": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique gestion et finance",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-10-12T00:00:00+02:00",
+        "etabId": "etab_8"
+      },
+      "AF.41970": {
+        "id": "AF.41970",
+        "uai": "0540044E",
+        "etabNom": "Lycée Arthur Varoquaux",
+        "libelle": "bac techno ST2S sciences et technologies de la santé et du social",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_9"
+      },
+      "AF.48471": {
+        "id": "AF.48471",
+        "uai": "0540044E",
+        "etabNom": "Lycée Arthur Varoquaux",
+        "libelle": "bac techno STL sciences et technologies de laboratoire enseignement spécifique sciences physiques et chimiques en laboratoire",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_9"
+      },
+      "AF.49556": {
+        "id": "AF.49556",
+        "uai": "0541286E",
+        "etabNom": "Lycée général et technologique Louis Bertrand",
+        "libelle": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique mercatique (marketing)",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-10-12T00:00:00+02:00",
+        "etabId": "etab_8"
+      },
+      "AF.89966": {
+        "id": "AF.89966",
+        "uai": "0540044E",
+        "etabNom": "Lycée Arthur Varoquaux",
+        "libelle": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique ressources humaines et communication",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_9"
+      },
+      "AF.55073": {
+        "id": "AF.55073",
+        "uai": "0540044E",
+        "etabNom": "Lycée Arthur Varoquaux",
+        "libelle": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique mercatique (marketing)",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_9"
+      },
+      "AF.37254": {
+        "id": "AF.37254",
+        "uai": "0540044E",
+        "etabNom": "Lycée Arthur Varoquaux",
+        "libelle": "bac techno STL sciences et technologies de laboratoire enseignement spécifique biochimie, biologie, biotechnologie",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_9"
+      },
+      "AF.40207": {
+        "id": "AF.40207",
+        "uai": "0540076P",
+        "etabNom": "Lycée polyvalent Jean Zay",
+        "libelle": "bac pro métiers de l'accueil",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2024-02-12T00:00:00+01:00",
+        "etabId": "etab_10"
+      },
+      "AF.33522": {
+        "id": "AF.33522",
+        "uai": "0540076P",
+        "etabNom": "Lycée polyvalent Jean Zay",
+        "libelle": "bac pro métiers de l'électricité et de ses environnements connectés",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-06-12T00:00:00+02:00",
+        "etabId": "etab_10"
+      },
+      "AF.73085": {
+        "id": "AF.73085",
+        "uai": "0540076P",
+        "etabNom": "Lycée polyvalent Jean Zay",
+        "libelle": "bac pro accompagnement, soins et services à la personne",
+        "dureeCycleStandard": "3 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2022-03-24T00:00:00+01:00",
+        "etabId": "etab_10"
+      },
+      "AF.66500": {
+        "id": "AF.66500",
+        "uai": "0540076P",
+        "etabNom": "Lycée polyvalent Jean Zay",
+        "libelle": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique ressources humaines et communication",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_10"
+      },
+      "AF.75568": {
+        "id": "AF.75568",
+        "uai": "0540076P",
+        "etabNom": "Lycée polyvalent Jean Zay",
+        "libelle": "bac pro aéronautique option systèmes",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-06-19T00:00:00+02:00",
+        "etabId": "etab_10"
+      },
+      "AF.30713": {
+        "id": "AF.30713",
+        "uai": "0540076P",
+        "etabNom": "Lycée polyvalent Jean Zay",
+        "libelle": "bac pro métiers du commerce et de la vente option B prospection clientèle et valorisation de l'offre commerciale",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_10"
+      },
+      "AF.25968": {
+        "id": "AF.25968",
+        "uai": "0540076P",
+        "etabNom": "Lycée polyvalent Jean Zay",
+        "libelle": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique gestion et finance",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_10"
+      },
+      "AF.80930": {
+        "id": "AF.80930",
+        "uai": "0540076P",
+        "etabNom": "Lycée polyvalent Jean Zay",
+        "libelle": "bac général",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_10"
+      },
+      "AF.40208": {
+        "id": "AF.40208",
+        "uai": "0540076P",
+        "etabNom": "Lycée polyvalent Jean Zay",
+        "libelle": "bac pro maintenance des systèmes de production connectés",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_10"
+      },
+      "AF.8290": {
+        "id": "AF.8290",
+        "uai": "0541270M",
+        "etabNom": "Lycée des métiers des sciences et techniques de l'électricité et de la maintenance Jean Hanzelet",
+        "libelle": "bac techno STI2D sciences et technologies de l'industrie et du développement durable enseignement spécifique énergie et environnement",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AF.68111": {
+        "id": "AF.68111",
+        "uai": "0541270M",
+        "etabNom": "Lycée des métiers des sciences et techniques de l'électricité et de la maintenance Jean Hanzelet",
+        "libelle": "bac pro maintenance des systèmes de production connectés",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AF.48805": {
+        "id": "AF.48805",
+        "uai": "0541270M",
+        "etabNom": "Lycée des métiers des sciences et techniques de l'électricité et de la maintenance Jean Hanzelet",
+        "libelle": "bac pro métiers du commerce et de la vente option A animation et gestion de l'espace commercial",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AF.55769": {
+        "id": "AF.55769",
+        "uai": "0541270M",
+        "etabNom": "Lycée des métiers des sciences et techniques de l'électricité et de la maintenance Jean Hanzelet",
+        "libelle": "bac pro métiers du commerce et de la vente option B prospection clientèle et valorisation de l'offre commerciale",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AF.2578": {
+        "id": "AF.2578",
+        "uai": "0541270M",
+        "etabNom": "Lycée des métiers des sciences et techniques de l'électricité et de la maintenance Jean Hanzelet",
+        "libelle": "bac techno STI2D sciences et technologies de l'industrie et du développement durable enseignement spécifique innovation technologique et éco-conception",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AF.62346": {
+        "id": "AF.62346",
+        "uai": "0541270M",
+        "etabNom": "Lycée des métiers des sciences et techniques de l'électricité et de la maintenance Jean Hanzelet",
+        "libelle": "bac pro métiers de l'électricité et de ses environnements connectés",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AF.88806": {
+        "id": "AF.88806",
+        "uai": "0540076P",
+        "etabNom": "Lycée polyvalent Jean Zay",
+        "libelle": "bac techno STI2D sciences et technologies de l'industrie et du développement durable enseignement spécifique innovation technologique et éco-conception",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_10"
+      },
+      "AF.8363": {
+        "id": "AF.8363",
+        "uai": "0540076P",
+        "etabNom": "Lycée polyvalent Jean Zay",
+        "libelle": "bac techno STI2D sciences et technologies de l'industrie et du développement durable enseignement spécifique systèmes d'information et numérique",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_10"
+      },
+      "AF.21842": {
+        "id": "AF.21842",
+        "uai": "0540076P",
+        "etabNom": "Lycée polyvalent Jean Zay",
+        "libelle": "bac pro cybersécurité, informatique et réseaux, électronique",
+        "dureeCycleStandard": "2 ans",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-06-12T00:00:00+02:00",
+        "etabId": "etab_10"
+      },
+      "AF.78129": {
+        "id": "AF.78129",
+        "uai": "0540034U",
+        "etabNom": "Lycée Ernest Bichat",
+        "libelle": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique mercatique (marketing)",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_11"
+      },
+      "AF.83538": {
+        "id": "AF.83538",
+        "uai": "0540034U",
+        "etabNom": "Lycée Ernest Bichat",
+        "libelle": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique gestion et finance",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_11"
+      },
+      "AF.61071": {
+        "id": "AF.61071",
+        "uai": "0540034U",
+        "etabNom": "Lycée Ernest Bichat",
+        "libelle": "bac techno STMG sciences et technologies du management et de la gestion enseignement spécifique ressources humaines et communication",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_11"
+      },
+      "AF.23737": {
+        "id": "AF.23737",
+        "uai": "0540034U",
+        "etabNom": "Lycée Ernest Bichat",
+        "libelle": "bac général",
+        "dureeCycleStandard": "1 an",
+        "modalitesScolarite": "temps plein, cours en présentiel",
+        "elementsDenseignement": null,
+        "coutScolarite": null,
+        "modalitesAccueil": null,
+        "pageWeb": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_11"
+      }
+    },
+    "dispositifs": {
+      "section européenne de lycée général et technologique": {
+        "libelle": "section européenne de lycée général et technologique",
+        "domaines": [
+          {
+            "domaine": "lettres, langues, enseignement",
+            "categorie": "formations généralistes"
+          },
+          {
+            "domaine": "lettres, langues, enseignement",
+            "categorie": "langues"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/TYPDISP.17"
+      },
+      "classe de 3e prépa-métiers": {
+        "libelle": "classe de 3e prépa-métiers",
+        "domaines": [
+          {
+            "domaine": "lettres, langues, enseignement",
+            "categorie": "formations généralistes"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/TYPDISP.32"
+      },
+      "section sportive de lycée": {
+        "libelle": "section sportive de lycée",
+        "domaines": [
+          {
+            "domaine": "santé, social, sport",
+            "categorie": "sport"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/TYPDISP.5"
+      },
+      "unité localisée pour l'inclusion scolaire en lycée": {
+        "libelle": "unité localisée pour l'inclusion scolaire en lycée",
+        "domaines": [
+          {
+            "domaine": "lettres, langues, enseignement",
+            "categorie": "formations généralistes"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/TYPDISP.24"
+      },
+      "classe sport-études en lycée": {
+        "libelle": "classe sport-études en lycée",
+        "domaines": [
+          {
+            "domaine": "santé, social, sport",
+            "categorie": "sport"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/TYPDISP.45"
+      },
+      "section européenne de lycée professionnel": {
+        "libelle": "section européenne de lycée professionnel",
+        "domaines": [
+          {
+            "domaine": "lettres, langues, enseignement",
+            "categorie": "formations généralistes"
+          },
+          {
+            "domaine": "lettres, langues, enseignement",
+            "categorie": "langues"
+          }
+        ],
+        "urlOnisep": "https://www.onisep.fr/http/redirection/formation/slug/TYPDISP.31"
+      }
+    },
+    "dispositifs_par_etablissement": {
+      "AD.7629": {
+        "id": "AD.7629",
+        "uai": "0541986R",
+        "etabNom": "Lycée La Malgrange",
+        "libelle": "section européenne de lycée général et technologique",
+        "duree": "3 ans",
+        "elementsDenseignement": "allemand, anglais",
+        "modalitesAccueil": null,
+        "sports": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-09-25T00:00:00+02:00",
+        "etabId": "etab_3"
+      },
+      "AD.28049": {
+        "id": "AD.28049",
+        "uai": "0541286E",
+        "etabNom": "Lycée général et technologique Louis Bertrand",
+        "libelle": "classe de 3e prépa-métiers",
+        "duree": "1 an",
+        "elementsDenseignement": null,
+        "modalitesAccueil": null,
+        "sports": null,
+        "dateCreation": "2024-01-09T00:00:00+01:00",
+        "dateModification": "2025-02-06T00:00:00+01:00",
+        "etabId": "etab_8"
+      },
+      "AD.26149": {
+        "id": "AD.26149",
+        "uai": "0541286E",
+        "etabNom": "Lycée général et technologique Louis Bertrand",
+        "libelle": "section sportive de lycée",
+        "duree": "3 ans",
+        "elementsDenseignement": "basket",
+        "modalitesAccueil": null,
+        "sports": null,
+        "dateCreation": "2022-07-07T00:00:00+02:00",
+        "dateModification": "2022-07-07T00:00:00+02:00",
+        "etabId": "etab_8"
+      },
+      "AD.22082": {
+        "id": "AD.22082",
+        "uai": "0540041B",
+        "etabNom": "Lycée Georges de la Tour",
+        "libelle": "section sportive de lycée",
+        "duree": "3 ans",
+        "elementsDenseignement": "athlétisme, basket, triathlon",
+        "modalitesAccueil": null,
+        "sports": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-09-23T00:00:00+02:00",
+        "etabId": "etab_5"
+      },
+      "AD.17119": {
+        "id": "AD.17119",
+        "uai": "0542208G",
+        "etabNom": "Lycée des métiers de l'hôtellerie-restauration et de l'alimentation Stanislas",
+        "libelle": "unité localisée pour l'inclusion scolaire en lycée",
+        "duree": "3 ans",
+        "elementsDenseignement": null,
+        "modalitesAccueil": null,
+        "sports": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2024-02-23T00:00:00+01:00",
+        "etabId": "etab_6"
+      },
+      "AD.22081": {
+        "id": "AD.22081",
+        "uai": "0540041B",
+        "etabNom": "Lycée Georges de la Tour",
+        "libelle": "section européenne de lycée général et technologique",
+        "duree": "3 ans",
+        "elementsDenseignement": "espagnol",
+        "modalitesAccueil": null,
+        "sports": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-09-25T00:00:00+02:00",
+        "etabId": "etab_5"
+      },
+      "AD.29944": {
+        "id": "AD.29944",
+        "uai": "0540041B",
+        "etabNom": "Lycée Georges de la Tour",
+        "libelle": "classe sport-études en lycée",
+        "duree": "3 ans",
+        "elementsDenseignement": "athlétisme, basket, football, natation, tennis, triathlon",
+        "modalitesAccueil": null,
+        "sports": null,
+        "dateCreation": "2025-06-24T00:00:00+02:00",
+        "dateModification": "2025-06-24T00:00:00+02:00",
+        "etabId": "etab_5"
+      },
+      "AD.20521": {
+        "id": "AD.20521",
+        "uai": "0540076P",
+        "etabNom": "Lycée polyvalent Jean Zay",
+        "libelle": "classe de 3e prépa-métiers",
+        "duree": "1 an",
+        "elementsDenseignement": null,
+        "modalitesAccueil": null,
+        "sports": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-09-02T00:00:00+02:00",
+        "etabId": "etab_10"
+      },
+      "AD.22021": {
+        "id": "AD.22021",
+        "uai": "0540076P",
+        "etabNom": "Lycée polyvalent Jean Zay",
+        "libelle": "section européenne de lycée général et technologique",
+        "duree": "3 ans",
+        "elementsDenseignement": "italien",
+        "modalitesAccueil": null,
+        "sports": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-09-25T00:00:00+02:00",
+        "etabId": "etab_10"
+      },
+      "AD.22022": {
+        "id": "AD.22022",
+        "uai": "0540076P",
+        "etabNom": "Lycée polyvalent Jean Zay",
+        "libelle": "section sportive de lycée",
+        "duree": "3 ans",
+        "elementsDenseignement": "football, football (arbitre), volley-ball",
+        "modalitesAccueil": null,
+        "sports": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-09-14T00:00:00+02:00",
+        "etabId": "etab_10"
+      },
+      "AD.17118": {
+        "id": "AD.17118",
+        "uai": "0542208G",
+        "etabNom": "Lycée des métiers de l'hôtellerie-restauration et de l'alimentation Stanislas",
+        "libelle": "section européenne de lycée professionnel",
+        "duree": "3 ans",
+        "elementsDenseignement": "allemand, anglais, espagnol",
+        "modalitesAccueil": null,
+        "sports": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-09-29T00:00:00+02:00",
+        "etabId": "etab_6"
+      },
+      "AD.22420": {
+        "id": "AD.22420",
+        "uai": "0542208G",
+        "etabNom": "Lycée des métiers de l'hôtellerie-restauration et de l'alimentation Stanislas",
+        "libelle": "section européenne de lycée général et technologique",
+        "duree": "3 ans",
+        "elementsDenseignement": "allemand",
+        "modalitesAccueil": null,
+        "sports": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-09-25T00:00:00+02:00",
+        "etabId": "etab_6"
+      },
+      "AD.22421": {
+        "id": "AD.22421",
+        "uai": "0542208G",
+        "etabNom": "Lycée des métiers de l'hôtellerie-restauration et de l'alimentation Stanislas",
+        "libelle": "section sportive de lycée",
+        "duree": "3 ans",
+        "elementsDenseignement": "handball, rugby (sans précision)",
+        "modalitesAccueil": "concerne uniquement les élèves de 2de, 1re et Terminale de Bac général ou technologique",
+        "sports": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2024-01-29T00:00:00+01:00",
+        "etabId": "etab_6"
+      },
+      "AD.24384": {
+        "id": "AD.24384",
+        "uai": "0540044E",
+        "etabNom": "Lycée Arthur Varoquaux",
+        "libelle": "classe sport-études en lycée",
+        "duree": "3 ans",
+        "elementsDenseignement": "aviron, badminton, boxe anglaise, canoë-kayak, squash, tir à l'arc, volley-ball",
+        "modalitesAccueil": null,
+        "sports": null,
+        "dateCreation": "2021-09-09T00:00:00+02:00",
+        "dateModification": "2025-06-24T00:00:00+02:00",
+        "etabId": "etab_9"
+      },
+      "AD.22140": {
+        "id": "AD.22140",
+        "uai": "0540044E",
+        "etabNom": "Lycée Arthur Varoquaux",
+        "libelle": "section européenne de lycée général et technologique",
+        "duree": "3 ans",
+        "elementsDenseignement": "anglais",
+        "modalitesAccueil": null,
+        "sports": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-09-25T00:00:00+02:00",
+        "etabId": "etab_9"
+      },
+      "AD.22141": {
+        "id": "AD.22141",
+        "uai": "0540044E",
+        "etabNom": "Lycée Arthur Varoquaux",
+        "libelle": "section sportive de lycée",
+        "duree": "3 ans",
+        "elementsDenseignement": "rugby (sans précision)",
+        "modalitesAccueil": null,
+        "sports": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-09-14T00:00:00+02:00",
+        "etabId": "etab_9"
+      },
+      "AD.29952": {
+        "id": "AD.29952",
+        "uai": "0541270M",
+        "etabNom": "Lycée des métiers des sciences et techniques de l'électricité et de la maintenance Jean Hanzelet",
+        "libelle": "classe sport-études en lycée",
+        "duree": "3 ans",
+        "elementsDenseignement": "cyclisme, handball, volley-ball",
+        "modalitesAccueil": null,
+        "sports": null,
+        "dateCreation": "2025-06-24T00:00:00+02:00",
+        "dateModification": "2025-06-24T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AD.7587": {
+        "id": "AD.7587",
+        "uai": "0541270M",
+        "etabNom": "Lycée des métiers des sciences et techniques de l'électricité et de la maintenance Jean Hanzelet",
+        "libelle": "section européenne de lycée général et technologique",
+        "duree": "3 ans",
+        "elementsDenseignement": "allemand, anglais",
+        "modalitesAccueil": null,
+        "sports": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2021-02-09T00:00:00+01:00",
+        "etabId": "etab_7"
+      },
+      "AD.28287": {
+        "id": "AD.28287",
+        "uai": "0541270M",
+        "etabNom": "Lycée des métiers des sciences et techniques de l'électricité et de la maintenance Jean Hanzelet",
+        "libelle": "section européenne de lycée professionnel",
+        "duree": "3 ans",
+        "elementsDenseignement": "anglais",
+        "modalitesAccueil": null,
+        "sports": null,
+        "dateCreation": "2024-02-12T00:00:00+01:00",
+        "dateModification": "2024-02-12T00:00:00+01:00",
+        "etabId": "etab_7"
+      },
+      "AD.15139": {
+        "id": "AD.15139",
+        "uai": "0541270M",
+        "etabNom": "Lycée des métiers des sciences et techniques de l'électricité et de la maintenance Jean Hanzelet",
+        "libelle": "unité localisée pour l'inclusion scolaire en lycée",
+        "duree": "3 ans",
+        "elementsDenseignement": null,
+        "modalitesAccueil": null,
+        "sports": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2024-02-23T00:00:00+01:00",
+        "etabId": "etab_7"
+      },
+      "AD.15138": {
+        "id": "AD.15138",
+        "uai": "0541270M",
+        "etabNom": "Lycée des métiers des sciences et techniques de l'électricité et de la maintenance Jean Hanzelet",
+        "libelle": "classe de 3e prépa-métiers",
+        "duree": "1 an",
+        "elementsDenseignement": null,
+        "modalitesAccueil": null,
+        "sports": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-09-02T00:00:00+02:00",
+        "etabId": "etab_7"
+      },
+      "AD.16518": {
+        "id": "AD.16518",
+        "uai": "0540034U",
+        "etabNom": "Lycée Ernest Bichat",
+        "libelle": "section européenne de lycée général et technologique",
+        "duree": "3 ans",
+        "elementsDenseignement": "allemand, anglais",
+        "modalitesAccueil": null,
+        "sports": null,
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-09-25T00:00:00+02:00",
+        "etabId": "etab_11"
+      }
+    },
+    "options_2nde_gt": {
+      "Arts : arts plastiques": {
+        "libelle": "Arts : arts plastiques"
+      },
+      "Éducation physique et sportive": {
+        "libelle": "Éducation physique et sportive"
+      },
+      "Management et gestion": {
+        "libelle": "Management et gestion"
+      },
+      "Sciences et laboratoire": {
+        "libelle": "Sciences et laboratoire"
+      },
+      "LV1 : anglais, allemand": {
+        "libelle": "LV1 : anglais, allemand"
+      },
+      "LV2 : espagnol, anglais, allemand, italien": {
+        "libelle": "LV2 : espagnol, anglais, allemand, italien"
+      },
+      "Biotechnologies": {
+        "libelle": "Biotechnologies"
+      },
+      "Espagnol": {
+        "libelle": "Espagnol"
+      },
+      "Arts : théâtre": {
+        "libelle": "Arts : théâtre"
+      },
+      "Chinois": {
+        "libelle": "Chinois"
+      },
+      "LV1 : anglais": {
+        "libelle": "LV1 : anglais"
+      },
+      "LV2 : espagnol, allemand, chinois": {
+        "libelle": "LV2 : espagnol, allemand, chinois"
+      },
+      "Italien": {
+        "libelle": "Italien"
+      },
+      "LV2 : espagnol, allemand": {
+        "libelle": "LV2 : espagnol, allemand"
+      },
+      "Création et innovation technologiques": {
+        "libelle": "Création et innovation technologiques"
+      },
+      "Sciences de l'ingénieur": {
+        "libelle": "Sciences de l'ingénieur"
+      },
+      "LV2 : espagnol, anglais, allemand": {
+        "libelle": "LV2 : espagnol, anglais, allemand"
+      },
+      "Arts : musique": {
+        "libelle": "Arts : musique"
+      },
+      "Santé et social": {
+        "libelle": "Santé et social"
+      },
+      "Langue des signes française": {
+        "libelle": "Langue des signes française"
+      },
+      "Langues et cultures de l'Antiquité : latin": {
+        "libelle": "Langues et cultures de l'Antiquité : latin"
+      },
+      "Arts : cinéma-audiovisuel": {
+        "libelle": "Arts : cinéma-audiovisuel"
+      },
+      "Langues et cultures de l'Antiquité : grec": {
+        "libelle": "Langues et cultures de l'Antiquité : grec"
+      }
+    },
+    "options_2nde_gt_par_etablissement": {
+      "Arts : arts plastiques_etab_5": {
+        "id": "Arts : arts plastiques_etab_5",
+        "uai": "0540041B",
+        "etabNom": "Lycée Georges de la Tour",
+        "libelle": "Arts : arts plastiques",
+        "idActionFormation": "AF.61203",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2024-02-19T00:00:00+01:00",
+        "etabId": "etab_5"
+      },
+      "Éducation physique et sportive_etab_5": {
+        "id": "Éducation physique et sportive_etab_5",
+        "uai": "0540041B",
+        "etabNom": "Lycée Georges de la Tour",
+        "libelle": "Éducation physique et sportive",
+        "idActionFormation": "AF.61203",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2024-02-19T00:00:00+01:00",
+        "etabId": "etab_5"
+      },
+      "Management et gestion_etab_5": {
+        "id": "Management et gestion_etab_5",
+        "uai": "0540041B",
+        "etabNom": "Lycée Georges de la Tour",
+        "libelle": "Management et gestion",
+        "idActionFormation": "AF.61203",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2024-02-19T00:00:00+01:00",
+        "etabId": "etab_5"
+      },
+      "Sciences et laboratoire_etab_5": {
+        "id": "Sciences et laboratoire_etab_5",
+        "uai": "0540041B",
+        "etabNom": "Lycée Georges de la Tour",
+        "libelle": "Sciences et laboratoire",
+        "idActionFormation": "AF.61203",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2024-02-19T00:00:00+01:00",
+        "etabId": "etab_5"
+      },
+      "LV1 : anglais, allemand_etab_5": {
+        "id": "LV1 : anglais, allemand_etab_5",
+        "uai": "0540041B",
+        "etabNom": "Lycée Georges de la Tour",
+        "libelle": "LV1 : anglais, allemand",
+        "idActionFormation": "AF.61203",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2024-02-19T00:00:00+01:00",
+        "etabId": "etab_5"
+      },
+      "LV2 : espagnol, anglais, allemand, italien_etab_5": {
+        "id": "LV2 : espagnol, anglais, allemand, italien_etab_5",
+        "uai": "0540041B",
+        "etabNom": "Lycée Georges de la Tour",
+        "libelle": "LV2 : espagnol, anglais, allemand, italien",
+        "idActionFormation": "AF.61203",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2024-02-19T00:00:00+01:00",
+        "etabId": "etab_5"
+      },
+      "Biotechnologies_etab_6": {
+        "id": "Biotechnologies_etab_6",
+        "uai": "0542208G",
+        "etabNom": "Lycée des métiers de l'hôtellerie-restauration et de l'alimentation Stanislas",
+        "libelle": "Biotechnologies",
+        "idActionFormation": "AF.70885",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_6"
+      },
+      "Espagnol_etab_6": {
+        "id": "Espagnol_etab_6",
+        "uai": "0542208G",
+        "etabNom": "Lycée des métiers de l'hôtellerie-restauration et de l'alimentation Stanislas",
+        "libelle": "Espagnol",
+        "idActionFormation": "AF.70885",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_6"
+      },
+      "Sciences et laboratoire_etab_6": {
+        "id": "Sciences et laboratoire_etab_6",
+        "uai": "0542208G",
+        "etabNom": "Lycée des métiers de l'hôtellerie-restauration et de l'alimentation Stanislas",
+        "libelle": "Sciences et laboratoire",
+        "idActionFormation": "AF.70885",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_6"
+      },
+      "LV1 : anglais, allemand_etab_6": {
+        "id": "LV1 : anglais, allemand_etab_6",
+        "uai": "0542208G",
+        "etabNom": "Lycée des métiers de l'hôtellerie-restauration et de l'alimentation Stanislas",
+        "libelle": "LV1 : anglais, allemand",
+        "idActionFormation": "AF.70885",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_6"
+      },
+      "LV2 : espagnol, anglais, allemand, italien_etab_6": {
+        "id": "LV2 : espagnol, anglais, allemand, italien_etab_6",
+        "uai": "0542208G",
+        "etabNom": "Lycée des métiers de l'hôtellerie-restauration et de l'alimentation Stanislas",
+        "libelle": "LV2 : espagnol, anglais, allemand, italien",
+        "idActionFormation": "AF.70885",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_6"
+      },
+      "Arts : arts plastiques_etab_1": {
+        "id": "Arts : arts plastiques_etab_1",
+        "uai": "0541319R",
+        "etabNom": "Lycée Saint-Dominique",
+        "libelle": "Arts : arts plastiques",
+        "idActionFormation": "AF.24921",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_1"
+      },
+      "Arts : théâtre_etab_1": {
+        "id": "Arts : théâtre_etab_1",
+        "uai": "0541319R",
+        "etabNom": "Lycée Saint-Dominique",
+        "libelle": "Arts : théâtre",
+        "idActionFormation": "AF.24921",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_1"
+      },
+      "Chinois_etab_1": {
+        "id": "Chinois_etab_1",
+        "uai": "0541319R",
+        "etabNom": "Lycée Saint-Dominique",
+        "libelle": "Chinois",
+        "idActionFormation": "AF.24921",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_1"
+      },
+      "Sciences et laboratoire_etab_1": {
+        "id": "Sciences et laboratoire_etab_1",
+        "uai": "0541319R",
+        "etabNom": "Lycée Saint-Dominique",
+        "libelle": "Sciences et laboratoire",
+        "idActionFormation": "AF.24921",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_1"
+      },
+      "LV1 : anglais_etab_1": {
+        "id": "LV1 : anglais_etab_1",
+        "uai": "0541319R",
+        "etabNom": "Lycée Saint-Dominique",
+        "libelle": "LV1 : anglais",
+        "idActionFormation": "AF.24921",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_1"
+      },
+      "LV2 : espagnol, allemand, chinois_etab_1": {
+        "id": "LV2 : espagnol, allemand, chinois_etab_1",
+        "uai": "0541319R",
+        "etabNom": "Lycée Saint-Dominique",
+        "libelle": "LV2 : espagnol, allemand, chinois",
+        "idActionFormation": "AF.24921",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_1"
+      },
+      "Italien_etab_2": {
+        "id": "Italien_etab_2",
+        "uai": "0541305A",
+        "etabNom": "Lycée de l'Assomption",
+        "libelle": "Italien",
+        "idActionFormation": "AF.53762",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_2"
+      },
+      "Sciences et laboratoire_etab_2": {
+        "id": "Sciences et laboratoire_etab_2",
+        "uai": "0541305A",
+        "etabNom": "Lycée de l'Assomption",
+        "libelle": "Sciences et laboratoire",
+        "idActionFormation": "AF.53762",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_2"
+      },
+      "LV1 : anglais_etab_2": {
+        "id": "LV1 : anglais_etab_2",
+        "uai": "0541305A",
+        "etabNom": "Lycée de l'Assomption",
+        "libelle": "LV1 : anglais",
+        "idActionFormation": "AF.53762",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_2"
+      },
+      "LV2 : espagnol, allemand_etab_2": {
+        "id": "LV2 : espagnol, allemand_etab_2",
+        "uai": "0541305A",
+        "etabNom": "Lycée de l'Assomption",
+        "libelle": "LV2 : espagnol, allemand",
+        "idActionFormation": "AF.53762",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_2"
+      },
+      "Arts : arts plastiques_etab_7": {
+        "id": "Arts : arts plastiques_etab_7",
+        "uai": "0541270M",
+        "etabNom": "Lycée des métiers des sciences et techniques de l'électricité et de la maintenance Jean Hanzelet",
+        "libelle": "Arts : arts plastiques",
+        "idActionFormation": "AF.48001",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2024-02-19T00:00:00+01:00",
+        "etabId": "etab_7"
+      },
+      "Création et innovation technologiques_etab_7": {
+        "id": "Création et innovation technologiques_etab_7",
+        "uai": "0541270M",
+        "etabNom": "Lycée des métiers des sciences et techniques de l'électricité et de la maintenance Jean Hanzelet",
+        "libelle": "Création et innovation technologiques",
+        "idActionFormation": "AF.48001",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2024-02-19T00:00:00+01:00",
+        "etabId": "etab_7"
+      },
+      "Sciences de l'ingénieur_etab_7": {
+        "id": "Sciences de l'ingénieur_etab_7",
+        "uai": "0541270M",
+        "etabNom": "Lycée des métiers des sciences et techniques de l'électricité et de la maintenance Jean Hanzelet",
+        "libelle": "Sciences de l'ingénieur",
+        "idActionFormation": "AF.48001",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2024-02-19T00:00:00+01:00",
+        "etabId": "etab_7"
+      },
+      "Sciences et laboratoire_etab_7": {
+        "id": "Sciences et laboratoire_etab_7",
+        "uai": "0541270M",
+        "etabNom": "Lycée des métiers des sciences et techniques de l'électricité et de la maintenance Jean Hanzelet",
+        "libelle": "Sciences et laboratoire",
+        "idActionFormation": "AF.48001",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2024-02-19T00:00:00+01:00",
+        "etabId": "etab_7"
+      },
+      "LV1 : anglais, allemand_etab_7": {
+        "id": "LV1 : anglais, allemand_etab_7",
+        "uai": "0541270M",
+        "etabNom": "Lycée des métiers des sciences et techniques de l'électricité et de la maintenance Jean Hanzelet",
+        "libelle": "LV1 : anglais, allemand",
+        "idActionFormation": "AF.48001",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2024-02-19T00:00:00+01:00",
+        "etabId": "etab_7"
+      },
+      "LV2 : espagnol, anglais, allemand_etab_7": {
+        "id": "LV2 : espagnol, anglais, allemand_etab_7",
+        "uai": "0541270M",
+        "etabNom": "Lycée des métiers des sciences et techniques de l'électricité et de la maintenance Jean Hanzelet",
+        "libelle": "LV2 : espagnol, anglais, allemand",
+        "idActionFormation": "AF.48001",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2024-02-19T00:00:00+01:00",
+        "etabId": "etab_7"
+      },
+      "Arts : musique_etab_8": {
+        "id": "Arts : musique_etab_8",
+        "uai": "0541286E",
+        "etabNom": "Lycée général et technologique Louis Bertrand",
+        "libelle": "Arts : musique",
+        "idActionFormation": "AF.42335",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2022-02-07T00:00:00+01:00",
+        "etabId": "etab_8"
+      },
+      "Biotechnologies_etab_8": {
+        "id": "Biotechnologies_etab_8",
+        "uai": "0541286E",
+        "etabNom": "Lycée général et technologique Louis Bertrand",
+        "libelle": "Biotechnologies",
+        "idActionFormation": "AF.42335",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2022-02-07T00:00:00+01:00",
+        "etabId": "etab_8"
+      },
+      "Création et innovation technologiques_etab_8": {
+        "id": "Création et innovation technologiques_etab_8",
+        "uai": "0541286E",
+        "etabNom": "Lycée général et technologique Louis Bertrand",
+        "libelle": "Création et innovation technologiques",
+        "idActionFormation": "AF.42335",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2022-02-07T00:00:00+01:00",
+        "etabId": "etab_8"
+      },
+      "Éducation physique et sportive_etab_8": {
+        "id": "Éducation physique et sportive_etab_8",
+        "uai": "0541286E",
+        "etabNom": "Lycée général et technologique Louis Bertrand",
+        "libelle": "Éducation physique et sportive",
+        "idActionFormation": "AF.42335",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2022-02-07T00:00:00+01:00",
+        "etabId": "etab_8"
+      },
+      "Espagnol_etab_8": {
+        "id": "Espagnol_etab_8",
+        "uai": "0541286E",
+        "etabNom": "Lycée général et technologique Louis Bertrand",
+        "libelle": "Espagnol",
+        "idActionFormation": "AF.42335",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2022-02-07T00:00:00+01:00",
+        "etabId": "etab_8"
+      },
+      "Management et gestion_etab_8": {
+        "id": "Management et gestion_etab_8",
+        "uai": "0541286E",
+        "etabNom": "Lycée général et technologique Louis Bertrand",
+        "libelle": "Management et gestion",
+        "idActionFormation": "AF.42335",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2022-02-07T00:00:00+01:00",
+        "etabId": "etab_8"
+      },
+      "Santé et social_etab_8": {
+        "id": "Santé et social_etab_8",
+        "uai": "0541286E",
+        "etabNom": "Lycée général et technologique Louis Bertrand",
+        "libelle": "Santé et social",
+        "idActionFormation": "AF.42335",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2022-02-07T00:00:00+01:00",
+        "etabId": "etab_8"
+      },
+      "Sciences de l'ingénieur_etab_8": {
+        "id": "Sciences de l'ingénieur_etab_8",
+        "uai": "0541286E",
+        "etabNom": "Lycée général et technologique Louis Bertrand",
+        "libelle": "Sciences de l'ingénieur",
+        "idActionFormation": "AF.42335",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2022-02-07T00:00:00+01:00",
+        "etabId": "etab_8"
+      },
+      "Sciences et laboratoire_etab_8": {
+        "id": "Sciences et laboratoire_etab_8",
+        "uai": "0541286E",
+        "etabNom": "Lycée général et technologique Louis Bertrand",
+        "libelle": "Sciences et laboratoire",
+        "idActionFormation": "AF.42335",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2022-02-07T00:00:00+01:00",
+        "etabId": "etab_8"
+      },
+      "LV1 : anglais, allemand_etab_8": {
+        "id": "LV1 : anglais, allemand_etab_8",
+        "uai": "0541286E",
+        "etabNom": "Lycée général et technologique Louis Bertrand",
+        "libelle": "LV1 : anglais, allemand",
+        "idActionFormation": "AF.42335",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2022-02-07T00:00:00+01:00",
+        "etabId": "etab_8"
+      },
+      "LV2 : espagnol, anglais, allemand, italien_etab_8": {
+        "id": "LV2 : espagnol, anglais, allemand, italien_etab_8",
+        "uai": "0541286E",
+        "etabNom": "Lycée général et technologique Louis Bertrand",
+        "libelle": "LV2 : espagnol, anglais, allemand, italien",
+        "idActionFormation": "AF.42335",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2022-02-07T00:00:00+01:00",
+        "etabId": "etab_8"
+      },
+      "Arts : arts plastiques_etab_9": {
+        "id": "Arts : arts plastiques_etab_9",
+        "uai": "0540044E",
+        "etabNom": "Lycée Arthur Varoquaux",
+        "libelle": "Arts : arts plastiques",
+        "idActionFormation": "AF.65195",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-03-13T00:00:00+01:00",
+        "etabId": "etab_9"
+      },
+      "Biotechnologies_etab_9": {
+        "id": "Biotechnologies_etab_9",
+        "uai": "0540044E",
+        "etabNom": "Lycée Arthur Varoquaux",
+        "libelle": "Biotechnologies",
+        "idActionFormation": "AF.65195",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-03-13T00:00:00+01:00",
+        "etabId": "etab_9"
+      },
+      "Langue des signes française_etab_9": {
+        "id": "Langue des signes française_etab_9",
+        "uai": "0540044E",
+        "etabNom": "Lycée Arthur Varoquaux",
+        "libelle": "Langue des signes française",
+        "idActionFormation": "AF.65195",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-03-13T00:00:00+01:00",
+        "etabId": "etab_9"
+      },
+      "Langues et cultures de l'Antiquité : latin_etab_9": {
+        "id": "Langues et cultures de l'Antiquité : latin_etab_9",
+        "uai": "0540044E",
+        "etabNom": "Lycée Arthur Varoquaux",
+        "libelle": "Langues et cultures de l'Antiquité : latin",
+        "idActionFormation": "AF.65195",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-03-13T00:00:00+01:00",
+        "etabId": "etab_9"
+      },
+      "Santé et social_etab_9": {
+        "id": "Santé et social_etab_9",
+        "uai": "0540044E",
+        "etabNom": "Lycée Arthur Varoquaux",
+        "libelle": "Santé et social",
+        "idActionFormation": "AF.65195",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-03-13T00:00:00+01:00",
+        "etabId": "etab_9"
+      },
+      "Sciences et laboratoire_etab_9": {
+        "id": "Sciences et laboratoire_etab_9",
+        "uai": "0540044E",
+        "etabNom": "Lycée Arthur Varoquaux",
+        "libelle": "Sciences et laboratoire",
+        "idActionFormation": "AF.65195",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-03-13T00:00:00+01:00",
+        "etabId": "etab_9"
+      },
+      "LV1 : anglais, allemand_etab_9": {
+        "id": "LV1 : anglais, allemand_etab_9",
+        "uai": "0540044E",
+        "etabNom": "Lycée Arthur Varoquaux",
+        "libelle": "LV1 : anglais, allemand",
+        "idActionFormation": "AF.65195",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-03-13T00:00:00+01:00",
+        "etabId": "etab_9"
+      },
+      "LV2 : espagnol, anglais, allemand, italien_etab_9": {
+        "id": "LV2 : espagnol, anglais, allemand, italien_etab_9",
+        "uai": "0540044E",
+        "etabNom": "Lycée Arthur Varoquaux",
+        "libelle": "LV2 : espagnol, anglais, allemand, italien",
+        "idActionFormation": "AF.65195",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-03-13T00:00:00+01:00",
+        "etabId": "etab_9"
+      },
+      "Création et innovation technologiques_etab_10": {
+        "id": "Création et innovation technologiques_etab_10",
+        "uai": "0540076P",
+        "etabNom": "Lycée polyvalent Jean Zay",
+        "libelle": "Création et innovation technologiques",
+        "idActionFormation": "AF.53761",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_10"
+      },
+      "Italien_etab_10": {
+        "id": "Italien_etab_10",
+        "uai": "0540076P",
+        "etabNom": "Lycée polyvalent Jean Zay",
+        "libelle": "Italien",
+        "idActionFormation": "AF.53761",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_10"
+      },
+      "Langues et cultures de l'Antiquité : latin_etab_10": {
+        "id": "Langues et cultures de l'Antiquité : latin_etab_10",
+        "uai": "0540076P",
+        "etabNom": "Lycée polyvalent Jean Zay",
+        "libelle": "Langues et cultures de l'Antiquité : latin",
+        "idActionFormation": "AF.53761",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_10"
+      },
+      "Management et gestion_etab_10": {
+        "id": "Management et gestion_etab_10",
+        "uai": "0540076P",
+        "etabNom": "Lycée polyvalent Jean Zay",
+        "libelle": "Management et gestion",
+        "idActionFormation": "AF.53761",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_10"
+      },
+      "Sciences de l'ingénieur_etab_10": {
+        "id": "Sciences de l'ingénieur_etab_10",
+        "uai": "0540076P",
+        "etabNom": "Lycée polyvalent Jean Zay",
+        "libelle": "Sciences de l'ingénieur",
+        "idActionFormation": "AF.53761",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_10"
+      },
+      "Sciences et laboratoire_etab_10": {
+        "id": "Sciences et laboratoire_etab_10",
+        "uai": "0540076P",
+        "etabNom": "Lycée polyvalent Jean Zay",
+        "libelle": "Sciences et laboratoire",
+        "idActionFormation": "AF.53761",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_10"
+      },
+      "LV1 : anglais, allemand_etab_10": {
+        "id": "LV1 : anglais, allemand_etab_10",
+        "uai": "0540076P",
+        "etabNom": "Lycée polyvalent Jean Zay",
+        "libelle": "LV1 : anglais, allemand",
+        "idActionFormation": "AF.53761",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_10"
+      },
+      "LV2 : espagnol, anglais, allemand, italien_etab_10": {
+        "id": "LV2 : espagnol, anglais, allemand, italien_etab_10",
+        "uai": "0540076P",
+        "etabNom": "Lycée polyvalent Jean Zay",
+        "libelle": "LV2 : espagnol, anglais, allemand, italien",
+        "idActionFormation": "AF.53761",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_10"
+      },
+      "Arts : cinéma-audiovisuel_etab_4": {
+        "id": "Arts : cinéma-audiovisuel_etab_4",
+        "uai": "0541320S",
+        "etabNom": "Lycée Jean-Baptiste Vatelot",
+        "libelle": "Arts : cinéma-audiovisuel",
+        "idActionFormation": "AF.13431",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_4"
+      },
+      "Éducation physique et sportive_etab_4": {
+        "id": "Éducation physique et sportive_etab_4",
+        "uai": "0541320S",
+        "etabNom": "Lycée Jean-Baptiste Vatelot",
+        "libelle": "Éducation physique et sportive",
+        "idActionFormation": "AF.13431",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_4"
+      },
+      "Sciences et laboratoire_etab_4": {
+        "id": "Sciences et laboratoire_etab_4",
+        "uai": "0541320S",
+        "etabNom": "Lycée Jean-Baptiste Vatelot",
+        "libelle": "Sciences et laboratoire",
+        "idActionFormation": "AF.13431",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_4"
+      },
+      "LV1 : anglais_etab_4": {
+        "id": "LV1 : anglais_etab_4",
+        "uai": "0541320S",
+        "etabNom": "Lycée Jean-Baptiste Vatelot",
+        "libelle": "LV1 : anglais",
+        "idActionFormation": "AF.13431",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_4"
+      },
+      "LV2 : espagnol, allemand_etab_4": {
+        "id": "LV2 : espagnol, allemand_etab_4",
+        "uai": "0541320S",
+        "etabNom": "Lycée Jean-Baptiste Vatelot",
+        "libelle": "LV2 : espagnol, allemand",
+        "idActionFormation": "AF.13431",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_4"
+      },
+      "Arts : arts plastiques_etab_3": {
+        "id": "Arts : arts plastiques_etab_3",
+        "uai": "0541986R",
+        "etabNom": "Lycée La Malgrange",
+        "libelle": "Arts : arts plastiques",
+        "idActionFormation": "AF.13432",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_3"
+      },
+      "Arts : cinéma-audiovisuel_etab_3": {
+        "id": "Arts : cinéma-audiovisuel_etab_3",
+        "uai": "0541986R",
+        "etabNom": "Lycée La Malgrange",
+        "libelle": "Arts : cinéma-audiovisuel",
+        "idActionFormation": "AF.13432",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_3"
+      },
+      "Arts : musique_etab_3": {
+        "id": "Arts : musique_etab_3",
+        "uai": "0541986R",
+        "etabNom": "Lycée La Malgrange",
+        "libelle": "Arts : musique",
+        "idActionFormation": "AF.13432",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_3"
+      },
+      "Arts : théâtre_etab_3": {
+        "id": "Arts : théâtre_etab_3",
+        "uai": "0541986R",
+        "etabNom": "Lycée La Malgrange",
+        "libelle": "Arts : théâtre",
+        "idActionFormation": "AF.13432",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_3"
+      },
+      "Biotechnologies_etab_3": {
+        "id": "Biotechnologies_etab_3",
+        "uai": "0541986R",
+        "etabNom": "Lycée La Malgrange",
+        "libelle": "Biotechnologies",
+        "idActionFormation": "AF.13432",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_3"
+      },
+      "Espagnol_etab_3": {
+        "id": "Espagnol_etab_3",
+        "uai": "0541986R",
+        "etabNom": "Lycée La Malgrange",
+        "libelle": "Espagnol",
+        "idActionFormation": "AF.13432",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_3"
+      },
+      "Langues et cultures de l'Antiquité : grec_etab_3": {
+        "id": "Langues et cultures de l'Antiquité : grec_etab_3",
+        "uai": "0541986R",
+        "etabNom": "Lycée La Malgrange",
+        "libelle": "Langues et cultures de l'Antiquité : grec",
+        "idActionFormation": "AF.13432",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_3"
+      },
+      "Langues et cultures de l'Antiquité : latin_etab_3": {
+        "id": "Langues et cultures de l'Antiquité : latin_etab_3",
+        "uai": "0541986R",
+        "etabNom": "Lycée La Malgrange",
+        "libelle": "Langues et cultures de l'Antiquité : latin",
+        "idActionFormation": "AF.13432",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_3"
+      },
+      "Sciences et laboratoire_etab_3": {
+        "id": "Sciences et laboratoire_etab_3",
+        "uai": "0541986R",
+        "etabNom": "Lycée La Malgrange",
+        "libelle": "Sciences et laboratoire",
+        "idActionFormation": "AF.13432",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_3"
+      },
+      "LV1 : anglais, allemand_etab_3": {
+        "id": "LV1 : anglais, allemand_etab_3",
+        "uai": "0541986R",
+        "etabNom": "Lycée La Malgrange",
+        "libelle": "LV1 : anglais, allemand",
+        "idActionFormation": "AF.13432",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_3"
+      },
+      "LV2 : espagnol, anglais, allemand_etab_3": {
+        "id": "LV2 : espagnol, anglais, allemand_etab_3",
+        "uai": "0541986R",
+        "etabNom": "Lycée La Malgrange",
+        "libelle": "LV2 : espagnol, anglais, allemand",
+        "idActionFormation": "AF.13432",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_3"
+      },
+      "Création et innovation technologiques_etab_11": {
+        "id": "Création et innovation technologiques_etab_11",
+        "uai": "0540034U",
+        "etabNom": "Lycée Ernest Bichat",
+        "libelle": "Création et innovation technologiques",
+        "idActionFormation": "AF.9918",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-02T00:00:00+01:00",
+        "etabId": "etab_11"
+      },
+      "Éducation physique et sportive_etab_11": {
+        "id": "Éducation physique et sportive_etab_11",
+        "uai": "0540034U",
+        "etabNom": "Lycée Ernest Bichat",
+        "libelle": "Éducation physique et sportive",
+        "idActionFormation": "AF.9918",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-02T00:00:00+01:00",
+        "etabId": "etab_11"
+      },
+      "Espagnol_etab_11": {
+        "id": "Espagnol_etab_11",
+        "uai": "0540034U",
+        "etabNom": "Lycée Ernest Bichat",
+        "libelle": "Espagnol",
+        "idActionFormation": "AF.9918",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-02T00:00:00+01:00",
+        "etabId": "etab_11"
+      },
+      "Italien_etab_11": {
+        "id": "Italien_etab_11",
+        "uai": "0540034U",
+        "etabNom": "Lycée Ernest Bichat",
+        "libelle": "Italien",
+        "idActionFormation": "AF.9918",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-02T00:00:00+01:00",
+        "etabId": "etab_11"
+      },
+      "Langues et cultures de l'Antiquité : grec_etab_11": {
+        "id": "Langues et cultures de l'Antiquité : grec_etab_11",
+        "uai": "0540034U",
+        "etabNom": "Lycée Ernest Bichat",
+        "libelle": "Langues et cultures de l'Antiquité : grec",
+        "idActionFormation": "AF.9918",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-02T00:00:00+01:00",
+        "etabId": "etab_11"
+      },
+      "Langues et cultures de l'Antiquité : latin_etab_11": {
+        "id": "Langues et cultures de l'Antiquité : latin_etab_11",
+        "uai": "0540034U",
+        "etabNom": "Lycée Ernest Bichat",
+        "libelle": "Langues et cultures de l'Antiquité : latin",
+        "idActionFormation": "AF.9918",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-02T00:00:00+01:00",
+        "etabId": "etab_11"
+      },
+      "Management et gestion_etab_11": {
+        "id": "Management et gestion_etab_11",
+        "uai": "0540034U",
+        "etabNom": "Lycée Ernest Bichat",
+        "libelle": "Management et gestion",
+        "idActionFormation": "AF.9918",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-02T00:00:00+01:00",
+        "etabId": "etab_11"
+      },
+      "Sciences de l'ingénieur_etab_11": {
+        "id": "Sciences de l'ingénieur_etab_11",
+        "uai": "0540034U",
+        "etabNom": "Lycée Ernest Bichat",
+        "libelle": "Sciences de l'ingénieur",
+        "idActionFormation": "AF.9918",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-02T00:00:00+01:00",
+        "etabId": "etab_11"
+      },
+      "Sciences et laboratoire_etab_11": {
+        "id": "Sciences et laboratoire_etab_11",
+        "uai": "0540034U",
+        "etabNom": "Lycée Ernest Bichat",
+        "libelle": "Sciences et laboratoire",
+        "idActionFormation": "AF.9918",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-02T00:00:00+01:00",
+        "etabId": "etab_11"
+      },
+      "LV1 : anglais, allemand_etab_11": {
+        "id": "LV1 : anglais, allemand_etab_11",
+        "uai": "0540034U",
+        "etabNom": "Lycée Ernest Bichat",
+        "libelle": "LV1 : anglais, allemand",
+        "idActionFormation": "AF.9918",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-02T00:00:00+01:00",
+        "etabId": "etab_11"
+      },
+      "LV2 : espagnol, anglais, allemand, italien_etab_11": {
+        "id": "LV2 : espagnol, anglais, allemand, italien_etab_11",
+        "uai": "0540034U",
+        "etabNom": "Lycée Ernest Bichat",
+        "libelle": "LV2 : espagnol, anglais, allemand, italien",
+        "idActionFormation": "AF.9918",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-02T00:00:00+01:00",
+        "etabId": "etab_11"
+      }
+    },
+    "specialites_1ereG": {
+      "sciences économiques et sociales": {
+        "libelle": "sciences économiques et sociales"
+      },
+      "humanités, littérature et philosophie": {
+        "libelle": "humanités, littérature et philosophie"
+      },
+      "histoire-géographie, géopolitique et sciences politiques": {
+        "libelle": "histoire-géographie, géopolitique et sciences politiques"
+      },
+      "mathématiques": {
+        "libelle": "mathématiques"
+      },
+      "physique-chimie": {
+        "libelle": "physique-chimie"
+      },
+      "sciences de la vie et de la Terre": {
+        "libelle": "sciences de la vie et de la Terre"
+      },
+      "arts : arts plastiques": {
+        "libelle": "arts : arts plastiques"
+      },
+      "LLCER anglais": {
+        "libelle": "LLCER anglais"
+      },
+      "sciences de l'ingénieur": {
+        "libelle": "sciences de l'ingénieur"
+      },
+      "numérique et sciences informatiques": {
+        "libelle": "numérique et sciences informatiques"
+      },
+      "LLCER anglais - monde contemporain": {
+        "libelle": "LLCER anglais - monde contemporain"
+      },
+      "éducation physique, pratiques et culture sportives": {
+        "libelle": "éducation physique, pratiques et culture sportives"
+      },
+      "arts : cinéma - audiovisuel": {
+        "libelle": "arts : cinéma - audiovisuel"
+      },
+      "littérature et langues et cultures de l'Antiquité": {
+        "libelle": "littérature et langues et cultures de l'Antiquité"
+      }
+    },
+    "specialites_1ereG_par_etablissement": {
+      "sciences économiques et sociales_etab_2": {
+        "id": "sciences économiques et sociales_etab_2",
+        "uai": "0541305A",
+        "etabNom": "Lycée de l'Assomption",
+        "libelle": "sciences économiques et sociales",
+        "idActionFormation": "AF.6572",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_2"
+      },
+      "humanités, littérature et philosophie_etab_2": {
+        "id": "humanités, littérature et philosophie_etab_2",
+        "uai": "0541305A",
+        "etabNom": "Lycée de l'Assomption",
+        "libelle": "humanités, littérature et philosophie",
+        "idActionFormation": "AF.6572",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_2"
+      },
+      "histoire-géographie, géopolitique et sciences politiques_etab_2": {
+        "id": "histoire-géographie, géopolitique et sciences politiques_etab_2",
+        "uai": "0541305A",
+        "etabNom": "Lycée de l'Assomption",
+        "libelle": "histoire-géographie, géopolitique et sciences politiques",
+        "idActionFormation": "AF.6572",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_2"
+      },
+      "mathématiques_etab_2": {
+        "id": "mathématiques_etab_2",
+        "uai": "0541305A",
+        "etabNom": "Lycée de l'Assomption",
+        "libelle": "mathématiques",
+        "idActionFormation": "AF.6572",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_2"
+      },
+      "physique-chimie_etab_2": {
+        "id": "physique-chimie_etab_2",
+        "uai": "0541305A",
+        "etabNom": "Lycée de l'Assomption",
+        "libelle": "physique-chimie",
+        "idActionFormation": "AF.6572",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_2"
+      },
+      "sciences de la vie et de la Terre_etab_2": {
+        "id": "sciences de la vie et de la Terre_etab_2",
+        "uai": "0541305A",
+        "etabNom": "Lycée de l'Assomption",
+        "libelle": "sciences de la vie et de la Terre",
+        "idActionFormation": "AF.6572",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_2"
+      },
+      "arts : arts plastiques_etab_1": {
+        "id": "arts : arts plastiques_etab_1",
+        "uai": "0541319R",
+        "etabNom": "Lycée Saint-Dominique",
+        "libelle": "arts : arts plastiques",
+        "idActionFormation": "AF.87002",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_1"
+      },
+      "humanités, littérature et philosophie_etab_1": {
+        "id": "humanités, littérature et philosophie_etab_1",
+        "uai": "0541319R",
+        "etabNom": "Lycée Saint-Dominique",
+        "libelle": "humanités, littérature et philosophie",
+        "idActionFormation": "AF.87002",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_1"
+      },
+      "histoire-géographie, géopolitique et sciences politiques_etab_1": {
+        "id": "histoire-géographie, géopolitique et sciences politiques_etab_1",
+        "uai": "0541319R",
+        "etabNom": "Lycée Saint-Dominique",
+        "libelle": "histoire-géographie, géopolitique et sciences politiques",
+        "idActionFormation": "AF.87002",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_1"
+      },
+      "LLCER anglais_etab_1": {
+        "id": "LLCER anglais_etab_1",
+        "uai": "0541319R",
+        "etabNom": "Lycée Saint-Dominique",
+        "libelle": "LLCER anglais",
+        "idActionFormation": "AF.87002",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_1"
+      },
+      "mathématiques_etab_1": {
+        "id": "mathématiques_etab_1",
+        "uai": "0541319R",
+        "etabNom": "Lycée Saint-Dominique",
+        "libelle": "mathématiques",
+        "idActionFormation": "AF.87002",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_1"
+      },
+      "physique-chimie_etab_1": {
+        "id": "physique-chimie_etab_1",
+        "uai": "0541319R",
+        "etabNom": "Lycée Saint-Dominique",
+        "libelle": "physique-chimie",
+        "idActionFormation": "AF.87002",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_1"
+      },
+      "sciences économiques et sociales_etab_8": {
+        "id": "sciences économiques et sociales_etab_8",
+        "uai": "0541286E",
+        "etabNom": "Lycée général et technologique Louis Bertrand",
+        "libelle": "sciences économiques et sociales",
+        "idActionFormation": "AF.35300",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-10-12T00:00:00+02:00",
+        "etabId": "etab_8"
+      },
+      "sciences de l'ingénieur_etab_8": {
+        "id": "sciences de l'ingénieur_etab_8",
+        "uai": "0541286E",
+        "etabNom": "Lycée général et technologique Louis Bertrand",
+        "libelle": "sciences de l'ingénieur",
+        "idActionFormation": "AF.35300",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-10-12T00:00:00+02:00",
+        "etabId": "etab_8"
+      },
+      "histoire-géographie, géopolitique et sciences politiques_etab_8": {
+        "id": "histoire-géographie, géopolitique et sciences politiques_etab_8",
+        "uai": "0541286E",
+        "etabNom": "Lycée général et technologique Louis Bertrand",
+        "libelle": "histoire-géographie, géopolitique et sciences politiques",
+        "idActionFormation": "AF.35300",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-10-12T00:00:00+02:00",
+        "etabId": "etab_8"
+      },
+      "LLCER anglais_etab_8": {
+        "id": "LLCER anglais_etab_8",
+        "uai": "0541286E",
+        "etabNom": "Lycée général et technologique Louis Bertrand",
+        "libelle": "LLCER anglais",
+        "idActionFormation": "AF.35300",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-10-12T00:00:00+02:00",
+        "etabId": "etab_8"
+      },
+      "mathématiques_etab_8": {
+        "id": "mathématiques_etab_8",
+        "uai": "0541286E",
+        "etabNom": "Lycée général et technologique Louis Bertrand",
+        "libelle": "mathématiques",
+        "idActionFormation": "AF.35300",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-10-12T00:00:00+02:00",
+        "etabId": "etab_8"
+      },
+      "numérique et sciences informatiques_etab_8": {
+        "id": "numérique et sciences informatiques_etab_8",
+        "uai": "0541286E",
+        "etabNom": "Lycée général et technologique Louis Bertrand",
+        "libelle": "numérique et sciences informatiques",
+        "idActionFormation": "AF.35300",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-10-12T00:00:00+02:00",
+        "etabId": "etab_8"
+      },
+      "physique-chimie_etab_8": {
+        "id": "physique-chimie_etab_8",
+        "uai": "0541286E",
+        "etabNom": "Lycée général et technologique Louis Bertrand",
+        "libelle": "physique-chimie",
+        "idActionFormation": "AF.35300",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-10-12T00:00:00+02:00",
+        "etabId": "etab_8"
+      },
+      "sciences de la vie et de la Terre_etab_8": {
+        "id": "sciences de la vie et de la Terre_etab_8",
+        "uai": "0541286E",
+        "etabNom": "Lycée général et technologique Louis Bertrand",
+        "libelle": "sciences de la vie et de la Terre",
+        "idActionFormation": "AF.35300",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-10-12T00:00:00+02:00",
+        "etabId": "etab_8"
+      },
+      "sciences de l'ingénieur_etab_7": {
+        "id": "sciences de l'ingénieur_etab_7",
+        "uai": "0541270M",
+        "etabNom": "Lycée des métiers des sciences et techniques de l'électricité et de la maintenance Jean Hanzelet",
+        "libelle": "sciences de l'ingénieur",
+        "idActionFormation": "AF.40947",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2022-02-07T00:00:00+01:00",
+        "etabId": "etab_7"
+      },
+      "mathématiques_etab_7": {
+        "id": "mathématiques_etab_7",
+        "uai": "0541270M",
+        "etabNom": "Lycée des métiers des sciences et techniques de l'électricité et de la maintenance Jean Hanzelet",
+        "libelle": "mathématiques",
+        "idActionFormation": "AF.40947",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2022-02-07T00:00:00+01:00",
+        "etabId": "etab_7"
+      },
+      "numérique et sciences informatiques_etab_7": {
+        "id": "numérique et sciences informatiques_etab_7",
+        "uai": "0541270M",
+        "etabNom": "Lycée des métiers des sciences et techniques de l'électricité et de la maintenance Jean Hanzelet",
+        "libelle": "numérique et sciences informatiques",
+        "idActionFormation": "AF.40947",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2022-02-07T00:00:00+01:00",
+        "etabId": "etab_7"
+      },
+      "physique-chimie_etab_7": {
+        "id": "physique-chimie_etab_7",
+        "uai": "0541270M",
+        "etabNom": "Lycée des métiers des sciences et techniques de l'électricité et de la maintenance Jean Hanzelet",
+        "libelle": "physique-chimie",
+        "idActionFormation": "AF.40947",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2022-02-07T00:00:00+01:00",
+        "etabId": "etab_7"
+      },
+      "sciences de la vie et de la Terre_etab_7": {
+        "id": "sciences de la vie et de la Terre_etab_7",
+        "uai": "0541270M",
+        "etabNom": "Lycée des métiers des sciences et techniques de l'électricité et de la maintenance Jean Hanzelet",
+        "libelle": "sciences de la vie et de la Terre",
+        "idActionFormation": "AF.40947",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2022-02-07T00:00:00+01:00",
+        "etabId": "etab_7"
+      },
+      "LLCER anglais - monde contemporain_etab_7": {
+        "id": "LLCER anglais - monde contemporain_etab_7",
+        "uai": "0541270M",
+        "etabNom": "Lycée des métiers des sciences et techniques de l'électricité et de la maintenance Jean Hanzelet",
+        "libelle": "LLCER anglais - monde contemporain",
+        "idActionFormation": "AF.40947",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2022-02-07T00:00:00+01:00",
+        "etabId": "etab_7"
+      },
+      "sciences économiques et sociales_etab_5": {
+        "id": "sciences économiques et sociales_etab_5",
+        "uai": "0540041B",
+        "etabNom": "Lycée Georges de la Tour",
+        "libelle": "sciences économiques et sociales",
+        "idActionFormation": "AF.46721",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2024-02-19T00:00:00+01:00",
+        "etabId": "etab_5"
+      },
+      "histoire-géographie, géopolitique et sciences politiques_etab_5": {
+        "id": "histoire-géographie, géopolitique et sciences politiques_etab_5",
+        "uai": "0540041B",
+        "etabNom": "Lycée Georges de la Tour",
+        "libelle": "histoire-géographie, géopolitique et sciences politiques",
+        "idActionFormation": "AF.46721",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2024-02-19T00:00:00+01:00",
+        "etabId": "etab_5"
+      },
+      "mathématiques_etab_5": {
+        "id": "mathématiques_etab_5",
+        "uai": "0540041B",
+        "etabNom": "Lycée Georges de la Tour",
+        "libelle": "mathématiques",
+        "idActionFormation": "AF.46721",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2024-02-19T00:00:00+01:00",
+        "etabId": "etab_5"
+      },
+      "physique-chimie_etab_5": {
+        "id": "physique-chimie_etab_5",
+        "uai": "0540041B",
+        "etabNom": "Lycée Georges de la Tour",
+        "libelle": "physique-chimie",
+        "idActionFormation": "AF.46721",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2024-02-19T00:00:00+01:00",
+        "etabId": "etab_5"
+      },
+      "sciences de la vie et de la Terre_etab_5": {
+        "id": "sciences de la vie et de la Terre_etab_5",
+        "uai": "0540041B",
+        "etabNom": "Lycée Georges de la Tour",
+        "libelle": "sciences de la vie et de la Terre",
+        "idActionFormation": "AF.46721",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2024-02-19T00:00:00+01:00",
+        "etabId": "etab_5"
+      },
+      "éducation physique, pratiques et culture sportives_etab_5": {
+        "id": "éducation physique, pratiques et culture sportives_etab_5",
+        "uai": "0540041B",
+        "etabNom": "Lycée Georges de la Tour",
+        "libelle": "éducation physique, pratiques et culture sportives",
+        "idActionFormation": "AF.46721",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2024-02-19T00:00:00+01:00",
+        "etabId": "etab_5"
+      },
+      "LLCER anglais - monde contemporain_etab_5": {
+        "id": "LLCER anglais - monde contemporain_etab_5",
+        "uai": "0540041B",
+        "etabNom": "Lycée Georges de la Tour",
+        "libelle": "LLCER anglais - monde contemporain",
+        "idActionFormation": "AF.46721",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2024-02-19T00:00:00+01:00",
+        "etabId": "etab_5"
+      },
+      "sciences économiques et sociales_etab_6": {
+        "id": "sciences économiques et sociales_etab_6",
+        "uai": "0542208G",
+        "etabNom": "Lycée des métiers de l'hôtellerie-restauration et de l'alimentation Stanislas",
+        "libelle": "sciences économiques et sociales",
+        "idActionFormation": "AF.58007",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_6"
+      },
+      "histoire-géographie, géopolitique et sciences politiques_etab_6": {
+        "id": "histoire-géographie, géopolitique et sciences politiques_etab_6",
+        "uai": "0542208G",
+        "etabNom": "Lycée des métiers de l'hôtellerie-restauration et de l'alimentation Stanislas",
+        "libelle": "histoire-géographie, géopolitique et sciences politiques",
+        "idActionFormation": "AF.58007",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_6"
+      },
+      "LLCER anglais_etab_6": {
+        "id": "LLCER anglais_etab_6",
+        "uai": "0542208G",
+        "etabNom": "Lycée des métiers de l'hôtellerie-restauration et de l'alimentation Stanislas",
+        "libelle": "LLCER anglais",
+        "idActionFormation": "AF.58007",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_6"
+      },
+      "mathématiques_etab_6": {
+        "id": "mathématiques_etab_6",
+        "uai": "0542208G",
+        "etabNom": "Lycée des métiers de l'hôtellerie-restauration et de l'alimentation Stanislas",
+        "libelle": "mathématiques",
+        "idActionFormation": "AF.58007",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_6"
+      },
+      "numérique et sciences informatiques_etab_6": {
+        "id": "numérique et sciences informatiques_etab_6",
+        "uai": "0542208G",
+        "etabNom": "Lycée des métiers de l'hôtellerie-restauration et de l'alimentation Stanislas",
+        "libelle": "numérique et sciences informatiques",
+        "idActionFormation": "AF.58007",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_6"
+      },
+      "physique-chimie_etab_6": {
+        "id": "physique-chimie_etab_6",
+        "uai": "0542208G",
+        "etabNom": "Lycée des métiers de l'hôtellerie-restauration et de l'alimentation Stanislas",
+        "libelle": "physique-chimie",
+        "idActionFormation": "AF.58007",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_6"
+      },
+      "sciences de la vie et de la Terre_etab_6": {
+        "id": "sciences de la vie et de la Terre_etab_6",
+        "uai": "0542208G",
+        "etabNom": "Lycée des métiers de l'hôtellerie-restauration et de l'alimentation Stanislas",
+        "libelle": "sciences de la vie et de la Terre",
+        "idActionFormation": "AF.58007",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_6"
+      },
+      "sciences économiques et sociales_etab_10": {
+        "id": "sciences économiques et sociales_etab_10",
+        "uai": "0540076P",
+        "etabNom": "Lycée polyvalent Jean Zay",
+        "libelle": "sciences économiques et sociales",
+        "idActionFormation": "AF.80929",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_10"
+      },
+      "humanités, littérature et philosophie_etab_10": {
+        "id": "humanités, littérature et philosophie_etab_10",
+        "uai": "0540076P",
+        "etabNom": "Lycée polyvalent Jean Zay",
+        "libelle": "humanités, littérature et philosophie",
+        "idActionFormation": "AF.80929",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_10"
+      },
+      "sciences de l'ingénieur_etab_10": {
+        "id": "sciences de l'ingénieur_etab_10",
+        "uai": "0540076P",
+        "etabNom": "Lycée polyvalent Jean Zay",
+        "libelle": "sciences de l'ingénieur",
+        "idActionFormation": "AF.80929",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_10"
+      },
+      "histoire-géographie, géopolitique et sciences politiques_etab_10": {
+        "id": "histoire-géographie, géopolitique et sciences politiques_etab_10",
+        "uai": "0540076P",
+        "etabNom": "Lycée polyvalent Jean Zay",
+        "libelle": "histoire-géographie, géopolitique et sciences politiques",
+        "idActionFormation": "AF.80929",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_10"
+      },
+      "LLCER anglais_etab_10": {
+        "id": "LLCER anglais_etab_10",
+        "uai": "0540076P",
+        "etabNom": "Lycée polyvalent Jean Zay",
+        "libelle": "LLCER anglais",
+        "idActionFormation": "AF.80929",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_10"
+      },
+      "mathématiques_etab_10": {
+        "id": "mathématiques_etab_10",
+        "uai": "0540076P",
+        "etabNom": "Lycée polyvalent Jean Zay",
+        "libelle": "mathématiques",
+        "idActionFormation": "AF.80929",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_10"
+      },
+      "physique-chimie_etab_10": {
+        "id": "physique-chimie_etab_10",
+        "uai": "0540076P",
+        "etabNom": "Lycée polyvalent Jean Zay",
+        "libelle": "physique-chimie",
+        "idActionFormation": "AF.80929",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_10"
+      },
+      "sciences de la vie et de la Terre_etab_10": {
+        "id": "sciences de la vie et de la Terre_etab_10",
+        "uai": "0540076P",
+        "etabNom": "Lycée polyvalent Jean Zay",
+        "libelle": "sciences de la vie et de la Terre",
+        "idActionFormation": "AF.80929",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2020-06-06T00:00:00+02:00",
+        "etabId": "etab_10"
+      },
+      "sciences économiques et sociales_etab_4": {
+        "id": "sciences économiques et sociales_etab_4",
+        "uai": "0541320S",
+        "etabNom": "Lycée Jean-Baptiste Vatelot",
+        "libelle": "sciences économiques et sociales",
+        "idActionFormation": "AF.29553",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-14T00:00:00+01:00",
+        "etabId": "etab_4"
+      },
+      "histoire-géographie, géopolitique et sciences politiques_etab_4": {
+        "id": "histoire-géographie, géopolitique et sciences politiques_etab_4",
+        "uai": "0541320S",
+        "etabNom": "Lycée Jean-Baptiste Vatelot",
+        "libelle": "histoire-géographie, géopolitique et sciences politiques",
+        "idActionFormation": "AF.29553",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-14T00:00:00+01:00",
+        "etabId": "etab_4"
+      },
+      "mathématiques_etab_4": {
+        "id": "mathématiques_etab_4",
+        "uai": "0541320S",
+        "etabNom": "Lycée Jean-Baptiste Vatelot",
+        "libelle": "mathématiques",
+        "idActionFormation": "AF.29553",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-14T00:00:00+01:00",
+        "etabId": "etab_4"
+      },
+      "physique-chimie_etab_4": {
+        "id": "physique-chimie_etab_4",
+        "uai": "0541320S",
+        "etabNom": "Lycée Jean-Baptiste Vatelot",
+        "libelle": "physique-chimie",
+        "idActionFormation": "AF.29553",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-14T00:00:00+01:00",
+        "etabId": "etab_4"
+      },
+      "sciences de la vie et de la Terre_etab_4": {
+        "id": "sciences de la vie et de la Terre_etab_4",
+        "uai": "0541320S",
+        "etabNom": "Lycée Jean-Baptiste Vatelot",
+        "libelle": "sciences de la vie et de la Terre",
+        "idActionFormation": "AF.29553",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-14T00:00:00+01:00",
+        "etabId": "etab_4"
+      },
+      "LLCER anglais - monde contemporain_etab_4": {
+        "id": "LLCER anglais - monde contemporain_etab_4",
+        "uai": "0541320S",
+        "etabNom": "Lycée Jean-Baptiste Vatelot",
+        "libelle": "LLCER anglais - monde contemporain",
+        "idActionFormation": "AF.29553",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-14T00:00:00+01:00",
+        "etabId": "etab_4"
+      },
+      "sciences économiques et sociales_etab_9": {
+        "id": "sciences économiques et sociales_etab_9",
+        "uai": "0540044E",
+        "etabNom": "Lycée Arthur Varoquaux",
+        "libelle": "sciences économiques et sociales",
+        "idActionFormation": "AF.46760",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-03T00:00:00+01:00",
+        "etabId": "etab_9"
+      },
+      "arts : arts plastiques_etab_9": {
+        "id": "arts : arts plastiques_etab_9",
+        "uai": "0540044E",
+        "etabNom": "Lycée Arthur Varoquaux",
+        "libelle": "arts : arts plastiques",
+        "idActionFormation": "AF.46760",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-03T00:00:00+01:00",
+        "etabId": "etab_9"
+      },
+      "humanités, littérature et philosophie_etab_9": {
+        "id": "humanités, littérature et philosophie_etab_9",
+        "uai": "0540044E",
+        "etabNom": "Lycée Arthur Varoquaux",
+        "libelle": "humanités, littérature et philosophie",
+        "idActionFormation": "AF.46760",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-03T00:00:00+01:00",
+        "etabId": "etab_9"
+      },
+      "histoire-géographie, géopolitique et sciences politiques_etab_9": {
+        "id": "histoire-géographie, géopolitique et sciences politiques_etab_9",
+        "uai": "0540044E",
+        "etabNom": "Lycée Arthur Varoquaux",
+        "libelle": "histoire-géographie, géopolitique et sciences politiques",
+        "idActionFormation": "AF.46760",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-03T00:00:00+01:00",
+        "etabId": "etab_9"
+      },
+      "LLCER anglais_etab_9": {
+        "id": "LLCER anglais_etab_9",
+        "uai": "0540044E",
+        "etabNom": "Lycée Arthur Varoquaux",
+        "libelle": "LLCER anglais",
+        "idActionFormation": "AF.46760",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-03T00:00:00+01:00",
+        "etabId": "etab_9"
+      },
+      "mathématiques_etab_9": {
+        "id": "mathématiques_etab_9",
+        "uai": "0540044E",
+        "etabNom": "Lycée Arthur Varoquaux",
+        "libelle": "mathématiques",
+        "idActionFormation": "AF.46760",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-03T00:00:00+01:00",
+        "etabId": "etab_9"
+      },
+      "physique-chimie_etab_9": {
+        "id": "physique-chimie_etab_9",
+        "uai": "0540044E",
+        "etabNom": "Lycée Arthur Varoquaux",
+        "libelle": "physique-chimie",
+        "idActionFormation": "AF.46760",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-03T00:00:00+01:00",
+        "etabId": "etab_9"
+      },
+      "sciences de la vie et de la Terre_etab_9": {
+        "id": "sciences de la vie et de la Terre_etab_9",
+        "uai": "0540044E",
+        "etabNom": "Lycée Arthur Varoquaux",
+        "libelle": "sciences de la vie et de la Terre",
+        "idActionFormation": "AF.46760",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-03T00:00:00+01:00",
+        "etabId": "etab_9"
+      },
+      "LLCER anglais - monde contemporain_etab_9": {
+        "id": "LLCER anglais - monde contemporain_etab_9",
+        "uai": "0540044E",
+        "etabNom": "Lycée Arthur Varoquaux",
+        "libelle": "LLCER anglais - monde contemporain",
+        "idActionFormation": "AF.46760",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-03T00:00:00+01:00",
+        "etabId": "etab_9"
+      },
+      "numérique et sciences informatiques_etab_9": {
+        "id": "numérique et sciences informatiques_etab_9",
+        "uai": "0540044E",
+        "etabNom": "Lycée Arthur Varoquaux",
+        "libelle": "numérique et sciences informatiques",
+        "idActionFormation": "AF.46760",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2025-02-03T00:00:00+01:00",
+        "etabId": "etab_9"
+      },
+      "sciences économiques et sociales_etab_3": {
+        "id": "sciences économiques et sociales_etab_3",
+        "uai": "0541986R",
+        "etabNom": "Lycée La Malgrange",
+        "libelle": "sciences économiques et sociales",
+        "idActionFormation": "AF.57962",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-14T00:00:00+01:00",
+        "etabId": "etab_3"
+      },
+      "humanités, littérature et philosophie_etab_3": {
+        "id": "humanités, littérature et philosophie_etab_3",
+        "uai": "0541986R",
+        "etabNom": "Lycée La Malgrange",
+        "libelle": "humanités, littérature et philosophie",
+        "idActionFormation": "AF.57962",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-14T00:00:00+01:00",
+        "etabId": "etab_3"
+      },
+      "histoire-géographie, géopolitique et sciences politiques_etab_3": {
+        "id": "histoire-géographie, géopolitique et sciences politiques_etab_3",
+        "uai": "0541986R",
+        "etabNom": "Lycée La Malgrange",
+        "libelle": "histoire-géographie, géopolitique et sciences politiques",
+        "idActionFormation": "AF.57962",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-14T00:00:00+01:00",
+        "etabId": "etab_3"
+      },
+      "mathématiques_etab_3": {
+        "id": "mathématiques_etab_3",
+        "uai": "0541986R",
+        "etabNom": "Lycée La Malgrange",
+        "libelle": "mathématiques",
+        "idActionFormation": "AF.57962",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-14T00:00:00+01:00",
+        "etabId": "etab_3"
+      },
+      "numérique et sciences informatiques_etab_3": {
+        "id": "numérique et sciences informatiques_etab_3",
+        "uai": "0541986R",
+        "etabNom": "Lycée La Malgrange",
+        "libelle": "numérique et sciences informatiques",
+        "idActionFormation": "AF.57962",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-14T00:00:00+01:00",
+        "etabId": "etab_3"
+      },
+      "physique-chimie_etab_3": {
+        "id": "physique-chimie_etab_3",
+        "uai": "0541986R",
+        "etabNom": "Lycée La Malgrange",
+        "libelle": "physique-chimie",
+        "idActionFormation": "AF.57962",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-14T00:00:00+01:00",
+        "etabId": "etab_3"
+      },
+      "sciences de la vie et de la Terre_etab_3": {
+        "id": "sciences de la vie et de la Terre_etab_3",
+        "uai": "0541986R",
+        "etabNom": "Lycée La Malgrange",
+        "libelle": "sciences de la vie et de la Terre",
+        "idActionFormation": "AF.57962",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-14T00:00:00+01:00",
+        "etabId": "etab_3"
+      },
+      "arts : cinéma - audiovisuel_etab_3": {
+        "id": "arts : cinéma - audiovisuel_etab_3",
+        "uai": "0541986R",
+        "etabNom": "Lycée La Malgrange",
+        "libelle": "arts : cinéma - audiovisuel",
+        "idActionFormation": "AF.57962",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-14T00:00:00+01:00",
+        "etabId": "etab_3"
+      },
+      "LLCER anglais - monde contemporain_etab_3": {
+        "id": "LLCER anglais - monde contemporain_etab_3",
+        "uai": "0541986R",
+        "etabNom": "Lycée La Malgrange",
+        "libelle": "LLCER anglais - monde contemporain",
+        "idActionFormation": "AF.57962",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-14T00:00:00+01:00",
+        "etabId": "etab_3"
+      },
+      "sciences économiques et sociales_etab_11": {
+        "id": "sciences économiques et sociales_etab_11",
+        "uai": "0540034U",
+        "etabNom": "Lycée Ernest Bichat",
+        "libelle": "sciences économiques et sociales",
+        "idActionFormation": "AF.92796",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-02T00:00:00+01:00",
+        "etabId": "etab_11"
+      },
+      "humanités, littérature et philosophie_etab_11": {
+        "id": "humanités, littérature et philosophie_etab_11",
+        "uai": "0540034U",
+        "etabNom": "Lycée Ernest Bichat",
+        "libelle": "humanités, littérature et philosophie",
+        "idActionFormation": "AF.92796",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-02T00:00:00+01:00",
+        "etabId": "etab_11"
+      },
+      "histoire-géographie, géopolitique et sciences politiques_etab_11": {
+        "id": "histoire-géographie, géopolitique et sciences politiques_etab_11",
+        "uai": "0540034U",
+        "etabNom": "Lycée Ernest Bichat",
+        "libelle": "histoire-géographie, géopolitique et sciences politiques",
+        "idActionFormation": "AF.92796",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-02T00:00:00+01:00",
+        "etabId": "etab_11"
+      },
+      "LLCER anglais_etab_11": {
+        "id": "LLCER anglais_etab_11",
+        "uai": "0540034U",
+        "etabNom": "Lycée Ernest Bichat",
+        "libelle": "LLCER anglais",
+        "idActionFormation": "AF.92796",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-02T00:00:00+01:00",
+        "etabId": "etab_11"
+      },
+      "mathématiques_etab_11": {
+        "id": "mathématiques_etab_11",
+        "uai": "0540034U",
+        "etabNom": "Lycée Ernest Bichat",
+        "libelle": "mathématiques",
+        "idActionFormation": "AF.92796",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-02T00:00:00+01:00",
+        "etabId": "etab_11"
+      },
+      "littérature et langues et cultures de l'Antiquité_etab_11": {
+        "id": "littérature et langues et cultures de l'Antiquité_etab_11",
+        "uai": "0540034U",
+        "etabNom": "Lycée Ernest Bichat",
+        "libelle": "littérature et langues et cultures de l'Antiquité",
+        "idActionFormation": "AF.92796",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-02T00:00:00+01:00",
+        "etabId": "etab_11"
+      },
+      "numérique et sciences informatiques_etab_11": {
+        "id": "numérique et sciences informatiques_etab_11",
+        "uai": "0540034U",
+        "etabNom": "Lycée Ernest Bichat",
+        "libelle": "numérique et sciences informatiques",
+        "idActionFormation": "AF.92796",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-02T00:00:00+01:00",
+        "etabId": "etab_11"
+      },
+      "physique-chimie_etab_11": {
+        "id": "physique-chimie_etab_11",
+        "uai": "0540034U",
+        "etabNom": "Lycée Ernest Bichat",
+        "libelle": "physique-chimie",
+        "idActionFormation": "AF.92796",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-02T00:00:00+01:00",
+        "etabId": "etab_11"
+      },
+      "sciences de la vie et de la Terre_etab_11": {
+        "id": "sciences de la vie et de la Terre_etab_11",
+        "uai": "0540034U",
+        "etabNom": "Lycée Ernest Bichat",
+        "libelle": "sciences de la vie et de la Terre",
+        "idActionFormation": "AF.92796",
+        "dateCreation": "2020-06-06T00:00:00+02:00",
+        "dateModification": "2023-02-02T00:00:00+01:00",
+        "etabId": "etab_11"
+      }
+    },
+    "diplomes_apprentissage": {},
+    "diplomes_apprentissage_par_etablissement": {},
+    "autres_formations_par_etablissement": {
+      "etab_2": [
+        {
+          "libelle": "classe de 2de générale et technologique",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de générale et technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re générale",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re générale",
+          "source": "onisep"
+        }
+      ],
+      "etab_1": [
+        {
+          "libelle": "classe de 2de générale et technologique",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de générale et technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re générale",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re générale",
+          "source": "onisep"
+        }
+      ],
+      "etab_3": [
+        {
+          "libelle": "classe de 1re générale",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re générale",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de générale et technologique",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de générale et technologique",
+          "source": "onisep"
+        }
+      ],
+      "etab_4": [
+        {
+          "libelle": "classe de 2de générale et technologique",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de générale et technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re générale",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re générale",
+          "source": "onisep"
+        }
+      ],
+      "etab_5": [
+        {
+          "libelle": "classe de 2de générale et technologique",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de générale et technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re STMG sciences et technologies du management et de la gestion",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re générale",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re générale",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS comptabilité et gestion",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS professions immobilières",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS collaborateur juriste notarial",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "diplôme de comptabilité et de gestion",
+          "niveau": "bac + 3",
+          "typeDiplome": "autre diplôme d'État",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS assurance",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        }
+      ],
+      "etab_6": [
+        {
+          "libelle": "classe de 1re générale",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re générale",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de spécifique conduisant au bac STHR Sciences et technologies de l'hôtellerie et de la restauration",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de spécifique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "CS desserts de restaurant",
+          "niveau": "CAP ou équivalent + 1 an",
+          "typeDiplome": "certificat de spécialisation",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de professionnelle métiers de l'alimentation",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de professionnelle métiers de l'hôtellerie-restauration",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re STHR sciences et technologies de l'hôtellerie et de la restauration",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de générale et technologique",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de générale et technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS management en hôtellerie restauration option B management d'unité de production culinaire",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS management en hôtellerie restauration option C management d'unité d'hébergement",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS tourisme",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS management en hôtellerie restauration option A management d'unité de restauration",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS contrôle industriel et régulation automatique",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        }
+      ],
+      "etab_7": [
+        {
+          "libelle": "classe de 2de générale et technologique",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de générale et technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re générale",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re générale",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de professionnelle métiers de la relation client",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de professionnelle métiers du pilotage et de la maintenance d'installations automatisées",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de professionnelle métiers des transitions numérique et énergétique",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re STI2D sciences et technologies de l'industrie et du développement durable",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS maintenance des systèmes option A systèmes de production",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS électrotechnique",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        }
+      ],
+      "etab_8": [
+        {
+          "libelle": "classe de 1re STL sciences et technologies de laboratoire",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re ST2S sciences et technologies de la santé et du social",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re STMG sciences et technologies du management et de la gestion",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de générale et technologique",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de générale et technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de professionnelle métiers de la relation client",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re générale",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re générale",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS négociation et digitalisation de la relation client",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        }
+      ],
+      "etab_9": [
+        {
+          "libelle": "classe de 1re STL sciences et technologies de laboratoire",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de générale et technologique",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de générale et technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re générale",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re générale",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re STMG sciences et technologies du management et de la gestion",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re ST2S sciences et technologies de la santé et du social",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS métiers de la mesure",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS économie sociale et familiale",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS services et prestations des secteurs sanitaire et social",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS biologie médicale",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "diplôme d'État de conseiller en économie sociale familiale",
+          "niveau": "bac + 3",
+          "typeDiplome": "diplôme d'État du travail social",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS biotechnologie en recherche et en production",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS métiers de l'eau",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        }
+      ],
+      "etab_10": [
+        {
+          "libelle": "classe de 2de professionnelle métiers de la relation client",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re STI2D sciences et technologies de l'industrie et du développement durable",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re générale",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re générale",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de professionnelle métiers de l'aéronautique",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re STMG sciences et technologies du management et de la gestion",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de générale et technologique",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de générale et technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de professionnelle métiers des transitions numérique et énergétique",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 2de professionnelle métiers du pilotage et de la maintenance d'installations automatisées",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de professionnelle",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS comptabilité et gestion",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS aéronautique",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS cybersécurité, informatique et réseaux, électronique option A informatique et réseaux",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        }
+      ],
+      "etab_11": [
+        {
+          "libelle": "classe de 2de générale et technologique",
+          "niveau": "seconde",
+          "typeDiplome": "classe de 2de générale et technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re générale",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re générale",
+          "source": "onisep"
+        },
+        {
+          "libelle": "classe de 1re STMG sciences et technologies du management et de la gestion",
+          "niveau": "1re",
+          "typeDiplome": "classe de 1re technologique",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS banque",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        },
+        {
+          "libelle": "BTS management commercial opérationnel",
+          "niveau": "bac + 2",
+          "typeDiplome": "brevet de technicien supérieur",
+          "source": "onisep"
+        }
+      ]
+    },
+    "langues": {}
+  }
+}
