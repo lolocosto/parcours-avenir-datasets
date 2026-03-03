@@ -2,6 +2,28 @@
   "version": "1.0",
   "datasets": [
     {
+      "filename": "dept_22_bac_general_2026-03-03.json",
+      "nom": "dépt : 22 — bac général",
+      "typeRecherche": "diplomes",
+      "dateExtraction": "2026-03-03T12:17:03.106Z",
+      "dateUpload": "2026-03-03T12:17:04.559Z",
+      "appVersion": "0.65",
+      "stats": {
+        "etablissements": 23,
+        "diplomes": 53,
+        "diplomes_par_etablissement": 130,
+        "dispositifs": 11,
+        "dispositifs_par_etablissement": 48,
+        "options_2nde_gt": 44,
+        "options_2nde_gt_par_etablissement": 181,
+        "specialites_1ereG": 20,
+        "specialites_1ereG_par_etablissement": 188,
+        "diplomes_apprentissage": 0,
+        "diplomes_apprentissage_par_etablissement": 0,
+        "langues": 0
+      }
+    },
+    {
       "filename": "rennes_metropole_scolaire_2026-03-02.json",
       "nom": "Rennes Métropole — scolaire",
       "typeRecherche": "geo",
@@ -68,5 +90,5 @@
       }
     }
   ],
-  "lastModified": "2026-03-02T23:26:58.095Z"
+  "lastModified": "2026-03-03T12:17:04.735Z"
 }
